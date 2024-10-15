@@ -1,0 +1,864 @@
+igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
+1,Q795365,Thief II: The Metal Age,Abandoned,PC,2022-11-28,2000-03-21,0
+3,Q795360,Thief: Deadly Shadows,Abandoned,PC,2022-11-28,2004-05-25,0
+4,Q4051399,Thief,Abandoned,PC,2022-11-28,2014-02-27,0
+16,Q753749,Fallout: New Vegas,Abandoned,PC,2021-12-25,2010-10-19,0
+18,Q1175156,Max Payne,Completed,PC,2020-11-25,2001-07-23,3
+19,Q946795,Max Payne 2: The Fall of Max Payne,Abandoned,PC,,2003-10-23,0
+20,Q57270,BioShock,Completed,PC,,2007-08-20,6
+21,Q302839,BioShock 2,Completed,PC,,2010-02-08,5
+37,Q729074,Dead Space,Abandoned,X360,2021-12-22,2008-10-14,0
+38,Q842431,Dead Space 2,Abandoned,PC,2021-12-22,2011-01-24,0
+40,Q59154,Mafia II,Abandoned,PC,,2010-08-23,0
+42,Q252198,Deus Ex: Invisible War,Abandoned,PC,2020-11-25,2003-12-02,0
+43,Q642107,Deus Ex: Human Revolution,Completed,PC,2020-11-25,2011-08-23,5
+56,Q718448,The Elder Scrolls III: Morrowind,Abandoned,PC,2021-12-22,2002-05-01,0
+59,Q49607,The Elder Scrolls IV: Oblivion,Abandoned,PC,2021-12-22,2006-03-20,0
+62,Q1137217,The Curse of Monkey Island,Abandoned,PC,2023-08-20,1997-10-31,0
+63,Q1164863,Escape from Monkey Island,Abandoned,PC,,2000-11-08,0
+65,Q979472,The Secret of Monkey Island: Special Edition,Abandoned,PC,,2009-07-15,0
+66,Q113012980,Monkey Island 2 Special Edition: LeChuck's Revenge,Abandoned,PC,2023-08-20,2010-07-07,0
+71,Q274897,Portal,Completed,PC,2010-05-12,2007-10-10,10
+72,Q279446,Portal 2,Completed,PC,,2011-04-18,10
+73,Q275960,Mass Effect,Completed,X360,,2007-11-19,6
+74,Q725057,Mass Effect 2,Completed,X360,2021-02-11,2010-01-26,8
+75,Q753511,Mass Effect 3,Completed,X360,,2012-03-05,7
+109,Q1129094,L.A. Noire,Completed,PS3,2011-05-16,2011-05-16,8
+113,Q677351,Assassin's Creed Brotherhood,Abandoned,PC,2020-10-13,2011-03-20,0
+114,Q737308,Star Wars: The Old Republic,Abandoned,PC,,2011-12-20,0
+116,Q725902,Star Wars: Knights of the Old Republic,Abandoned,PC,2021-05-02,2003-11-19,0
+117,Q2701341,The Last Guardian,Completed,PS4,2016-12-06,2016-12-06,6
+118,Q74669,Star Wars: Knights of the Old Republic II - The Sith Lords,Abandoned,PC,2021-05-02,2005-02-08,0
+122,Q323981,Left 4 Dead,Completed,PC,,2008-11-17,7
+124,Q472909,Left 4 Dead 2,Completed,PC,2009-12-03,2009-11-17,7
+127,Q211735,Assassin's Creed II,Abandoned,PC,2020-10-13,2010-03-09,0
+137,Q74539,Star Wars: The Force Unleashed II,Abandoned,PC,2021-05-02,2010-10-26,0
+141,Q54859,Star Wars: Battlefront,Abandoned,PC,,2004-09-19,0
+142,Q54865,Star Wars: Battlefront II,Abandoned,PC,2021-05-04,2005-10-31,0
+148,Q862542,Star Wars: Republic Commando,Abandoned,PC,2021-05-02,2005-03-01,0
+149,Q55225,Star Wars: Starfighter,Abandoned,PC,2021-05-02,2002-01-22,0
+150,Q55291,Star Wars: Jedi Knight - Dark Forces II,Abandoned,PC,2020-10-06,1997-09-30,0
+151,Q2389272,Star Wars: Rebellion,Abandoned,PC,2021-05-02,1998-02-28,0
+152,Q55298,Star Wars: Jedi Knight II - Jedi Outcast,Completed,PC,2002-03-25,2002-03-26,9
+153,Q55295,Star Wars: Jedi Knight - Jedi Academy,Completed,PC,,2003-09-16,7
+154,Q55217,Star Wars: Episode I - Racer,Abandoned,PC,,1999-05-17,0
+157,Q55287,Star Wars: Dark Forces,Abandoned,PC,2020-10-06,2009-09-16,0
+160,Q55301,Star Wars: Jedi Knight - Mysteries of the Sith,Abandoned,PC,,1998-02-23,0
+163,Q54297,Star Wars: Rogue Squadron,Abandoned,PC,2021-05-02,1998-12-02,0
+169,Q55313,Star Wars: X-Wing Alliance,Abandoned,PC,2021-05-02,1999-02-28,0
+172,Q29649947,Star Wars: X-Wing vs. TIE Fighter - Balance of Power,Abandoned,PC,2021-05-02,1997-04-30,0
+210,Q54850,Star Wars: The Clone Wars - Republic Heroes,Abandoned,PC,2021-05-02,2009-10-06,0
+231,Q279744,Half-Life,Completed,PC,2008-11-20,1998-11-27,7
+232,Q693937,Half-Life: Opposing Force,Abandoned,PC,,1999-11-09,0
+233,Q193581,Half-Life 2,Completed,PC,,2004-11-15,5
+241,Q163628,Counter-Strike,Abandoned,PC,,2000-11-08,0
+247,Q553308,Half-Life 2: Episode Two,Abandoned,PC,,2007-10-09,0
+277,Q206653,Battlefield 2,Completed,PC,2010-06-15,2005-06-21,10
+280,Q203310,DOOM 3,Abandoned,PC,,2004-08-02,0
+281,Q748317,Return to Castle Wolfenstein,Completed,PC,2011-06-05,2001-11-19,9
+284,Q18940,Wolfenstein 3D,Abandoned,PC,2022-09-23,2007-08-03,0
+286,Q737103,Quake II,Abandoned,PC,,1997-12-09,0
+297,Q847820,Counter-Strike: Condition Zero,Abandoned,PC,,2004-03-22,0
+306,Q337865,Far Cry,Abandoned,PC,,2004-03-22,0
+307,Q473673,Counter-Strike: Source,Completed,PC,,2004-10-31,8
+312,Q755186,Doom II: Hell on Earth,Completed,PC,2020-08-09,1995-12-31,7
+321,Q633046,Command & Conquer 3: Tiberium Wars,Abandoned,PC,,2007-03-28,0
+333,Q217423,Quake,Abandoned,PC,1996-06-21,1996-06-22,0
+338,Q18951,Half-Life 2: Episode One,Abandoned,PC,,2006-05-31,0
+339,Q374556,The Orange Box,Completed,X360,2007-10-10,2007-10-10,0
+343,Q791454,Battlefield 3,Completed,PC,,2011-10-24,10
+351,Q811018,Battlefield 1943,Completed,X360,,2009-07-07,9
+352,Q676563,Battlefield: Bad Company 2,Completed,PC,,2010-03-01,6
+355,Q726545,Quake III Arena,Abandoned,PC,,1999-12-02,0
+356,Q290534,Quake 4,Abandoned,PC,,2005-10-18,0
+361,Q176336,Far Cry 2,Abandoned,PC,,2008-10-20,0
+375,Q6582527,Metal Gear Solid,Completed,PC,2023-07-02,2000-09-25,9
+376,Q907226,Metal Gear Solid 2: Sons of Liberty,Completed,PS2,2001-11-12,2001-11-13,10
+378,Q930345,Metal Gear Rising: Revengeance,Completed,X360,,2013-02-18,6
+379,Q247935,Metal Gear Solid 3: Snake Eater,Completed,PS2,2023-07-02,2004-11-17,8
+382,Q2005935,Metal Gear Solid: Peace Walker,Queued,PS3,2023-07-02,2011-11-08,0
+429,Q585271,Call of Juarez,Abandoned,PC,2023-08-20,2006-09-07,0
+430,Q1027129,Call of Juarez: Bound In Blood,Abandoned,PC,,2009-06-30,0
+434,Q548203,Red Dead Redemption,Completed,X360,2010-05-17,2010-05-18,9
+473,Q648128,Battlefield: Bad Company,Completed,X360,,2008-06-22,6
+493,Q647855,Heavy Rain,Completed,PC,,2020-06-17,4
+500,Q746228,Batman: Arkham Asylum,Completed,X360,,2009-08-24,9
+501,Q288811,Batman: Arkham City,Completed,X360,,2011-10-17,8
+529,Q796529,Far Cry 3,Completed,PC,,2012-11-27,5
+530,Q129277,Hitman: Absolution,Completed,X360,2020-10-22,2012-11-20,7
+533,Q323264,Dishonored,Completed,PC,,2012-10-08,8
+537,Q739654,Assassin's Creed Revelations,Abandoned,PC,2022-09-16,2011-11-15,0
+538,Q2074746,BioShock Infinite,Completed,PC,2020-10-06,2013-03-25,6
+539,Q569898,Metro: Last Light,Abandoned,PC,2020-11-25,2013-05-14,0
+545,Q207986,Call of Duty: Black Ops,Abandoned,PC,,2010-11-08,0
+546,Q1535818,Prey,Abandoned,PC,,2006-07-11,0
+559,Q486351,Call of Duty: Modern Warfare 2,Abandoned,PC,,2009-11-09,0
+562,Q907508,Tom Clancy's Splinter Cell: Conviction,Abandoned,PC,2020-11-25,2010-04-13,0
+607,Q3636869,Battlefield: Bad Company 2 Vietnam,Completed,PC,,2010-12-17,7
+621,Q211096,Call of Duty,Completed,PC,,2003-10-28,8
+622,Q210298,Call of Duty 2,Completed,PC,,2005-10-24,8
+623,Q76255,Call of Duty 4: Modern Warfare,Abandoned,PC,,2007-11-04,0
+624,Q846863,Call of Duty: United Offensive,Abandoned,PC,,2004-09-13,0
+625,Q207797,Call of Duty: World at War,Abandoned,PC,,2008-11-10,0
+649,Q820217,Command & Conquer: Generals,Abandoned,PC,,2003-02-10,0
+650,Q1069497,Command & Conquer: Generals - Zero Hour,Abandoned,PC,,2003-09-22,0
+667,Q2319900,Descent 3,Abandoned,PC,,1999-06-17,0
+668,Q1444699,Descent II,Abandoned,PC,,1996-03-13,0
+670,Q634893,Command & Conquer 4: Tiberian Twilight,Abandoned,PC,,2010-03-16,0
+671,Q1230674,Divine Divinity,Abandoned,PC,,2002-09-22,0
+672,Q572500,DOOM 3: Resurrection of Evil,Abandoned,PC,,2005-04-03,0
+706,,Command & Conquer: Renegade,Abandoned,PC,,2002-02-26,0
+707,,Command & Conquer 3: Kane's Wrath,Abandoned,PC,,2008-03-24,0
+730,Q149106,Grand Theft Auto III,Completed,PS2,2001-10-21,2001-10-22,10
+731,Q94797,Grand Theft Auto IV,Completed,PC,2008-12-01,2008-12-02,8
+732,Q83265,Grand Theft Auto: San Andreas,Completed,PC,,2005-06-06,7
+733,Q94671,Grand Theft Auto: Vice City,Completed,PS2,,2002-10-26,10
+748,Q1037042,Hitman 2: Silent Assassin,Abandoned,PC,,2002-09-30,0
+759,Q1091551,Command & Conquer: Red Alert 3 - Uprising,Abandoned,PC,,2009-03-12,0
+769,Q540406,Lara Croft and the Guardian of Light,Abandoned,PC,2020-09-16,2010-08-18,0
+819,Q94460,Grand Theft Auto 2,Abandoned,PC,,1999-10-21,0
+825,Q2020055,Saints Row,Abandoned,X360,2022-08-22,2006-08-29,0
+891,Q382108,Team Fortress 2,Completed,PC,,2007-10-09,8
+909,Q1325327,Tom Clancy's Rainbow Six: Vegas,Abandoned,PC,,2006-11-27,0
+910,Q377242,Tom Clancy's Splinter Cell,Abandoned,PC,,2003-02-18,0
+911,Q533304,Tom Clancy's Splinter Cell: Chaos Theory,Abandoned,PC,2021-11-20,2005-03-28,0
+912,Q317620,Tomb Raider,Abandoned,PC,2020-09-16,2012-11-28,0
+959,Q746351,Command & Conquer: Red Alert 3,Abandoned,PC,,2008-10-28,0
+960,Q736040,Max Payne 3,Abandoned,PC,2020-11-25,2012-06-01,0
+980,Q94501,Grand Theft Auto,Abandoned,PC,,1997-10-20,0
+1020,Q17452,Grand Theft Auto V,Completed,PS4,2018-11-17,2014-11-18,10
+1029,Q213911,The Legend of Zelda: Ocarina of Time,Completed,N64,1998-11-22,1998-11-23,10
+1030,Q732943,The Legend of Zelda: Majora's Mask,Completed,N64,2022-02-25,2000-10-26,5
+1048,Q239889,Hitman: Blood Money,Abandoned,PC,,2006-05-25,0
+1049,Q600707,Hitman: Contracts,Abandoned,PC,,2004-04-19,0
+1050,Q756856,Hitman: Codename 47,Abandoned,PC,,2000-11-18,0
+1062,Q575505,Alan Wake,Completed,X360,,2010-05-17,5
+1074,Q216995,Super Mario 64,Completed,N64,1996-12-25,1996-09-29,10
+1077,Q170489,Super Mario Galaxy,Completed,Wii,2007-11-11,2007-11-12,10
+1078,Q854487,Super Mario Galaxy 2,Completed,Wii,2010-05-22,2010-05-23,10
+1121,Q1371726,Watch Dogs,Completed,XONE,2020-10-12,2014-05-26,8
+1122,Q380918,Call of Duty: Black Ops II,Abandoned,PC,,2012-11-11,0
+1156,Q816451,Tomb Raider II,Abandoned,PC,2020-09-16,1997-10-31,0
+1157,Q1123794,Tomb Raider III: Adventures of Lara Croft,Abandoned,PC,2020-09-16,1998-11-20,0
+1158,Q668568,Tomb Raider: The Last Revelation,Abandoned,PC,2020-09-16,1999-11-23,0
+1159,Q621616,Tomb Raider: The Angel of Darkness,Abandoned,PC,2020-09-16,2003-07-01,0
+1160,Q642359,Tomb Raider: Chronicles,Abandoned,PC,2020-09-16,2000-11-24,0
+1161,Q665785,Tomb Raider: Legend,Abandoned,PC,2020-09-16,2006-04-11,0
+1162,Q580667,Tomb Raider: Anniversary,Abandoned,PC,2020-09-16,2007-05-31,0
+1163,Q915860,Tomb Raider: Underworld,Abandoned,PC,,2008-11-17,0
+1164,Q1757876,Tomb Raider,Completed,PS3,,2013-03-04,8
+1216,Q2501242,Dead Space 3,Abandoned,PC,2021-12-22,2013-02-05,0
+1266,Q40166,Assassin's Creed III,Completed,X360,2020-10-13,2012-10-29,3
+1272,Q7798922,SimCity,Completed,PC,1995-02-02,1992-12-31,9
+1293,Q2313070,Tom Clancy's Ghost Recon: Future Soldier,Abandoned,PC,,2012-06-26,0
+1294,Q15116822,Tom Clancy's Ghost Recon,Abandoned,PC,,2001-11-13,0
+1295,Q2604001,Tom Clancy's Ghost Recon: Desert Siege,Abandoned,PC,,2002-03-27,0
+1296,Q1826994,Tom Clancy's Ghost Recon: Island Thunder,Abandoned,PC,,2002-09-25,0
+1305,Q1955277,Tom Clancy's Splinter Cell: Blacklist,Abandoned,PC,,2013-08-19,0
+1314,Q932113,Medal of Honor: Airborne,Abandoned,PC,,2007-09-03,0
+1331,Q1339030,Limbo,Completed,PC,,2011-08-02,4
+1334,Q4975646,Brothers: A Tale of Two Sons,Abandoned,PC,,2013-09-03,0
+1342,Q166226,Beyond: Two Souls,Abandoned,PS4,2022-11-28,2015-11-26,0
+1352,Q677274,Journey,Completed,PC,2022-07-08,2019-06-06,4
+1354,Q1825218,Flower,Abandoned,PC,2022-07-08,2019-02-14,0
+1372,Q842146,Counter-Strike: Global Offensive,Abandoned,PC,,2012-08-20,0
+1381,Q618266,Payday: The Heist,Abandoned,PC,,2011-10-20,0
+1638,Q369086,GoldenEye 007,Completed,,1997-08-01,,10
+1851,Q1442157,Tom Clancy's Rainbow Six: Lockdown,Abandoned,PC,,2006-02-15,0
+1853,Q1148672,Tom Clancy's Rainbow Six: Vegas 2,Abandoned,PC,,2008-03-17,0
+1872,Q1200546,Descent,Abandoned,PC,2023-08-20,2014-02-11,0
+1877,Q3182559,Cyberpunk 2077,Completed,PC,2020-09-16,2020-12-10,9
+1880,Q5242331,Baldur's Gate: Enhanced Edition,Abandoned,PC,2023-08-20,2012-11-27,0
+1905,Q349375,Fortnite,Completed,PC,2020-11-11,2017-07-25,7
+1936,Q2555753,Beyond Good & Evil 2,Wanted,PC,,4000-12-31,0
+1939,Q210275,Destiny,Abandoned,PS4,2014-09-08,2014-09-08,0
+1942,Q4267401,The Witcher 3: Wild Hunt,Completed,PC,2020-09-29,2015-05-18,9
+1969,Q641697,Red Dead Revolver,Abandoned,PS4,2022-11-28,2016-10-11,0
+1970,Q6052688,Assassin's Creed IV Black Flag,Queued,PC,2020-10-13,2013-11-19,0
+1976,Q4035752,Call of Juarez: Gunslinger,Abandoned,PC,,2013-05-22,0
+1979,Q2618557,Battlefield 4,Completed,XONE,,2013-11-21,6
+1983,Q810662,Bastion,Abandoned,PC,2021-08-16,2011-08-16,0
+1985,Q717600,Metal Gear Solid V: The Phantom Pain,Completed,PS4,2015-08-31,2015-08-31,10
+2001,Q10857764,Far Cry 3: Blood Dragon,Abandoned,PC,,2013-04-30,0
+2003,Q10826261,Batman: Arkham Origins,Abandoned,PC,2020-11-25,2013-10-24,0
+2031,Q12956031,Wolfenstein: The New Order,Abandoned,PC,,2014-05-19,0
+2033,Q12147068,Call of Duty: Ghosts,Abandoned,PC,,2013-11-04,0
+2058,Q7156711,Payday 2,Abandoned,PC,,2013-08-13,0
+2113,Q54862,Star Wars Battlefront,Abandoned,PC,,2015-11-16,0
+2114,Q13431312,Tom Clancy's The Division,Abandoned,PC,,2016-03-06,0
+2115,Q13473778,Titanfall,Abandoned,PC,,2014-03-10,0
+2117,Q10279881,DayZ,Abandoned,PC,2020-09-29,2018-12-13,0
+2148,Q129000,Banjo-Kazooie,Completed,N64,,1998-06-28,8
+2155,Q1166232,Dark Souls,Completed,X360,,2011-10-03,0
+2368,Q3702740,Dark Souls II,Completed,PC,2021-02-11,2014-04-25,8
+2552,Q14126363,Mad Max,Completed,XONE,,2015-08-31,6
+2602,Q2502055,Alan Wake's American Nightmare,Abandoned,PC,,2012-05-21,0
+2682,Q55214,LEGO Star Wars: The Complete Saga,Abandoned,PC,2021-05-02,2009-10-13,0
+2691,Q2543862,Rock Band 3,Abandoned,X360,,2010-10-25,0
+2920,Q11256854,FIFA 14,Abandoned,XONE,,2013-11-21,0
+3022,Q13417084,Transistor,Abandoned,PC,2021-08-16,2014-05-20,0
+3042,Q13415292,Dying Light,Completed,PC,,2015-01-25,7
+3077,Q2708028,Sniper Elite,Abandoned,PC,2020-10-20,2005-09-30,0
+3078,Q714782,Sniper Elite V2,Abandoned,PC,2020-10-20,2012-04-30,0
+3195,Q76868,Assassin's Creed III: Liberation,Abandoned,PC,2020-10-13,2014-01-15,0
+3225,Q15297043,No Man's Sky,Abandoned,PC,2021-09-13,2016-08-12,0
+3267,Q1045397,Day of Defeat: Source,Completed,PC,,2005-09-25,6
+3418,Q806598,Banjo-Tooie,Completed,N64,2000-11-20,2000-11-20,8
+3471,Q1071278,DOOM 64,Abandoned,PC,,2020-03-19,0
+3750,Q13361589,Quantum Break,Completed,XONE,,2016-04-04,7
+3775,Q88321016,Assassin's Creed: Freedom Cry,Abandoned,PC,2020-10-13,2014-02-25,0
+4788,Q16975080,Octodad: Dadliest Catch,Completed,PC,2022-05-02,2014-01-30,5
+4797,Q1145336,Dead Rising,Abandoned,XONE,,2016-09-12,0
+5328,Q11879017,Metal Gear Solid V: Ground Zeroes,Completed,PS4,,2014-03-17,8
+5503,Q15891648,Batman: Arkham Knight,Completed,XONE,,2015-06-22,8
+5541,Q5185480,Sherlock Holmes: Crimes & Punishments,Abandoned,PC,2021-12-25,2014-09-29,0
+5591,Q13469378,Deus Ex: The Fall,Abandoned,PC,2020-11-25,2014-03-18,0
+5601,Q1711359,The Witness,Abandoned,PC,,2016-01-25,0
+5606,Q15983778,Assassin's Creed Unity,Abandoned,XONE,2021-05-12,2014-11-11,0
+5613,Q16267529,Baldur's Gate II: Enhanced Edition,Abandoned,PC,2023-08-20,2013-11-15,0
+6036,Q19057897,The Last of Us Remastered,Completed,PS4,2018-11-17,2014-07-28,10
+6164,Q2667499,The Testament of Sherlock Holmes,Abandoned,PC,2023-08-21,2012-09-25,0
+6358,,Divinity II: Ego Draconis,Abandoned,PC,,2010-01-05,0
+6359,Q1799621,Team Fortress Classic,Abandoned,PC,,1999-04-06,0
+6578,Q1342528,Quake Live,Abandoned,PC,,2010-08-06,0
+6632,Q16743064,Call of Duty: Advanced Warfare,Abandoned,PC,,2014-11-03,0
+6634,Q4047754,Quake III: Team Arena,Abandoned,PC,,2000-12-18,0
+6737,Q765359,Sherlock Holmes Versus Jack the Ripper,Abandoned,PC,,2009-05-24,0
+6739,Q211229,Black Mesa,Completed,PC,2020-10-12,2020-03-05,7
+6744,Q1199351,Half-Life: Source,Abandoned,PC,2020-08-13,2004-06-01,0
+6801,Q15992359,Far Cry 4,Completed,PC,,2014-11-17,5
+6812,Q2094377,Sherlock Holmes: The Silver Earring,Abandoned,PC,,2004-08-27,0
+6815,Q2278376,Sherlock Holmes: The Awakened,Abandoned,,,,0
+6844,Q55228,LEGO Star Wars III: The Clone Wars,Abandoned,PC,2021-05-02,2011-03-22,0
+6863,Q2278385,Sherlock Holmes: Nemesis,Abandoned,PC,,2008-04-14,0
+6880,Q19906377,Metro Redux,Abandoned,PC,2020-11-25,2014-08-25,0
+6968,Q16267527,DOOM 3: BFG Edition,Abandoned,PC,,2012-10-14,0
+7046,Q16972008,Factorio,Abandoned,PC,2022-09-28,2020-08-14,0
+7081,Q16968699,Battlefield Hardline,Abandoned,XONE,,2015-03-16,0
+7323,Q17154489,Rise of the Tomb Raider,Completed,XONE,,2015-11-09,8
+7325,Q17181585,Lara Croft and the Temple of Osiris,Abandoned,PC,2020-09-16,2014-12-08,0
+7329,Q17167727,Dead Island 2,Completed,PS5,2023-04-20,2023-04-20,6
+7331,Q16681843,Uncharted 4: A Thief's End,Completed,PS4,,2016-05-09,9
+7334,Q17154554,Bloodborne,Queued,PS4,2021-02-02,2015-03-24,0
+7342,Q22019785,Inside,Completed,PC,,2016-07-07,4
+7344,Q17513672,Ori and the Blind Forest,Completed,XONE,2021-03-11,2015-03-11,6
+7346,Q17185964,The Legend of Zelda: Breath of the Wild,Completed,Switch,2018-03-13,2017-03-03,10
+7348,Q17182448,Halo: The Master Chief Collection,Abandoned,PC,,2019-12-02,0
+7351,Q513867,DOOM,Abandoned,PC,,2016-05-11,0
+7360,Q17183996,Tom Clancy's Rainbow Six Siege,Abandoned,PC,,2015-11-30,0
+7386,Q18620506,The Talos Principle,Abandoned,PC,,2014-12-11,0
+7469,Q878492,Tom Clancy's Splinter Cell: Double Agent,Abandoned,PC,2021-11-20,2006-11-07,0
+7551,Q771553,Day of Defeat,Abandoned,PC,,2003-04-30,0
+7570,Q17486360,Assassin's Creed Rogue,Abandoned,PC,2022-09-16,2015-03-09,0
+7589,Q657483,Ricochet,Abandoned,PC,2020-08-13,2000-11-01,0
+7603,Q18185763,Hellblade: Senua's Sacrifice,Completed,Series X,2021-12-25,2021-08-09,5
+7609,Q7897632,Until Dawn,Completed,PS4,2022-12-21,2015-08-25,6
+7627,Q17042829,RollerCoaster Tycoon World,Abandoned,PC,,2016-11-16,0
+7767,Q16267881,Mini Metro,Completed,PC,2021-07-31,2015-11-06,9
+8173,Q18515944,Overwatch,Completed,PC,,2016-05-23,8
+8191,Q1088780,Final DOOM,Abandoned,PC,2020-08-09,1996-12-31,0
+8222,Q22344575,Dark Souls II: Scholar of the First Sin,Completed,PC,,2015-04-01,8
+8223,Q20057006,Assassin's Creed Chronicles: China,Abandoned,PC,2020-10-13,2015-04-21,0
+8263,Q18602166,Assassin's Creed Syndicate,Abandoned,PC,2015-11-18,2015-11-17,0
+8366,Q7547811,Sniper Elite III,Abandoned,PC,2020-10-20,2014-06-27,0
+8852,Q838215,Master Levels for Doom II,Abandoned,PC,2020-08-09,2007-08-03,0
+9066,Q18149274,Cities: Skylines,Abandoned,PC,,2015-03-09,0
+9073,Q647642,Deathmatch Classic,Abandoned,PC,,2001-06-30,0
+9192,Q19515406,Wolfenstein: The Old Blood,Abandoned,PC,,2015-05-04,0
+9227,Q126884627,Thief Gold,Abandoned,PC,2022-11-28,1999-10-26,0
+9471,Q1325680,Half-Life 2: Deathmatch,Abandoned,PC,,2004-11-29,0
+9495,Q19792993,Squad,Abandoned,PC,2020-09-22,2020-09-23,0
+9498,Q19772510,Deus Ex: Mankind Divided,Completed,PC,2020-11-25,2016-08-23,6
+9509,Q19789342,Call of Duty: Black Ops III,Abandoned,PC,,2015-11-05,0
+9630,Q10493813,Fallout 4,Completed,PC,,2015-11-08,6
+9730,Q19627426,Firewatch,Completed,PS4,2016-02-09,2016-02-09,8
+9740,Q120750875,Deus Ex: Human Revolution - Director's Cut,Abandoned,PC,2020-11-25,2013-10-25,0
+9781,Q750032,Beyond Divinity,Abandoned,PC,,2004-04-27,0
+9902,Q117841582,Age of Mythology: Extended Edition,Abandoned,PC,,2014-05-07,0
+9928,Q19842547,Dirt Rally,Abandoned,PC,2020-11-25,2015-12-07,0
+10192,Q1319860,The Ultimate Doom,Abandoned,PC,2020-08-09,2007-08-03,0
+10962,Q20059613,Uncharted: The Nathan Drake Collection,Completed,PS4,,2015-10-07,9
+11065,Q17183048,Ratchet & Clank,Completed,PS4,,2016-04-11,7
+11118,Q20095751,Dishonored 2,Completed,XONE,,2016-11-10,8
+11133,Q20112508,Dark Souls III,Completed,PC,,2016-04-11,8
+11137,Q20113718,Sea of Thieves,Completed,Series X,2021-02-03,2020-11-10,5
+11156,Q20155528,Horizon Zero Dawn,Completed,PC,,2020-08-06,6
+11157,Q15630929,HITMAN,Completed,PS4,,2016-03-10,10
+11169,Q20155152,Final Fantasy VII Remake,Completed,PS5,,2021-06-09,6
+11170,Q20116193,Unravel,Abandoned,XONE,,2016-02-08,0
+11171,Q20155365,Tom Clancy's Ghost Recon: Wildlands,Abandoned,PC,2020-10-17,2017-03-06,0
+11182,Q23759338,Enter the Gungeon,Abandoned,PC,,2016-04-04,0
+11198,Q20031743,Rocket League,Abandoned,PS4,2015-07-06,2015-07-06,0
+11208,Q21078985,NieR: Automata,Completed,PC,,2017-03-16,6
+11233,Q28451186,What Remains of Edith Finch,Completed,XONE,,2017-07-18,3
+11346,Q20538669,Her Story,Abandoned,PC,2022-09-01,2015-06-24,0
+11397,Q17634308,Yakuza 0,Abandoned,XONE,,2020-02-24,0
+11492,Q20737889,Mafia III,Abandoned,PC,,2016-10-06,0
+11563,Q22009602,Sherlock Holmes: The Devil's Daughter,Abandoned,XONE,2021-12-25,2016-06-10,0
+11592,Q20895586,Lara Croft GO,Completed,PC,,2015-08-28,10
+11657,Q23779414,Epistory: Typing Chronicles,Abandoned,PC,,2016-03-30,0
+11737,Q19631660,Outer Wilds,Completed,PC,,2019-05-27,8
+11800,Q20899735,Divinity: Original Sin II,Completed,PC,,2017-09-14,8
+12527,Q20983112,Yakuza 6: The Song of Life,Abandoned,PC,,2021-03-25,0
+12571,Q7023416,Nioh,Abandoned,PS4,,2017-02-06,0
+12595,Q29831835,Yakuza Kiwami,Abandoned,XONE,,2020-04-21,0
+13182,Q21072291,Far Cry: Primal,Abandoned,PC,,2016-02-28,0
+13205,Q28044889,Astroneer,Abandoned,PC,2021-04-08,2019-02-05,0
+14144,Q17013575,Final Fantasy X/X-2 HD Remaster,Abandoned,PC,,2016-05-11,0
+14177,Q92204031,Divinity: Original Sin - Enhanced Edition,Abandoned,PC,,2015-10-27,0
+14362,Q21246348,Detroit: Become Human,Abandoned,PS4,2022-11-28,2018-05-25,0
+14363,Q21563294,Gran Turismo Sport,Abandoned,PS4,,2017-10-17,0
+14593,Q29300592,Hollow Knight,Abandoned,PC,2021-10-29,2017-02-24,0
+14741,Q22019734,Psychonauts 2,Completed,Series X,2021-09-05,2021-08-25,7
+14854,Q1426374,Sherlock Holmes: The Mystery of the Persian Carpet,Abandoned,PC,,2008-05-09,0
+14902,Q22245986,Assassin's Creed Chronicles: India,Abandoned,PC,2020-10-13,2016-01-12,0
+14903,Q22245987,Assassin's Creed Chronicles: Russia,Abandoned,PC,2020-10-13,2016-02-10,0
+15698,Q17006956,Metroid Dread,Completed,Switch,2021-10-12,2021-10-07,8
+16300,Q16629950,Dragon's Dogma: Dark Arisen,Abandoned,PC,,2017-10-05,0
+16357,Q3221282,Sherlock Holmes and The Hound of The Baskervilles,Abandoned,PC,,2012-03-01,0
+16612,Q65040626,Twelve Minutes,Completed,PC,,2021-08-18,6
+17000,Q23013817,Stardew Valley,Abandoned,PC,2021-11-27,2016-02-26,0
+17447,Q24044813,Titanfall 2,Abandoned,PC,,2016-10-27,0
+18167,Q28127320,Hello Neighbor,Abandoned,XONE,2017-12-07,2017-12-08,0
+18225,Q55080291,The Sinking City,Completed,Series X,2022-06-06,2021-04-28,6
+18320,Q24031560,Battlefield 1,Completed,XONE,,2016-10-20,9
+18366,Q23013242,Sniper Elite 4,Abandoned,PC,,2017-02-13,0
+18375,Q26206438,System Shock,Abandoned,PC,2023-05-29,2023-05-29,0
+18819,Q23838183,NBA 2K17,Abandoned,PC,,2016-09-19,0
+18822,Q23947160,Pyre,Abandoned,PC,2021-08-16,2017-07-25,0
+18871,Q21850283,Parkitect,Abandoned,PC,2022-09-28,2018-11-29,0
+18968,Q23978200,Call of Duty: Infinite Warfare,Abandoned,PC,,2016-11-03,0
+18975,Q16259000,Oceanhorn: Monster of Uncharted Seas,Abandoned,PC,,2015-03-17,0
+19130,Q24050047,Sid Meier's Civilization VI,Abandoned,PC,2016-10-20,2016-10-21,0
+19164,Q62565771,Borderlands 3,Abandoned,PC,,2019-09-12,0
+19241,Q54875419,Unravel Two,Completed,XONE,,2018-06-08,5
+19348,Q55354219,Half-Life Deathmatch: Source,Abandoned,PC,2007-09-29,2006-05-01,0
+19397,Q24256005,Dead Island Retro Revenge,Abandoned,PC,,2016-06-01,0
+19441,Q24455756,Watch Dogs 2,Completed,XONE,,2016-11-14,8
+19456,Q92203646,Ori and the Blind Forest: Definitive Edition,Completed,PC,,2016-04-26,6
+19457,Q31602948,The Elder Scrolls V: Skyrim - Special Edition,Completed,XONE,,2016-10-27,9
+19530,Q24575608,Quake Champions,Abandoned,PC,,2017-08-22,0
+19531,Q4047343,Prey,Completed,PC,2022-06-13,2017-05-04,8
+19560,Q18345138,God of War,Completed,PC,2020-11-14,2022-01-14,8
+19561,Q24576564,Days Gone,Completed,PS4,,2019-04-25,9
+19562,Q24577667,Resident Evil 7: Biohazard,Completed,PS5,,2022-06-12,7
+19564,Q24666782,Death Stranding,Completed,PS4,,2019-11-07,8
+19637,Q12072563,Star Wars: The Force Unleashed - Ultimate Sith Edition,Abandoned,PC,2021-05-02,2009-11-03,0
+19686,Q54920200,Resident Evil 2,Completed,PS5,,2022-06-12,10
+19965,Q105985883,Tomb Raider: Definitive Edition,Completed,PS4,,2014-01-27,8
+20150,Q33101548,Katana Zero,Abandoned,PC,2019-04-17,2019-04-18,0
+20275,Q110752642,The Witcher: Enhanced Edition,Abandoned,PC,2020-11-25,2008-09-16,0
+20546,,Plants vs. Zombies: GOTY Edition,Abandoned,PC,,2010-08-08,0
+20740,Q100984696,The Witcher 2: Assassins of Kings - Enhanced Edition,Abandoned,PC,2020-11-25,2012-04-16,0
+20863,,Dishonored: Definitive Edition,Completed,XONE,,2015-08-26,9
+20910,Q56218638,World War Z,Completed,PC,,2019-04-15,6
+21580,Q20712110,Hitman GO: Definitive Edition,Completed,PC,,2016-02-22,9
+21593,Q106906209,Lords of the Fallen,Abandoned,PC,,2023-10-12,0
+21704,,Batman: Arkham City - Game of the Year Edition,Completed,PC,2020-11-25,2012-09-07,8
+21892,Q108022844,Fallout 3: Game of the Year Edition,Abandoned,PC,2022-07-10,2009-10-13,0
+22703,Q27534668,Metal Gear Survive,Abandoned,PC,2021-07-26,2018-02-21,4
+22800,Q72617481,Oceanhorn 2: Knights of the Lost Realm,Completed,PC,,2023-08-01,5
+23331,Q92204235,Rise of the Tomb Raider: 20 Year Celebration,Completed,PS4,,2016-10-10,8
+23719,Q125536963,Neverwinter Nights: Enhanced Edition,Abandoned,PC,2023-08-20,2018-03-27,0
+23733,Q55636303,Tunic,Completed,Series X,2022-03-21,2022-03-16,6
+24311,Q61577079,Dead Island: Riptide - Definitive Edition,Abandoned,PC,,2016-05-31,0
+24654,Q61643718,New World,Abandoned,PC,2021-10-04,2021-09-27,0
+24869,Q622336,Resident Evil,Abandoned,,,,0
+24920,Q28869873,Call of Duty: Modern Warfare Remastered,Abandoned,PC,,2016-11-03,0
+24985,Q23303477,Golf With Your Friends,Abandoned,PC,,2016-01-28,0
+25076,Q27438121,Red Dead Redemption 2,Completed,PS4,2018-10-24,2018-10-25,10
+25358,,Deus Ex: Game of the Year Edition,Abandoned,PC,2020-11-25,2000-06-22,0
+25657,Q29045915,Destiny 2,Abandoned,PC,,2017-10-23,5
+25935,Q30645776,The Artful Escape,Completed,PC,,2021-09-08,3
+26192,Q27950674,The Last of Us Part II,Completed,PS4,2019-12-17,2020-06-19,10
+26193,Q28088198,Uncharted: The Lost Legacy,Completed,PS4,,2017-08-21,8
+26401,Q29154231,Star Wars Battlefront II,Abandoned,PC,,2017-11-16,0
+26472,Q71693825,Disco Elysium,Abandoned,PC,2021-04-18,2019-10-15,0
+26589,Q28127405,RollerCoaster Tycoon Classic,Completed,PC,2020-05-12,2017-09-28,9
+26758,Q28234671,Super Mario Odyssey,Completed,Switch,2017-10-26,2017-10-27,10
+26855,Q30639210,Dead Cells,Abandoned,PC,2021-08-16,2018-08-07,0
+26948,Q28532756,Dirt 4,Abandoned,PC,2020-11-25,2017-06-09,0
+26950,Q54666134,Marvel's Avengers,Abandoned,Series X,,2021-03-17,3
+27134,Q55381944,Deep Rock Galactic,Abandoned,PC,,2020-05-12,0
+27270,Q85130376,Payday 3,Completed,PC,2023-09-20,2023-09-21,6
+27316,Q54577668,A Plague Tale: Innocence,Completed,Series X,,2021-07-05,8
+27575,Q106645214,Onward,Abandoned,PC,2020-10-08,2016-08-30,0
+27789,Q28937399,PUBG: BATTLEGROUNDS,Abandoned,PS4,,2018-12-06,0
+27849,Q127938122,Sherlock Holmes: The Awakened - Remastered Edition,Abandoned,PC,,2009-08-06,0
+27862,,Batman: Arkham Asylum - Game of the Year Edition,Completed,PC,2020-11-25,2010-03-26,9
+27891,Q124002393,SimCity 4: Deluxe Edition,Abandoned,PC,2020-08-09,2003-09-22,0
+27988,Q120869649,Planescape: Torment - Enhanced Edition,Abandoned,PC,,2017-04-11,0
+28059,Q10851671,Microsoft Solitaire Collection,Abandoned,PC,,2012-10-26,0
+28204,Q29577137,Call of Duty: WWII,Abandoned,PC,2021-02-11,2017-11-02,0
+28489,Q50424297,Ready or Not,Abandoned,PC,,2021-12-17,0
+28540,Q30138024,Assassin's Creed Origins,Completed,XONE,2020-10-13,2017-10-26,7
+28552,Q30015130,Far Cry 5,Completed,PC,,2018-03-26,7
+28723,,Age of Empires III: Complete Collection,Abandoned,PC,,2012-01-04,0
+28955,Q122189904,SimCity 3000 Unlimited,Abandoned,PC,,2000-05-16,0
+28989,,Tom Clancy's Rainbow Six 3: Gold Edition,Abandoned,PC,,2008-09-24,0
+30208,Q104651901,Dragon Age: The Veilguard,Queued,PC,,2024-10-31,0
+31551,Q99397792,Final Fantasy XVI,Completed,PS5,2023-06-12,2023-06-22,9
+32365,Q65319932,Hell Let Loose,Abandoned,PC,2021-08-16,2019-06-06,0
+33161,Q29582645,Star Wars: Rebel Assault I + II,Abandoned,PC,2021-05-02,2016-03-29,0
+33308,Q23762953,The Lab,Abandoned,PC,2020-08-13,2016-04-05,0
+34293,Q115562285,BioShock Remastered,Completed,PC,2020-10-06,2016-09-15,6
+34294,Q115562412,BioShock 2 Remastered,Completed,PC,2020-10-06,2016-09-15,5
+34951,,Dead Island: Definitive Edition,Abandoned,PC,,2016-05-31,0
+35596,Q115476077,Star Wars: Galactic Battlegrounds Saga,Abandoned,PC,2021-05-02,2001-11-09,0
+35967,Q29646398,Star Wars: X-Wing - Special Edition,Abandoned,PC,2021-05-02,2015-04-28,0
+35968,Q29646926,Star Wars: TIE Fighter - Special Edition,Abandoned,PC,2021-05-02,2014-10-28,0
+36240,Q19636615,Icewind Dale: Enhanced Edition,Abandoned,PC,,2014-10-30,0
+36366,Q121201675,RollerCoaster Tycoon 2: Triple Thrill Pack,Abandoned,PC,,2004-12-31,0
+36444,Q121200762,RollerCoaster Tycoon: Deluxe,Abandoned,PC,2014-05-21,2014-05-21,0
+36550,Q66900968,Yakuza: Like a Dragon,Completed,Series X,2021-08-05,2020-11-10,6
+36646,Q55382124,GTFO,Abandoned,PC,,2019-12-09,0
+36662,Q30141529,Need For Speed: Payback,Abandoned,PC,2020-10-13,2017-11-10,0
+36872,Q30339213,Forza Motorsport 7,Abandoned,PC,,2017-10-02,0
+36897,Q30229306,A Way Out,Completed,XONE,,2018-03-22,7
+36926,Q30252256,Monster Hunter: World,Abandoned,PC,2020-12-22,2018-08-09,0
+36952,Q30276412,Wolfenstein II: The New Colossus,Abandoned,PC,,2017-10-25,0
+37001,Q30325568,Ori and the Will of the Wisps,Completed,Series X,2021-01-30,2020-11-10,8
+37016,Q30238508,Metro Exodus,Completed,PC,,2019-02-14,7
+37030,Q38904048,Dishonored: Death of the Outsider,Completed,XONE,,2017-09-14,7
+37059,Q37673361,Age of Empires: Definitive Edition,Abandoned,PC,,2018-02-19,0
+37062,Q30253211,Skull and Bones,Abandoned,PC,2024-02-08,2024-02-16,0
+37092,Q30612014,Hidden Agenda,Completed,PS4,,2017-10-23,6
+37094,Q846051,Shadow of the Colossus,Completed,PS4,2018-02-05,2018-02-06,5
+37136,Q30749509,Metroid Prime 4: Beyond,Wanted,Switch,,2025-12-31,0
+37777,Q50562677,Shadow of the Tomb Raider,Completed,PC,,2018-09-13,7
+45178,,Metal Gear Solid: Peace Walker - HD Edition,Queued,X360,2023-07-02,2011-11-08,0
+50531,Q119846458,BattleBit Remastered,Abandoned,PC,2023-06-29,2023-06-15,0
+51528,Q62529754,Telling Lies,Completed,PC,,2019-08-22,4
+52189,Q23648408,Grand Theft Auto VI,Wanted,PS5,,2025-12-31,0
+52638,,Battlefield Hardline: Ultimate Edition,Abandoned,PC,2020-08-13,2015-03-17,0
+52642,,Battlefield 4: Premium Edition,Completed,PC,,2014-10-20,7
+52826,Q109690721,Skate.,Wanted,PC,,4000-12-31,0
+53663,,Star Wars Battlefront: Ultimate Edition,Abandoned,PS4,2020-10-12,2015-11-16,0
+55029,Q55154676,Age of Empires IV,Abandoned,PC,2021-10-28,2021-10-28,6
+55034,,Final Fantasy XV: Windows Edition,Abandoned,PC,,2018-03-05,0
+55041,,Metal Gear Solid 2: Sons of Liberty - HD Edition,Completed,X360,,2011-11-08,10
+55047,Q63866855,The Dark Pictures Anthology: Man of Medan,Completed,PS5,2022-11-18,2022-09-28,6
+55056,Q63463133,Age of Empires II: Definitive Edition,Completed,PC,,2019-11-13,9
+55057,Q63464105,Age of Empires III: Definitive Edition,Abandoned,PC,,2020-10-14,0
+55080,Q19627412,Donut County,Completed,PC,2022-07-08,2018-08-27,5
+55090,Q39059517,Yakuza Kiwami 2,Abandoned,PC,,2019-05-09,0
+55163,Q96216515,Resident Evil Village,Completed,PS5,2021-05-03,2021-05-07,8
+55198,,Kentucky Route Zero: TV Edition,Completed,XONE,,2020-01-27,3
+57153,Q39057365,The Battle of Polytopia,Abandoned,iOS,2024-02-26,2016-02-04,0
+59587,Q113336217,L.A. Noire: The VR Case Files,Completed,PC,,2017-12-14,6
+68461,,Nioh: Complete Edition,Abandoned,PC,2022-11-22,2017-11-07,0
+72813,Q59618073,Untitled Goose Game,Completed,Switch,,2019-09-19,7
+72870,Q116771326,Horizon Zero Dawn: Complete Edition,Completed,PC,2020-10-06,2020-08-07,7
+74701,Q55449345,Star Wars Jedi: Fallen Order,Completed,XONE,,2019-11-14,9
+75235,Q42564798,Ghost of Tsushima,Completed,PS4,,2020-07-16,8
+76253,Q55076932,Devil May Cry 5,Abandoned,PC,,2019-03-08,0
+76747,Q60850588,Atomic Heart,Completed,Series X,2023-02-20,2023-02-21,7
+76882,Q54906424,Sekiro: Shadows Die Twice,Completed,PS4,2020-12-22,2019-03-22,10
+78511,Q107611729,Forza Motorsport,Abandoned,Series X,2023-10-04,2023-10-09,0
+79864,Q118645498,The Talos Principle II,Abandoned,PC,2023-10-17,2023-11-01,0
+80529,,Hades,Abandoned,PC,,1995-12-31,0
+81085,Q55728812,Dark Souls: Remastered,Completed,PC,,2018-05-22,8
+81249,Q54933101,The Elder Scrolls VI,Wanted,PC,,4000-12-31,0
+82090,Q54893555,Forza Horizon 4,Completed,Series X,2019-11-19,2020-11-10,9
+83728,Q21043786,Battlefield V,Completed,PC,2018-11-01,2018-11-20,7
+87672,Q51844095,Florence,Abandoned,PC,,2020-02-12,0
+90099,Q50376754,Tom Clancy's The Division 2,Completed,PC,,2019-03-14,7
+90558,Q62049495,Satisfactory,Abandoned,PC,,2019-03-18,0
+91477,Q106452472,Before Your Eyes,Abandoned,PC,2021-05-14,2021-04-08,0
+92550,Q97656849,Fable,Wanted,PC,2023-06-11,2025-12-31,0
+93832,,Star Wars: Empire at War - Gold Pack,Abandoned,PC,2021-05-02,2007-08-15,0
+94085,,Battlefield 1: Revolution,Completed,PC,2020-07-29,2018-01-01,9
+96437,Q55286432,Starfield,Completed,PC,2023-08-31,2023-09-06,9
+99821,,Metal Gear Solid 3: Snake Eater - HD Edition,Completed,PC,2023-07-02,2023-10-23,8
+100413,Q64534648,Watch Dogs: Legion,Completed,PC,2021-02-03,2020-10-29,8
+101006,Q18345763,Gran Turismo 7,Abandoned,PS5,,2022-03-03,0
+101440,Q10865101,S.T.A.L.K.E.R. 2: Heart of Chornobyl,Wanted,PC,,2024-11-20,0
+102058,Q86252643,Outriders,Abandoned,Series X,,2021-03-31,0
+102584,Q55004330,Dying Light 2: Stay Human,Completed,PC,2022-01-14,2022-02-03,7
+103015,Q125768625,Yakuza 3 Remastered,Abandoned,PC,,2021-01-28,0
+103016,Q125768610,Yakuza 4 Remastered,Abandoned,PC,,2021-01-28,0
+103017,Q125768634,Yakuza 5 Remastered,Abandoned,PC,,2021-01-28,0
+103020,Q54497595,Fallout 76,Abandoned,PC,2022-07-10,2020-04-14,5
+103054,Q54617566,Assassin's Creed Odyssey,In Progress,PC,2020-10-13,2018-10-05,0
+103210,Q54856541,HITMAN 2,Completed,PS4,,2018-11-12,10
+103281,Q54913666,Halo Infinite,Completed,Series X,,2021-12-07,8
+103292,Q55128278,Gears 5,Abandoned,PC,,2019-09-08,0
+103294,,NieR: Automata - BECOME AS GODS Edition,Completed,PC,,2021-03-17,6
+103298,Q55662649,DOOM Eternal,Abandoned,PC,,2020-03-18,0
+103301,Q54913467,Wolfenstein: Youngblood,Abandoned,PC,,2019-07-24,5
+103320,Q108139991,The Forgotten City,Completed,Series X,2021-12-28,2021-07-28,9
+103329,Q54935655,Control,Completed,PC,2020-09-05,2019-08-27,10
+103330,Q67482292,Nioh 2,Abandoned,PS5,,2021-02-04,0
+103341,Q55713667,Overcooked! 2,Abandoned,XONE,2018-08-06,2018-08-07,0
+104967,Q105100327,Valheim,Abandoned,PC,2021-02-01,2021-02-02,0
+104970,Q121773652,En Garde!,Completed,PC,,2023-08-16,6
+105049,Q66975659,Remnant: From the Ashes,Abandoned,PC,,2019-08-20,0
+106107,,Hellblade: Senua's Sacrifice - VR Edition,Abandoned,,,,0
+108797,Q107526522,Stranger Things 3: The Game,Completed,XONE,,2020-04-08,5
+109274,Q56597354,Judgment,Abandoned,Series X,,2021-04-22,5
+109532,Q66763775,Assassin's Creed III Remastered,Completed,XONE,2020-10-13,2019-03-28,3
+110248,Q96247255,Stray,Completed,PS5,2022-06-06,2022-07-19,7
+110411,Q59627588,DiRT Rally 2.0,Abandoned,PS4,,2019-02-25,0
+111469,Q96417649,Among Us,Completed,PC,,2018-11-15,5
+112378,Q104376651,Nanotale: Typing Chronicles,Abandoned,PC,,2019-10-23,0
+112874,Q96216443,Horizon Forbidden West,Completed,PS5,,2022-02-17,7
+112875,Q99397916,God of War Ragnarök,Completed,PS5,2022-11-12,2022-11-09,8
+113111,Q59536524,Far Cry New Dawn,Completed,PC,,2019-02-14,6
+113112,Q59756366,Hades,Completed,Switch,2020-11-20,2020-09-17,8
+113114,Q59535090,The Outer Worlds,Completed,PC,,2019-10-24,8
+113118,Q63994801,The Pathless,Completed,PS5,,2020-11-11,7
+113119,Q111513644,The Stanley Parable: Ultra Deluxe,Completed,PC,,2022-04-26,5
+113598,Q96240037,DEATHLOOP,Completed,PS5,,2021-09-13,9
+113739,Q93494528,Bright Memory: Infinite,Completed,PC,2021-11-20,2021-11-11,4
+114283,Q63385672,Persona 5 Royal,Abandoned,Series X,2022-10-29,2022-10-21,0
+114286,Q63494531,Madden NFL 20,Abandoned,XONE,,2019-08-01,0
+114795,Q61478103,Apex Legends,Abandoned,PS4,,2019-02-03,0
+115060,Q112609559,Dragon's Dogma II,Completed,PC,2023-11-28,2024-03-22,8
+115115,Q78059950,Resident Evil 3,Completed,PS5,,2022-06-12,8
+115284,Q61745904,The Legend of Zelda: Link's Awakening,Completed,Switch,,2019-09-19,10
+115421,Q78588634,Littlewood,Abandoned,PC,2020-08-03,2019-06-18,0
+115843,Q105063670,Unpacking,Abandoned,PC,2021-11-01,2021-11-02,0
+116156,Q64589985,Solar Ash,Completed,PS5,,2021-12-01,7
+116191,Q63065823,Sniper Elite V2 Remastered,Abandoned,PC,2020-10-20,2019-05-15,0
+116200,Q104223925,Back 4 Blood,Completed,PC,2021-08-09,2021-10-11,6
+116238,Q63464391,Sniper Elite 5,Completed,PC,,2022-05-24,8
+117170,Q108481438,Stellar Blade,Completed,PS5,2024-04-24,2024-04-26,8
+118218,Q63675773,Tom Clancy's Ghost Recon: Breakpoint,Abandoned,PC,2024-03-29,2019-10-04,0
+118882,,Tom Clancy's Rainbow Six Siege: Deluxe Edition,Abandoned,PS4,,2020-02-17,0
+119133,Q64826862,Elden Ring,Completed,PS5,2021-11-10,2022-02-25,10
+119161,Q66439292,Need for Speed Heat,Abandoned,PC,,2019-11-07,0
+119171,Q64441774,Baldur's Gate 3,Completed,PC,2023-08-04,2020-10-06,10
+119177,Q64083878,Call Of Duty: Modern Warfare,Completed,PC,,2019-10-24,6
+119262,Q64743240,Tom Clancy's Rainbow Six Extraction,Abandoned,PC,2022-01-19,2022-01-20,6
+119295,Q69523972,Microsoft Flight Simulator,Abandoned,Series X,,2021-07-26,0
+119305,Q64521118,LEGO Star Wars: The Skywalker Saga,Abandoned,Series X,,2022-04-04,0
+119307,Q81293823,CrossfireX,Abandoned,XONE,,2022-02-10,0
+119308,Q65160471,Ghostwire: Tokyo,Completed,PS5,,2022-03-24,5
+119313,Q85760410,Fall Guys,Abandoned,PS4,,2020-08-03,2
+119342,Q64590208,Chivalry 2,Abandoned,PC,2022-10-04,2021-06-08,0
+119357,Q64549401,Immortals Fenyx Rising,Completed,Series X,2020-12-03,2020-12-03,8
+119388,Q64577191,The Legend of Zelda: Tears of the Kingdom,Completed,Switch,2023-05-11,2023-05-12,10
+119402,Q116404335,The Witcher 3: Wild Hunt - Complete Edition,Completed,PC,,2016-08-28,9
+121277,Q129441319,Monument Valley III,Wanted,iOS,,2024-12-10,0
+121731,Q74705108,Humankind,Abandoned,PC,2021-08-16,2021-08-17,0
+121752,Q96035161,Ghostrunner,Abandoned,PC,,2020-10-26,0
+122095,,Marvel's Spider-Man: Game of the Year Edition,Completed,PS4,2018-11-20,2019-08-28,9
+122108,Q66969026,Resident Evil Resistance,Abandoned,PC,2022-06-16,2020-04-03,0
+122120,Q70479604,The Dark Pictures Anthology: Little Hope,Completed,PS5,2022-11-18,2022-09-28,5
+122559,Q75192959,Mini Motorways,Completed,PC,,2021-07-19,9
+122565,Q118399270,Humanity,Completed,PS5,2023-05-16,2023-05-15,8
+123051,Q105985887,Shadow of the Tomb Raider: Definitive Edition,Completed,PS4,2020-09-16,2019-11-19,8
+125165,Q73154387,Diablo IV,Abandoned,PS5,2023-06-10,2023-06-06,0
+125166,Q106686950,Battlefield 2042,Collection,PC,2021-08-09,2021-11-19,9
+125174,Q73163646,Overwatch 2,Completed,PC,,2022-10-03,8
+125623,Q79420097,Everwild,Wanted,PC,,4000-12-31,0
+125624,Q96418509,Grounded,Abandoned,PC,,2020-07-27,0
+126098,Q75653574,Half-Life: Alyx,Completed,Steam VR,2020-09-13,2020-03-23,7
+126290,Q97120062,Far Cry 6,Completed,PS5,,2021-10-06,7
+126459,Q86919275,Valorant,Abandoned,PC,2020-06-01,2020-06-02,0
+127044,Q108479502,Marvel's Spider-Man 2,Completed,PS5,2023-10-19,2023-10-20,9
+127342,Q78418853,Senua's Saga: Hellblade II,Abandoned,PC,2024-07-29,2024-05-21,4
+127350,Q106913661,Weird West,Abandoned,XONE,,2022-03-30,0
+131890,Q106974937,Sea of Stars,Abandoned,Switch,2023-09-09,2023-08-29,0
+131999,Q106645039,NieR Replicant ver.1.22474487139...,Completed,PC,,2021-04-23,6
+132050,Q96991833,Mortal Shell,Abandoned,PS4,,2020-08-17,0
+132097,Q89684568,Saints Row: The Third Remastered,Abandoned,PC,,2020-05-22,0
+132164,Q90832976,Crysis Remastered,Abandoned,PC,,2020-09-18,0
+132181,Q112231148,Resident Evil 4,Completed,PS5,2023-03-25,2023-03-24,8
+132205,Q91441450,F1 2020,Abandoned,PC,,2020-07-09,0
+132516,Q99990957,Phasmophobia,Abandoned,PC,2020-12-17,2020-09-17,0
+133004,Q92464687,Assassin's Creed Valhalla,Completed,PS5,2021-01-30,2020-11-11,8
+133227,Q111420821,Patrick's Parabox,Abandoned,PC,,2022-03-28,0
+133236,Q112617712,Final Fantasy VII Rebirth,Queued,PS5,2024-02-22,2024-02-29,0
+133301,Q93641348,DIRT 5,Completed,PS5,,2020-11-11,6
+133302,Q93721073,Scarlet Nexus,Abandoned,PC,,2021-06-24,0
+133306,Q93722551,Call of the Sea,Abandoned,XONE,2020-12-07,2020-12-08,0
+133307,Q93777745,The Ascent,Abandoned,PC,,2021-07-28,0
+133308,Q93645738,The Medium,Completed,Series X,2021-02-03,2021-01-28,3
+133887,Q94587084,Tony Hawk's Pro Skater 1+2,Abandoned,PS5,,2021-03-25,0
+134070,Q94628102,Mafia: Definitive Edition,Completed,PS4,,2020-09-24,6
+134071,Q99590361,Mafia II: Definitive Edition,Abandoned,PC,,2020-05-18,0
+134101,Q96416457,FIFA 21,Abandoned,PC,,2020-10-07,0
+134161,Q95612551,Sherlock Holmes: Chapter One,Completed,Series X,,2021-11-15,6
+134324,Q111983059,Tchia,Abandoned,PS5,2023-03-21,2023-03-21,4
+134483,Q111410942,Gunfire Reborn,Completed,PC,,2020-05-22,5
+134581,Q96216165,Marvel's Spider-Man: Miles Morales,Completed,PS5,,2020-11-11,10
+134582,Q96217480,Ratchet & Clank: Rift Apart,Completed,PS5,2021-06-07,2021-06-11,6
+134583,Q96240948,Forspoken,Abandoned,PS5,2023-01-24,2023-01-24,0
+134584,Q96240947,Returnal,Completed,PS5,2021-04-29,2021-04-30,10
+134585,Q96215907,Sackboy: A Big Adventure,Completed,PS5,,2020-11-11,8
+134588,Q96242717,Kena: Bridge of Spirits,Completed,PS5,,2021-09-20,8
+134595,Q96216496,Hitman 3,Completed,PS5,2021-02-03,2021-01-20,10
+134597,Q96240949,Astro’s Playroom,Completed,PS5,,2020-11-11,6
+134599,Q96238264,NBA 2K21,Abandoned,PS5,,2020-11-11,0
+134602,Q96240054,Bugsnax,Completed,PS5,2020-11-12,2020-11-12,5
+134606,Q96227146,Demon's Souls,Completed,PS5,2020-11-12,2020-11-12,10
+134612,Q96240015,Pragmata,Wanted,PC,,4000-12-31,0
+134706,Q96312725,Star Wars: Squadrons,Abandoned,PC,,2020-09-30,4
+135243,Q105038239,It Takes Two,Completed,PS5,2021-03-25,2021-03-26,9
+135254,Q96574138,Crash Bandicoot 4: It's About Time,Abandoned,Switch,,2021-03-11,5
+135991,Q97940241,Hello Neighbor 2,Abandoned,Series X,2022-12-10,2022-12-06,0
+135993,Q97657013,State of Decay 3,Wanted,PC,,4000-12-31,0
+135994,Q97736516,Avowed,Wanted,PC,,2025-02-18,0
+135995,Q112618572,As Dusk Falls,Completed,Series X,,2022-07-18,5
+135999,Q121009380,Tetris Effect: Connected,Abandoned,PC,,2020-11-09,0
+136511,Q123385910,Braid: Anniversary Edition,Abandoned,PC,2024-05-14,2024-05-14,0
+136604,Q114284709,Control: Ultimate Edition,Completed,PC,2020-09-05,2020-08-27,10
+136625,Q99397854,Hogwarts Legacy,Completed,PS5,2023-02-06,2023-02-10,9
+136627,Q98142979,Suicide Squad: Kill the Justice League,Abandoned,PC,2024-01-29,2024-02-02,4
+136879,Q98582386,Black Myth: Wukong,Completed,PC,2023-08-21,2024-08-20,5
+136993,Q98558038,Gotham Knights,Completed,PC,,2022-10-20,4
+137001,Q98514334,Call of Duty: Black Ops Cold War,Completed,PC,,2020-11-12,6
+137206,Q97338068,Manor Lords,Abandoned,PC,2024-05-03,2024-04-26,0
+137989,Q100432790,Party Animals,Abandoned,XONE,,2023-09-19,0
+138227,Q105106422,Super Mario 3D World + Bowser's Fury,Completed,Switch,2021-02-10,2021-02-12,7
+138341,Q126956530,RollerCoaster Tycoon 3: Complete Edition,Abandoned,PC,,2020-09-23,0
+138343,Q98969837,Hyrule Warriors: Age of Calamity,Abandoned,Switch,,2020-11-19,0
+138383,Q99194148,Prince of Persia: The Sands of Time,Wanted,PC,,2026-12-31,0
+138906,Q108910283,The Invincible,Abandoned,PC,2023-11-09,2023-11-06,0
+138949,Q100440421,Marvel's Spider-Man Remastered,Completed,PS5,,2020-11-11,9
+138950,Q99441852,Monster Hunter Rise,Abandoned,Switch,,2021-03-25,0
+140617,Q100998627,The Dark Pictures Anthology: House of Ashes,Completed,PS5,2022-11-18,2021-10-21,6
+140839,Q101246186,Mass Effect Legendary Edition,Completed,XONE,,2021-05-13,8
+140972,,Nioh 2: The Complete Edition,Abandoned,PC,,2021-02-04,0
+141338,Q56739638,Red Dead Online,Abandoned,PC,2020-12-01,2019-11-05,0
+141503,Q107214683,Forza Horizon 5,Completed,Series X,,2021-11-08,8
+141537,Q106547243,Perfect Dark,Wanted,PC,,4000-12-31,0
+141538,Q104172915,The Callisto Protocol,Completed,PS5,,2022-12-01,6
+141539,Q104174579,Open Roads,Abandoned,PC,2024-03-28,2024-03-28,0
+141540,Q127164835,Disco Elysium: The Final Cut,Abandoned,PC,,2021-03-29,0
+141543,Q106513305,Road 96,Completed,PC,2021-08-16,2021-08-16,6
+141547,Q104568362,Evil West,Completed,PC,,2022-11-21,4
+142415,Q124312399,Indiana Jones and the Great Circle,Wanted,PC,,2024-12-09,0
+142549,Q120733019,Viewfinder,Completed,PC,2023-06-26,2023-07-17,8
+142740,Q104991768,Resident Evil Re:Verse,Abandoned,PC,,2022-10-28,0
+142862,Q119846651,Farlight 84,Abandoned,PC,,2023-04-24,5
+143292,,Metro Exodus: Enhanced Edition,Completed,PC,,2021-05-05,5
+143482,Q7532694,Six Days in Fallujah,Abandoned,PC,,2023-06-22,0
+143611,Q105967641,Star Wars: Hunters,Abandoned,iOS,2024-06-04,2024-06-03,0
+143612,Q105552404,Neon White,Completed,PC,,2022-06-15,8
+143614,Q105560569,The Legend of Zelda: Skyward Sword HD,Completed,Switch,2021-07-15,2021-07-16,5
+143615,Q105687014,Knockout City,Completed,XONE,,2021-05-20,4
+144022,Q108650420,Sifu,Completed,PS5,,2022-02-07,9
+144024,Q112663549,Final Fantasy VII Remake Intergrade,Completed,PS5,,2021-06-09,6
+144072,Q107388819,Hot Wheels Unleashed,Abandoned,PS5,2022-10-06,2021-09-30,0
+144153,Q105785577,Aliens: Fireteam Elite,Abandoned,PC,,2021-08-23,0
+144465,Q105909744,Teenage Mutant Ninja Turtles: Shredder's Revenge,Abandoned,PC,2022-06-15,2022-06-16,0
+144765,Q106030331,Life is Strange: True Colors,Abandoned,Series X,,2021-09-30,0
+145089,Q108281964,Nobody Saves the World,Abandoned,PC,,2022-01-18,0
+145099,Q107376501,Death's Door,Completed,Series X,,2021-07-19,10
+145439,Q109407554,Escape Simulator,Abandoned,PC,2022-07-10,2021-10-19,0
+145828,Q123119355,Selaco,Abandoned,PC,2024-06-06,2024-05-31,0
+145838,Q106510749,F1 2021,Abandoned,XONE,2021-06-07,2021-07-16,0
+145937,Q118143124,"Little Kitty, Big City",Completed,PC,2024-05-09,2024-05-09,6
+146851,Q106764284,Lost Judgment,Abandoned,Series X,2021-08-24,2021-09-24,0
+148241,Q109820884,Lies of P,Completed,Series X,2023-09-18,2023-09-18,6
+149340,Q104812382,No More Room in Hell 2,Wanted,PC,,2024-10-22,0
+149706,Q109649953,Cats in Time,Abandoned,PC,2022-06-10,2021-08-26,0
+150010,Q109502429,Sonic Frontiers,Completed,PC,,2022-11-07,5
+151788,Q114968449,"El Paso, Elsewhere",Abandoned,PC,2023-12-04,2023-09-25,0
+152061,Q107209787,Tiny Tina's Wonderlands,Abandoned,PS5,,2022-03-24,0
+152063,Q107218167,Death Stranding: Director's Cut,Completed,PS5,2021-08-24,2021-09-24,8
+152067,Q111226218,The Anacrusis,Abandoned,PC,,2022-01-12,0
+152123,Q110586729,World War Z: Aftermath,Completed,PC,2021-09-21,2021-09-21,6
+152201,Q107208619,Mario + Rabbids Sparks of Hope,Completed,Switch,,2022-10-19,4
+152202,Q107208649,Avatar: Frontiers of Pandora,Completed,PC,2023-12-06,2023-12-07,5
+152242,Q107214641,A Plague Tale: Requiem,Completed,Series X,,2022-10-17,7
+152247,Q107214764,Redfall,Abandoned,PC,2023-05-01,2023-05-02,4
+152249,Q107214964,Marvel's Guardians of the Galaxy,Completed,Series X,2021-10-28,2021-10-26,8
+152250,Q107216758,Stranger of Paradise: Final Fantasy Origin,Abandoned,PS5,,2022-03-17,0
+152288,Q107225273,Immortality,Completed,PC,2022-08-30,2022-08-30,7
+153700,Q107398164,Ghost of Tsushima: Director's Cut,Completed,PS5,2021-08-19,2021-08-20,8
+154775,Q107510346,RoboCop: Rogue City,Abandoned,PC,2023-10-17,2023-11-02,4
+159029,Q107578877,XDefiant,Abandoned,PC,2024-06-10,2024-05-21,0
+159119,Q107616212,Dead Space,Completed,Series X,2023-01-14,2023-01-27,9
+165067,Q108054772,Call of Duty: Vanguard,Completed,PC,,2021-11-04,4
+165126,Q107063016,Crysis 2 Remastered,Abandoned,PC,,2021-10-15,0
+165127,Q107063018,Crysis 3 Remastered,Abandoned,PC,,2022-11-17,0
+165192,Q109708349,The Elder Scrolls V: Skyrim - Anniversary Edition,Completed,Series X,2020-12-25,2021-11-11,9
+165229,Q116823232,ExeKiller,Wanted,PC,2023-06-13,2025-12-31,0
+165333,Q115475799,RealRTCW,Abandoned,PC,2021-11-27,2020-10-15,0
+165346,Q108273534,Saints Row,Completed,Series X,2022-08-22,2022-08-23,6
+165351,Q108273566,Cult of the Lamb,Completed,PC,2022-08-14,2022-08-11,9
+167611,Q108416797,Alan Wake Remastered,Completed,XONE,,2021-10-04,5
+168665,Q108479033,Star Wars: Knights of the Old Republic - Remake,Wanted,PC,2023-06-12,4000-12-31,0
+168667,Q108479474,Marvel's Wolverine,Wanted,PS5,,4000-12-31,0
+168670,Q108482649,Uncharted: Legacy of Thieves Collection,Completed,PC,,2022-10-18,8
+171225,Q109328658,Wuchang: Fallen Feathers,Wanted,PC,,2025-12-31,0
+172427,Q108670544,Kirby and the Forgotten Land,Completed,Switch,2022-04-01,2022-03-25,7
+178101,Q109520747,ConcernedApe's Haunted Chocolatier,Wanted,PC,,4000-12-31,0
+178123,,Grand Theft Auto III: The Definitive Edition,Abandoned,PC,,2021-11-11,0
+178125,Q109240477,Grand Theft Auto: Vice City - The Definitive Edition,Abandoned,PS5,,2021-11-11,0
+178126,Q109240155,Grand Theft Auto: San Andreas - The Definitive Edition,Completed,PS5,2021-11-10,2021-11-11,6
+178361,Q107412919,The Dark Pictures Anthology: The Devil in Me,Completed,PS5,,2022-11-17,5
+180960,Q108482619,Kid A Mnesia Exhibition,Abandoned,PS5,2021-11-17,2021-11-18,0
+182410,Q115642093,Post Trauma,Wanted,PC,,2025-12-31,0
+185239,Q110029348,The Expanse: A Telltale Series,Completed,Series X,2023-08-04,2023-07-27,4
+185240,Q110029363,Thirsty Suitors,Abandoned,Series X,2023-11-02,2023-11-02,0
+185241,Q110029350,Have a Nice Death,Abandoned,PC,2022-04-01,2023-03-22,0
+185244,Q110027938,Star Wars: Eclipse,Wanted,PC,,4000-12-31,0
+185246,Q108417001,Alan Wake II,Completed,PS5,2023-10-26,2023-10-27,10
+185248,Q110028121,Slitterhead,Wanted,PC,,2024-11-08,0
+185251,Q109965238,The Matrix: Awakens - An Unreal Engine 5 Experience,Completed,PS5,2021-12-05,2021-12-06,6
+185252,Q110055360,"Warhammer 40,000: Space Marine II",Abandoned,PC,2024-09-29,2024-09-09,0
+185253,Q110028339,Dune: Spice Wars,Abandoned,PC,2023-04-26,2022-04-26,0
+185258,Q110029330,ARC Raiders,Wanted,PC,,2025-12-31,0
+186725,Q110726215,Vampire Survivors,Abandoned,PC,,2021-12-16,0
+190280,Q118228600,Tape To Tape,Abandoned,PC,,2023-05-02,0
+190422,,Demon Spore,Abandoned,PC,2024-02-08,2025-12-31,0
+191435,Q116149653,Animal Well,Abandoned,Steam Deck,2024-05-19,2024-05-09,0
+191897,Q111018327,Aperture Desk Job,Completed,PC,2022-02-28,2022-03-01,4
+192359,Q116471121,Outshine,Abandoned,PC,,2022-11-03,0
+193334,Q114348001,Undetected,Abandoned,PC,2022-10-01,2022-09-30,0
+194404,Q111358923,The Quarry,Completed,PS5,,2022-06-09,8
+194436,Q112434575,Flintlock: The Siege of Dawn,Abandoned,PC,2024-07-18,2024-07-18,0
+194464,Q113140888,Escape Academy,Completed,Series X,2022-07-16,2022-07-13,8
+194662,Q111333224,The Witcher,Wanted,PC,,4000-12-31,0
+194965,Q115569035,Hyper Light Breaker,Wanted,PC,2022-12-03,2025-12-31,0
+195517,Q111538856,Return to Monkey Island,Completed,PC,2022-09-19,2022-09-19,5
+196954,Q123173448,Hell is Us,Wanted,PC,,2025-12-31,0
+198439,Q115476105,American Arcadia,Completed,PC,,2023-11-14,5
+198499,Q122234668,Chants of Sennaar,Abandoned,PC,,2023-09-04,0
+200165,Q110206584,Call of Duty: Modern Warfare II,Completed,PC,,2022-10-27,6
+200903,Q111968487,Another Crab's Treasure,Completed,PC,,2024-04-25,6
+201156,Q112704136,Star Wars Jedi: Survivor,Completed,PS5,2023-04-28,2023-04-28,6
+201944,,Fall Guys: Season 1 - Free for All,Abandoned,PS5,,2022-06-20,0
+203331,,Monument Valley: Panoramic Edition,Completed,PC,2022-07-13,2022-07-12,9
+203388,,Monument Valley 2: Panoramic Edition,Completed,PC,2022-07-13,2022-07-12,8
+203722,Q114995908,Dave the Diver,Abandoned,Switch,,2023-10-26,0
+204350,Q113377532,The Last of Us Part I,Completed,PS5,,2022-08-31,10
+204356,Q112704855,Fort Solis,Completed,PS5,2023-08-22,2023-08-22,4
+204543,Q115024151,The Entropy Centre,Completed,PC,,2022-11-02,8
+204618,Q112566540,High on Life,Completed,Series X,2022-12-06,2022-12-13,6
+204627,Q112618750,Cocoon,Completed,PS5,2023-09-29,2023-09-29,8
+204628,Q112566486,Wo Long: Fallen Dynasty,Completed,Series X,2023-03-04,2023-03-02,6
+205201,Q112620598,Crisis Core: Final Fantasy VII - Reunion,Completed,PC,2022-12-06,2022-12-12,4
+207026,,Final Fantasy VII,Abandoned,PC,2021-05-02,2012-08-14,0
+212664,Q117543285,Sherlock Holmes: The Awakened,Completed,Series X,2023-03-21,2023-04-11,6
+213237,Q113510585,Alone in the Dark,Completed,PC,2024-03-20,2024-03-20,6
+214394,Q113585920,Dune: Awakening,Wanted,PC,,2025-12-31,0
+214417,Q113586393,The Finals,Abandoned,PC,2023-12-07,2023-10-25,0
+215060,Q113675008,Assassin's Creed Mirage,Completed,PC,2023-10-04,2023-10-05,5
+215769,Q113826614,Cyberpunk 2077: Phantom Liberty,Completed,PC,2023-09-25,2023-09-25,8
+216315,Q115815979,Marvel 1943: Rise of Hydra,Wanted,PC,,2025-12-31,0
+217404,Q124016810,The Axis Unseen,Wanted,PC,,2024-10-22,0
+217441,Q122377958,Desordre: A Puzzle Game Adventure,Abandoned,PC,2023-10-31,2023-06-01,0
+217592,Q113959701,Pacific Drive,Abandoned,PC,,2024-02-22,0
+217594,Q113961028,Rise of the Ronin,Abandoned,PS5,2024-03-20,2024-03-22,5
+217597,Q113961026,Like a Dragon: Ishin!,Abandoned,Series X,2023-02-17,2023-02-21,0
+217623,Q116980062,Like a Dragon: Infinite Wealth,Completed,PC,2024-01-24,2024-01-26,8
+217624,Q116980103,Like a Dragon Gaiden: The Man Who Erased His Name,Abandoned,Series X,,2023-11-09,0
+218277,Q115633684,Portal with RTX,Abandoned,PC,2022-12-08,2022-12-08,0
+218974,,Hitman: Absolution HD,Completed,XONE,,2019-01-11,7
+222341,Q114770599,Silent Hill 2,Queued,PC,2024-10-08,2024-10-08,0
+222803,Q114858023,Age of Mythology: Retold,Abandoned,PC,,2024-09-04,0
+223134,Q114968454,"El Paso, Nightmare",Abandoned,PC,,2022-10-25,0
+228525,Q115641620,Hades II,Completed,PC,2024-05-06,2024-05-06,7
+228527,Q115641623,Judas,Wanted,PC,,2025-12-31,0
+228530,Q115641709,Death Stranding 2: On The Beach,Wanted,PS5,,2025-12-31,0
+228531,Q115641718,Immortals of Aveum,Abandoned,PC,2023-09-27,2023-08-21,0
+228533,Q115641819,Horizon Forbidden West: Burning Shores,Completed,PS5,2023-04-19,2023-04-19,6
+228535,Q115641826,Remnant II,Completed,PC,2023-08-04,2023-07-24,5
+228539,Q115641841,Banishers: Ghosts of New Eden,Abandoned,PC,,2024-02-13,5
+228541,Q115641853,Crime Boss: Rockay City,Abandoned,Series X,2023-06-18,2023-06-15,4
+228542,Q115641899,Armored Core VI: Fires of Rubicon,Completed,PS5,2023-08-25,2023-08-25,6
+233585,Q116439515,Hi-Fi Rush,Abandoned,PC,2023-01-30,2023-01-24,0
+236663,Q116734030,Metroid Prime Remastered,Completed,Switch,2023-02-08,2023-02-08,8
+237780,Q115249849,Directive 8020,Wanted,PC,,2025-12-31,0
+239999,Q117316999,The Outer Worlds: Spacer's Choice Edition,Completed,PC,2023-03-07,2023-03-07,7
+240009,Q116952973,Elden Ring: Shadow of the Erdtree,Completed,PS5,2024-06-15,2024-06-21,10
+240558,Q118136346,F1 23,Abandoned,PC,,2023-06-16,0
+240902,Q116995799,Cities: Skylines II,Abandoned,PC,2023-06-12,2023-10-24,0
+242408,Q111165107,Counter-Strike 2,Abandoned,PC,2023-09-27,2023-03-22,0
+246166,Q117768892,Harry Potter: Quidditch Champions,Abandoned,PS5,,2024-09-03,0
+247383,Q118698063,F1 Manager 2023,Abandoned,PC,,2023-07-31,0
+250615,Q118645433,Fairgames,Wanted,PC,2023-05-25,4000-12-31,0
+250616,Q118645527,Helldivers 2,Collection,PC,,2024-02-08,9
+250617,Q106835809,Ghostrunner II,Abandoned,PS5,2023-05-25,2023-10-25,0
+250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,2024-12-31,0
+250620,Q118645491,Sword of the Sea,Wanted,PC,2023-05-25,2025-12-31,0
+250630,Q118645622,Marathon,Wanted,PC,2023-05-25,2025-12-31,0
+250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Wanted,PC,2023-05-24,2024-12-31,0
+250635,Q118650385,Metal Gear Solid Master Collection: Volume 1,Completed,PC,2023-06-26,2023-10-23,8
+251833,Q124357469,Balatro,Abandoned,PC,,2024-02-20,0
+252072,Q126693109,Athena Crisis,Abandoned,PC,2024-03-10,2024-09-23,0
+252476,Q119224900,Prince of Persia: The Lost Crown,Completed,PC,2024-01-14,2024-01-17,8
+252478,Q119225008,Sonic Superstars,Abandoned,Switch,2023-06-21,2023-10-16,0
+252502,,Baby Steps,Wanted,PC,,2024-12-31,0
+252826,Q119360998,South of Midnight,Wanted,PC,,2025-12-31,0
+252827,Q119361001,Star Wars Outlaws,Completed,PC,2024-08-26,2024-08-30,8
+252828,Q119361054,33 Immortals,Wanted,PC,,2024-12-31,0
+252836,Q119361361,Jusant,Completed,Series X,2023-10-29,2023-10-31,7
+252837,Q119361372,Still Wakes the Deep,Abandoned,PC,2024-06-15,2024-06-18,4
+252840,Q119361526,Clockwork Revolution,Wanted,PC,2023-06-11,4000-12-31,0
+254327,Q119822934,Super Mario RPG,Abandoned,Switch,2023-11-12,2023-11-16,0
+254339,Q119819453,Super Mario Bros. Wonder,Completed,Switch,2023-10-19,2023-10-20,5
+255093,Q120102489,Blade Runner 2033: Labyrinth,Wanted,PC,2023-07-02,4000-12-31,0
+256291,Q125709883,Astor: Blade of the Monolith,Abandoned,PC,2024-06-03,2024-05-30,0
+256666,,Time Breaker,Abandoned,PC,2023-11-26,2022-05-17,0
+260780,Q121295422,Call of Duty: Modern Warfare III,Completed,PC,2023-11-01,2023-11-10,5
+261085,Q737103,Quake II,Abandoned,PC,2023-08-20,2023-08-10,0
+262186,Q123138197,Delta Force,Wanted,PC,,2024-12-31,0
+262973,Q124690517,Star Wars: Dark Forces Remaster,Abandoned,PC,2024-02-28,2024-02-29,0
+263480,,Starfield: Shattered Space,Completed,PC,2024-09-29,2024-09-30,7
+264412,Q122234992,EA Sports WRC,Abandoned,PC,,2023-11-03,0
+266683,Q123272433,Tomb Raider I•II•III Remastered,Abandoned,PC,2024-02-13,2024-02-14,0
+266690,,Paper Mario: The Thousand-Year Door,Abandoned,Switch,2024-05-18,2024-05-23,0
+266717,,Resident Evil 4: Separate Ways,Completed,PS5,2023-09-20,2023-09-21,7
+268842,,Horizon Forbidden West: Complete Edition,Abandoned,PC,2023-09-27,2024-03-21,0
+273996,Q126410039,Alan Wake II: Night Springs,Completed,PS5,2024-06-07,2024-06-08,8
+273997,Q126414466,Alan Wake II: The Lake House,Wanted,PS5,,2024-12-31,0
+277143,Q123473426,The Last of Us Part II: Remastered,Abandoned,PS5,2024-01-22,2024-01-19,0
+278326,Q126744144,Beyond Good & Evil: 20th Anniversary Edition,Abandoned,PC,2024-07-07,2024-06-25,0
+279612,Q123698807,Brothers: A Tale of Two Sons Remake,Completed,PC,2024-02-28,2024-02-28,5
+279613,Q123698809,Pony Island 2: Panda Circus,Wanted,PC,2023-12-07,4000-12-31,0
+279623,,God of War Ragnarök: Valhalla,Completed,PS5,2023-12-12,2023-12-11,6
+279624,Q123698935,Big Walk,Wanted,PC,2023-12-07,2025-12-31,0
+279627,Q123698954,No Rest for the Wicked,Completed,PC,2024-04-18,2024-04-18,5
+279635,Q123698969,The Casting of Frank Stone,Completed,PC,2023-12-07,2024-09-03,5
+279637,,OD,Wanted,Series X|S,,4000-12-31,0
+279641,Q123699054,Tales of Kenzera: Zau,Completed,PC,2023-12-07,2024-04-23,7
+279642,Q123699056,Lost Records: Bloom & Rage,Wanted,PC,2023-12-07,2025-02-18,0
+279646,Q123699068,Marvel's Blade,Wanted,PC,,4000-12-31,0
+279649,Q123699101,Den of Wolves,Wanted,PC,,4000-12-31,0
+279655,,Light No Fire,Wanted,PC,,4000-12-31,0
+279657,Q123785377,Final Fantasy XVI: Echoes of the Fallen,Completed,PS5,2023-12-08,2023-12-08,6
+279658,Q123785382,Final Fantasy XVI: The Rising Tide,Completed,PS5,2024-04-17,2024-04-18,6
+280252,Q123764432,Streetdog BMX,Wanted,TBC,2023-12-13,4000-12-31,0
+284721,Q124395933,Until Dawn,Completed,PC,,2024-10-04,6
+287851,,Star Wars: Battlefront Classic Collection,Abandoned,PC,2024-02-29,2024-03-14,0
+289696,Q124753643,The Sinking City 2,Wanted,PC,,2025-12-31,0
+290138,,"Command & Conquer: Red Alert, Counterstrike and The Aftermath",Abandoned,,,,0
+290139,,Command & Conquer: Tiberian Sun and Firestorm,Abandoned,,,,0
+290140,,Command & Conquer: Red Alert 2 and Yuri’s Revenge,Abandoned,,,,0
+290216,,Command & Conquer and The Covert Operations,Abandoned,,,,0
+290911,,Nobody Wants to Die,Completed,PC,2024-08-02,2024-07-17,7
+293733,,Screenbound,Wanted,PC,,4000-12-31,0
+294041,Q125175413,Marvel Rivals,Wanted,PC,,2024-12-06,0
+296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
+300976,Q117716202,Assassin's Creed Shadows,Wanted,PC,,2025-02-14,0
+302156,Q125962931,Call of Duty: Black Ops 6,Wanted,PC,,2024-10-25,0
+302704,Q126091569,Doom: The Dark Ages,Wanted,PC,,2025-12-31,0
+303811,Q126199700,Astro Bot,Completed,PS5,2024-09-05,2024-09-06,8
+305015,,Project C,Wanted,PC,,4000-12-31,0
+305017,Q126414600,Cairn,Wanted,PC,,2025-12-31,0
+305027,,New World: Aeternum,Queued,PC,2024-10-15,2024-10-15,0
+305042,,Possessor(s),Wanted,PC,,4000-12-31,0
+305152,Q126462072,Clair Obscur: Expedition 33,Wanted,PC,,2025-12-31,0
+305157,,Mixtape,Wanted,PC,,2025-12-31,0
+305159,,Atomfall,Wanted,PC,,2025-12-31,0
+305160,Q125341011,Gears of War: E-Day,Wanted,PC,,4000-12-31,0
+306143,,Donkey Kong Country Returns HD,Wanted,Switch,,2025-01-16,0
+306149,Q126722717,The Legend of Zelda: Echoes of Wisdom,Queued,Switch,2024-09-25,2024-09-26,0
+306979,,Dead Rising Deluxe Remaster,Queued,PC,2024-09-17,2024-09-19,0
+308029,Q127328363,Black State,Wanted,PC,,4000-12-31,0
+314238,Q129437626,Sniper Elite: Resistance,Wanted,PC,,2025-12-31,0
+314246,Q129437801,Borderlands 4,Wanted,PC,,2025-12-31,0
+314252,Q129438968,Dying Light: The Beast,Wanted,PC,,4000-12-31,0
+314276,Q129444823,Mafia: The Old Country,Wanted,PC,,2025-12-31,0
+315804,,Star Wars Outlaws: Wild Card,Wanted,PC,,2024-11-21,0
+315805,,Star Wars Outlaws: A Pirate's Fortune,Wanted,PC,,2025-12-31,0
+317317,,Like a Dragon: Pirate Yakuza in Hawaii,Queued,PC,2024-10-01,2025-02-28,0
+317625,Q130360274,Legacy of Kain: Soul Reaver 1 & 2 Remastered,Queued,PC,,2024-12-10,0
+317626,,Stellar Blade x Nier: Automata,Wanted,PS5,,2024-12-31,0
+317627,Q130360297,Ghost of Yotei,Wanted,PS5,,2025-12-31,0
