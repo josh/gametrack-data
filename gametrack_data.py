@@ -1,13 +1,14 @@
-import sqlite3
-from pathlib import Path
-import datetime
-import csv
-from typing import TypedDict, Iterator, Iterable, Literal
 import argparse
-import urllib.request
-import urllib.parse
+import csv
+import datetime
 import json
+import sqlite3
 import sys
+import urllib.parse
+import urllib.request
+from collections.abc import Iterable, Iterator
+from pathlib import Path
+from typing import Literal, TypedDict
 
 GAMEDATA_PATH = (
     Path.home()
