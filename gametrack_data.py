@@ -9,7 +9,7 @@ import urllib.request
 from collections.abc import Iterable, Iterator
 from io import StringIO
 from pathlib import Path
-from typing import Any, Literal, TextIO, TypedDict
+from typing import Any, Literal, TextIO, TypedDict, Union
 
 GAMEDATA_PATH = (
     Path.home()
@@ -71,7 +71,7 @@ class Game(TypedDict):
     user_rating: int
 
 
-def _from_coredata_timestamp(timestamp: int | float) -> datetime.datetime:
+def _from_coredata_timestamp(timestamp: Union[int, float]) -> datetime.datetime:
     return datetime.datetime.fromtimestamp(int(timestamp) + 978307200)
 
 
