@@ -45,6 +45,8 @@ GAME_STATUS_ENUM: dict[int, GAME_STATUS] = {
     6: "Wanted",
 }
 
+RATINGS_ENUM = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
 GAME_FIELDS = [
     "igdb_id",
     "wikidata_qid",
@@ -64,6 +66,7 @@ class Game(TypedDict):
     status: GAME_STATUS
     platform: str
     added_date: str
+    release_year: int
     release_date: str
     user_rating: int
 
@@ -76,10 +79,48 @@ def _write_csv(f: TextIO, games: Iterable[Game]) -> int:
     writer = csv.DictWriter(f, fieldnames=GAME_FIELDS)
     writer.writeheader()
     count = 0
-    for row in games:
+    for game in games:
+        row = {field: game.get(field) for field in GAME_FIELDS}
         writer.writerow(row)
         count += 1
     return count
+
+
+def _write_prom_metrics(f: TextIO, games: list[Game]) -> None:
+    counts: dict[tuple[int, str, GAME_STATUS], int] = {}
+    ratings: dict[tuple[int, int], int] = {}
+
+    platforms = sorted(game["platform"] for game in games)
+    years = sorted(game["release_year"] for game in games)
+
+    for status in GAME_STATUS_ENUM.values():
+        for year in years:
+            for platform in platforms:
+                counts[(year, platform, status)] = 0
+                for rating in RATINGS_ENUM:
+                    ratings[(rating, year)] = 0
+
+    for game in games:
+        year = game["release_year"]
+        platform = game["platform"]
+        status = game["status"]
+        counts[(year, platform, status)] += 1
+        if user_rating := game["user_rating"]:
+            ratings[(user_rating, year)] += 1
+
+    f.write("# HELP gametrack_game_count Number of games\n")
+    f.write("# TYPE gametrack_game_count gauge\n")
+    for (year, platform, status), value in counts.items():
+        f.write(
+            f'gametrack_game_count{{year="{year}",platform="{platform}",status="{status}"}} {value:.1f}\n'
+        )
+
+    f.write("# HELP gametrack_game_rating Game rating\n")
+    f.write("# TYPE gametrack_game_rating gauge\n")
+    for (rating, year), value in ratings.items():
+        f.write(
+            f'gametrack_game_rating{{year="{year}",rating="{rating}"}} {value:.1f}\n'
+        )
 
 
 _SPARQL_QUERY = """
@@ -157,11 +198,12 @@ def _load_gametrack_games() -> Iterator[Game]:
 
         release_date = ""
         if row["ZRELEASEDATE"]:
-            release_date = _from_coredata_timestamp(row["ZRELEASEDATE"]).strftime(
-                "%Y-%m-%d"
-            )
+            d = _from_coredata_timestamp(row["ZRELEASEDATE"])
+            release_date = d.strftime("%Y-%m-%d")
+            release_year = d.year
         else:
             release_date = ""
+            release_year = 0
 
         if row["ZADDEDDATE"]:
             added_date = _from_coredata_timestamp(row["ZADDEDDATE"]).strftime(
@@ -179,6 +221,7 @@ def _load_gametrack_games() -> Iterator[Game]:
             "status": status,
             "platform": platform,
             "added_date": added_date,
+            "release_year": release_year,
             "release_date": release_date,
             "user_rating": user_rating,
         }
@@ -332,16 +375,24 @@ def _gh_commit_tree(
     return new_commit_sha
 
 
-def _upload_github(repo: str, github_token: str, games: Iterable[Game]) -> None:
+def _upload_github(repo: str, github_token: str, games: list[Game]) -> None:
     gamedata = StringIO()
     _write_csv(gamedata, games)
+    metricsdata = StringIO()
+    _write_prom_metrics(metricsdata, games)
     tree: list[_GitTreeEntry] = [
         {
             "path": "games.csv",
             "mode": "100644",
             "type": "blob",
             "sha": _gh_create_blob(repo, github_token, gamedata.getvalue()),
-        }
+        },
+        {
+            "path": "metrics.prom",
+            "mode": "100644",
+            "type": "blob",
+            "sha": _gh_create_blob(repo, github_token, metricsdata.getvalue()),
+        },
     ]
 
     _gh_commit_tree(
@@ -362,6 +413,13 @@ def main() -> None:
         help="Output CSV filename",
     )
     parser.add_argument(
+        "--metrics-filename",
+        metavar="FILENAME",
+        type=str,
+        help="Prometheus metrics filename",
+    )
+
+    parser.add_argument(
         "--gh-repo", metavar="GITHUB_REPOSITORY", type=str, help="GitHub repository"
     )
     parser.add_argument(
@@ -373,17 +431,20 @@ def main() -> None:
     args = parser.parse_args()
 
     exitcode = 1
+    games = list(_load_gametrack_games())
 
-    if args.output_filename:
-        output_filename = Path(args.output_filename)
-        games = _load_gametrack_games()
-        with output_filename.open("w") as csvfile:
+    if filename := args.output_filename:
+        with open(filename, "w") as csvfile:
             count = _write_csv(csvfile, games)
-            print(f"Wrote {count} rows to {output_filename}", file=sys.stderr)
+            print(f"Wrote {count} rows to {filename}", file=sys.stderr)
+        exitcode = 0
+
+    if filename := args.metrics_filename:
+        with open(filename, "w") as f:
+            _write_prom_metrics(f, games)
         exitcode = 0
 
     if args.gh_repo and args.gh_token:
-        games = _load_gametrack_games()
         _upload_github(
             repo=args.gh_repo,
             github_token=args.gh_token,
