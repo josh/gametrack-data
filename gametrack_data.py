@@ -7,8 +7,9 @@ import sys
 import urllib.parse
 import urllib.request
 from collections.abc import Iterable, Iterator
+from io import StringIO
 from pathlib import Path
-from typing import Literal, TypedDict
+from typing import Any, Literal, TextIO, TypedDict
 
 GAMEDATA_PATH = (
     Path.home()
@@ -71,11 +72,14 @@ def _from_coredata_timestamp(timestamp: int | float) -> datetime.datetime:
     return datetime.datetime.fromtimestamp(int(timestamp) + 978307200)
 
 
-def _write_csv(filename: Path, games: Iterable[Game]) -> None:
-    with open(filename, "w") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=GAME_FIELDS)
-        writer.writeheader()
-        writer.writerows(games)
+def _write_csv(f: TextIO, games: Iterable[Game]) -> int:
+    writer = csv.DictWriter(f, fieldnames=GAME_FIELDS)
+    writer.writeheader()
+    count = 0
+    for row in games:
+        writer.writerow(row)
+        count += 1
+    return count
 
 
 _SPARQL_QUERY = """
@@ -90,20 +94,20 @@ def _load_wikidata_items(igdb_ids: Iterable[int]) -> dict[int, str]:
     igdb_ids_str = " ".join(f'"{igdb_id}"' for igdb_id in igdb_ids)
     assert len(igdb_ids_str) > 1
     query = _SPARQL_QUERY.replace("?IGDB_IDS", igdb_ids_str)
-    data = urllib.parse.urlencode({"query": query}).encode("utf-8")
+    post_data = urllib.parse.urlencode({"query": query}).encode("utf-8")
 
     req = urllib.request.Request(
         "https://query.wikidata.org/sparql",
         method="POST",
-        data=data,
+        data=post_data,
         headers={"Accept": "application/json"},
     )
 
     with urllib.request.urlopen(req, timeout=60) as response:
-        resp_data = json.load(response)
+        data = json.load(response)
 
     results: dict[int, str] = {}
-    for row in resp_data["results"]["bindings"]:
+    for row in data["results"]["bindings"]:
         qid = row["item"]["value"].split("/")[-1]
         assert qid.startswith("Q")
         igdb_id = int(row["igdb_id"]["value"])
@@ -182,21 +186,212 @@ def _load_gametrack_games() -> Iterator[Game]:
     conn.close()
 
 
+def _gh_api_get(path: str, github_token: str) -> dict[str, Any]:
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "Authorization": f"Bearer {github_token}",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
+    req = urllib.request.Request(
+        f"https://api.github.com{path}",
+        method="GET",
+        headers=headers,
+    )
+    with urllib.request.urlopen(req, timeout=10) as response:
+        data = json.load(response)
+        assert isinstance(data, dict)
+        return data
+
+
+def _gh_api_post(path: str, body: dict[str, Any], github_token: str) -> dict[str, Any]:
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "Authorization": f"Bearer {github_token}",
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Content-Type": "application/json",
+    }
+    req = urllib.request.Request(
+        f"https://api.github.com{path}",
+        method="POST",
+        data=json.dumps(body).encode("utf-8"),
+        headers=headers,
+    )
+    with urllib.request.urlopen(req, timeout=10) as response:
+        data = json.load(response)
+        assert isinstance(data, dict)
+        return data
+
+
+def _gh_create_blob(repo: str, github_token: str, content: str) -> str:
+    data = _gh_api_post(
+        path=f"/repos/{repo}/git/blobs",
+        body={"content": content, "encoding": "utf-8"},
+        github_token=github_token,
+    )
+    sha = data["sha"]
+    assert isinstance(sha, str)
+    assert len(sha) == 40
+    return sha
+
+
+class _GitTreeEntry(TypedDict):
+    path: str
+    mode: str
+    type: Literal["blob", "tree"]
+    sha: str
+
+
+def _gh_create_tree(repo: str, github_token: str, tree: Iterable[_GitTreeEntry]) -> str:
+    data = _gh_api_post(
+        path=f"/repos/{repo}/git/trees",
+        body={"tree": list(tree)},
+        github_token=github_token,
+    )
+    sha = data["sha"]
+    assert isinstance(sha, str)
+    assert len(sha) == 40
+    return sha
+
+
+def _gh_create_commit(
+    repo: str, message: str, tree_sha: str, parent_sha: str, github_token: str
+) -> str:
+    data = _gh_api_post(
+        path=f"/repos/{repo}/git/commits",
+        body={
+            "message": message,
+            "parents": [parent_sha],
+            "tree": tree_sha,
+        },
+        github_token=github_token,
+    )
+    sha = data["sha"]
+    assert isinstance(sha, str)
+    assert len(sha) == 40
+    return sha
+
+
+def _gh_branch_sha(repo: str, name: str, github_token: str) -> tuple[str, str]:
+    data = _gh_api_get(
+        path=f"/repos/{repo}/git/ref/heads/{name}",
+        github_token=github_token,
+    )
+    assert data["object"]["type"] == "commit"
+    commit_sha = data["object"]["sha"]
+    assert isinstance(commit_sha, str)
+    assert len(commit_sha) == 40
+
+    data = _gh_api_get(
+        path=f"/repos/{repo}/git/commits/{commit_sha}",
+        github_token=github_token,
+    )
+    tree_sha = data["tree"]["sha"]
+    assert isinstance(tree_sha, str)
+    assert len(tree_sha) == 40
+
+    return commit_sha, tree_sha
+
+
+def _gh_update_branch(repo: str, name: str, commit_sha: str, github_token: str) -> None:
+    data = _gh_api_post(
+        path=f"/repos/{repo}/git/refs/heads/{name}",
+        body={"sha": commit_sha, "force": False},
+        github_token=github_token,
+    )
+    assert data["object"]["type"] == "commit"
+    assert data["object"]["sha"] == commit_sha
+    print(f"Updated '{repo}/{name}' to {commit_sha}", file=sys.stderr)
+
+
+def _gh_commit_tree(
+    repo: str,
+    github_token: str,
+    branch: str,
+    message: str,
+    tree: Iterable[_GitTreeEntry],
+) -> str:
+    previous_commit_sha, previous_tree_sha = _gh_branch_sha(repo, branch, github_token)
+    new_tree_sha = _gh_create_tree(repo, github_token, tree)
+
+    if previous_tree_sha == new_tree_sha:
+        return previous_commit_sha
+
+    new_commit_sha = _gh_create_commit(
+        repo=repo,
+        message=message,
+        tree_sha=new_tree_sha,
+        parent_sha=previous_commit_sha,
+        github_token=github_token,
+    )
+    _gh_update_branch(
+        repo,
+        branch,
+        new_commit_sha,
+        github_token,
+    )
+    return new_commit_sha
+
+
+def _upload_github(repo: str, github_token: str, games: Iterable[Game]) -> None:
+    gamedata = StringIO()
+    _write_csv(gamedata, games)
+    tree: list[_GitTreeEntry] = [
+        {
+            "path": "games.csv",
+            "mode": "100644",
+            "type": "blob",
+            "sha": _gh_create_blob(repo, github_token, gamedata.getvalue()),
+        }
+    ]
+
+    _gh_commit_tree(
+        repo=repo,
+        github_token=github_token,
+        branch="data",
+        message="Update data",
+        tree=tree,
+    )
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Export GameTrack data to CSV")
     parser.add_argument(
         "--output-filename",
         metavar="FILENAME",
         type=str,
-        required=True,
         help="Output CSV filename",
+    )
+    parser.add_argument(
+        "--gh-repo", metavar="GITHUB_REPOSITORY", type=str, help="GitHub repository"
+    )
+    parser.add_argument(
+        "--gh-token",
+        metavar="GITHUB_TOKEN",
+        type=str,
+        help="GitHub token",
     )
     args = parser.parse_args()
 
-    output_filename = Path(args.output_filename)
-    games = _load_gametrack_games()
+    exitcode = 1
 
-    _write_csv(filename=output_filename, games=games)
+    if args.output_filename:
+        output_filename = Path(args.output_filename)
+        games = _load_gametrack_games()
+        with output_filename.open("w") as csvfile:
+            count = _write_csv(csvfile, games)
+            print(f"Wrote {count} rows to {output_filename}", file=sys.stderr)
+        exitcode = 0
+
+    if args.gh_repo and args.gh_token:
+        games = _load_gametrack_games()
+        _upload_github(
+            repo=args.gh_repo,
+            github_token=args.gh_token,
+            games=games,
+        )
+        exitcode = 0
+
+    exit(exitcode)
 
 
 if __name__ == "__main__":
