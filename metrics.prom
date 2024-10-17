@@ -427,7 +427,7 @@ gametrack_game_count{year="2017",platform="XONE",status="In Progress"} 0.0
 gametrack_game_count{year="2017",platform="iOS",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="N64",status="In Progress"} 0.0
-gametrack_game_count{year="2018",platform="PC",status="In Progress"} 1.0
+gametrack_game_count{year="2018",platform="PC",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="PS2",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="PS3",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="PS4",status="In Progress"} 0.0
@@ -2212,7 +2212,7 @@ gametrack_game_count{year="2017",platform="XONE",status="Completed"} 3.0
 gametrack_game_count{year="2017",platform="iOS",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="N64",status="Completed"} 0.0
-gametrack_game_count{year="2018",platform="PC",status="Completed"} 7.0
+gametrack_game_count{year="2018",platform="PC",status="Completed"} 8.0
 gametrack_game_count{year="2018",platform="PS2",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="PS3",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="PS4",status="Completed"} 3.0
@@ -2300,7 +2300,7 @@ gametrack_game_count{year="2023",platform="N64",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="PC",status="Completed"} 14.0
 gametrack_game_count{year="2023",platform="PS2",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="PS3",status="Completed"} 0.0
-gametrack_game_count{year="2023",platform="PS4",status="Completed"} 0.0
+gametrack_game_count{year="2023",platform="PS4",status="Completed"} 1.0
 gametrack_game_count{year="2023",platform="PS5",status="Completed"} 15.0
 gametrack_game_count{year="2023",platform="Series X",status="Completed"} 7.0
 gametrack_game_count{year="2023",platform="Series X|S",status="Completed"} 0.0
@@ -3829,7 +3829,7 @@ gametrack_game_rating{year="2018",rating="4"} 1.0
 gametrack_game_rating{year="2018",rating="5"} 4.0
 gametrack_game_rating{year="2018",rating="6"} 0.0
 gametrack_game_rating{year="2018",rating="7"} 4.0
-gametrack_game_rating{year="2018",rating="8"} 1.0
+gametrack_game_rating{year="2018",rating="8"} 2.0
 gametrack_game_rating{year="2018",rating="9"} 1.0
 gametrack_game_rating{year="2018",rating="10"} 2.0
 gametrack_game_rating{year="2019",rating="1"} 0.0
@@ -3880,7 +3880,7 @@ gametrack_game_rating{year="2023",rating="5"} 8.0
 gametrack_game_rating{year="2023",rating="6"} 11.0
 gametrack_game_rating{year="2023",rating="7"} 4.0
 gametrack_game_rating{year="2023",rating="8"} 8.0
-gametrack_game_rating{year="2023",rating="9"} 5.0
+gametrack_game_rating{year="2023",rating="9"} 6.0
 gametrack_game_rating{year="2023",rating="10"} 2.0
 gametrack_game_rating{year="2024",rating="1"} 0.0
 gametrack_game_rating{year="2024",rating="2"} 0.0

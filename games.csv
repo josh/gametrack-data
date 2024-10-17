@@ -479,7 +479,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 103016,Q125768610,Yakuza 4 Remastered,Abandoned,PC,,2021-01-28,0
 103017,Q125768634,Yakuza 5 Remastered,Abandoned,PC,,2021-01-28,0
 103020,Q54497595,Fallout 76,Abandoned,PC,2022-07-10,2020-04-14,5
-103054,Q54617566,Assassin's Creed Odyssey,In Progress,PC,2020-10-13,2018-10-05,0
+103054,Q54617566,Assassin's Creed Odyssey,Completed,PC,2020-10-13,2018-10-05,8
 103210,Q54856541,HITMAN 2,Completed,PS4,,2018-11-12,10
 103281,Q54913666,Halo Infinite,Completed,Series X,,2021-12-07,8
 103292,Q55128278,Gears 5,Abandoned,PC,,2019-09-08,0
@@ -796,6 +796,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 255093,Q120102489,Blade Runner 2033: Labyrinth,Wanted,PC,2023-07-02,4000-12-31,0
 256291,Q125709883,Astor: Blade of the Monolith,Abandoned,PC,2024-06-03,2024-05-30,0
 256666,,Time Breaker,Abandoned,PC,2023-11-26,2022-05-17,0
+260735,,Red Dead Redemption,Completed,PS4,,2023-08-17,9
 260780,Q121295422,Call of Duty: Modern Warfare III,Completed,PC,2023-11-01,2023-11-10,5
 261085,Q737103,Quake II,Abandoned,PC,2023-08-20,2023-08-10,0
 262186,Q123138197,Delta Force,Wanted,PC,,2024-12-31,0
