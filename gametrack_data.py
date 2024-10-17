@@ -87,7 +87,8 @@ def _write_csv(f: TextIO, games: Iterable[Game]) -> int:
     return count
 
 
-def _write_prom_metrics(f: TextIO, games: list[Game]) -> None:
+def _write_prom_metrics(f: TextIO, games: list[Game]) -> int:
+    count = 0
     counts: dict[tuple[int, str, GAME_STATUS], int] = {}
     ratings: dict[tuple[int, int], int] = {}
 
@@ -115,6 +116,7 @@ def _write_prom_metrics(f: TextIO, games: list[Game]) -> None:
         f.write(
             f'gametrack_game_count{{year="{year}",platform="{platform}",status="{status}"}} {value:.1f}\n'
         )
+        count += 1
 
     f.write("# HELP gametrack_game_rating Game rating\n")
     f.write("# TYPE gametrack_game_rating gauge\n")
@@ -122,6 +124,9 @@ def _write_prom_metrics(f: TextIO, games: list[Game]) -> None:
         f.write(
             f'gametrack_game_rating{{year="{year}",rating="{rating}"}} {value:.1f}\n'
         )
+        count += 1
+
+    return count
 
 
 _SPARQL_QUERY = """
@@ -358,6 +363,7 @@ def _gh_commit_tree(
     new_tree_sha = _gh_create_tree(repo, github_token, tree)
 
     if previous_tree_sha == new_tree_sha:
+        print(f"'{repo}/{branch}' already {new_tree_sha}", file=sys.stderr)
         return previous_commit_sha
 
     new_commit_sha = _gh_create_commit(
@@ -378,9 +384,13 @@ def _gh_commit_tree(
 
 def _upload_github(repo: str, github_token: str, games: list[Game]) -> None:
     gamedata = StringIO()
-    _write_csv(gamedata, games)
+    rows = _write_csv(gamedata, games)
+    print(f"Uploading {rows} games", file=sys.stderr)
+
     metricsdata = StringIO()
-    _write_prom_metrics(metricsdata, games)
+    rows = _write_prom_metrics(metricsdata, games)
+    print(f"Uploading {rows} metrics", file=sys.stderr)
+
     tree: list[_GitTreeEntry] = [
         {
             "path": "games.csv",
