@@ -2,6 +2,7 @@ import argparse
 import csv
 import datetime
 import json
+import os
 import sqlite3
 import sys
 import urllib.parse
@@ -430,6 +431,9 @@ def main() -> None:
     )
     args = parser.parse_args()
 
+    github_repo: str | None = args.gh_repo or os.environ.get("GITHUB_REPOSITORY")
+    github_token: str | None = args.gh_token or os.environ.get("GITHUB_TOKEN")
+
     exitcode = 1
     games = list(_load_gametrack_games())
 
@@ -444,10 +448,10 @@ def main() -> None:
             _write_prom_metrics(f, games)
         exitcode = 0
 
-    if args.gh_repo and args.gh_token:
+    if github_repo and github_token:
         _upload_github(
-            repo=args.gh_repo,
-            github_token=args.gh_token,
+            repo=github_repo,
+            github_token=github_token,
             games=games,
         )
         exitcode = 0
