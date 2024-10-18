@@ -3521,7 +3521,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Wanted"} 1.0
 gametrack_game_count{year="2025",platform="",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Wanted"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Wanted"} 28.0
+gametrack_game_count{year="2025",platform="PC",status="Wanted"} 29.0
 gametrack_game_count{year="2025",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Wanted"} 0.0
