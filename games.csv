@@ -656,7 +656,6 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 145937,Q118143124,"Little Kitty, Big City",Completed,PC,2024-05-09,2024-05-09,6
 146851,Q106764284,Lost Judgment,Abandoned,Series X,2021-08-24,2021-09-24,0
 148241,Q109820884,Lies of P,Completed,Series X,2023-09-18,2023-09-18,6
-149340,Q104812382,No More Room in Hell 2,Wanted,PC,,2024-10-22,0
 149706,Q109649953,Cats in Time,Abandoned,PC,2022-06-10,2021-08-26,0
 150010,Q109502429,Sonic Frontiers,Completed,PC,,2022-11-07,5
 151788,Q114968449,"El Paso, Elsewhere",Abandoned,PC,2023-12-04,2023-09-25,0
@@ -744,7 +743,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 215060,Q113675008,Assassin's Creed Mirage,Completed,PC,2023-10-04,2023-10-05,5
 215769,Q113826614,Cyberpunk 2077: Phantom Liberty,Completed,PC,2023-09-25,2023-09-25,8
 216315,Q115815979,Marvel 1943: Rise of Hydra,Wanted,PC,,2025-12-31,0
-217404,Q124016810,The Axis Unseen,Wanted,PC,,2024-10-22,0
+217404,Q124016810,The Axis Unseen,Queued,PC,2024-10-24,2024-10-22,0
 217441,Q122377958,Desordre: A Puzzle Game Adventure,Abandoned,PC,2023-10-31,2023-06-01,0
 217592,Q113959701,Pacific Drive,Abandoned,PC,,2024-02-22,0
 217594,Q113961028,Rise of the Ronin,Abandoned,PS5,2024-03-20,2024-03-22,5
@@ -812,7 +811,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 266717,,Resident Evil 4: Separate Ways,Completed,PS5,2023-09-20,2023-09-21,7
 268842,,Horizon Forbidden West: Complete Edition,Abandoned,PC,2023-09-27,2024-03-21,0
 273996,Q126410039,Alan Wake II: Night Springs,Completed,PS5,2024-06-07,2024-06-08,8
-273997,Q126414466,Alan Wake II: The Lake House,Wanted,PS5,,2024-10-22,0
+273997,Q126414466,Alan Wake II: The Lake House,Queued,PS5,2024-10-24,2024-10-22,0
 277143,Q123473426,The Last of Us Part II: Remastered,Abandoned,PS5,2024-01-22,2024-01-19,0
 278326,Q126744144,Beyond Good & Evil: 20th Anniversary Edition,Abandoned,PC,2024-07-07,2024-06-25,0
 279612,Q123698807,Brothers: A Tale of Two Sons Remake,Completed,PC,2024-02-28,2024-02-28,5
@@ -840,10 +839,10 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 290911,,Nobody Wants to Die,Completed,PC,2024-08-02,2024-07-17,7
 293733,,Screenbound,Wanted,PC,,4000-12-31,0
 294041,Q125175413,Marvel Rivals,Wanted,PC,,2024-12-06,0
-294453,,A Quiet Place: The Road Ahead,Wanted,PC,,2024-10-17,0
+294453,,A Quiet Place: The Road Ahead,Queued,PC,2024-10-24,2024-10-17,0
 296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
 300976,Q117716202,Assassin's Creed Shadows,Wanted,PC,,2025-02-14,0
-302156,Q125962931,Call of Duty: Black Ops 6,Wanted,PC,,2024-10-25,0
+302156,Q125962931,Call of Duty: Black Ops 6,Queued,PC,2024-10-24,2024-10-25,0
 302704,Q126091569,Doom: The Dark Ages,Wanted,PC,,2025-12-31,0
 303811,Q126199700,Astro Bot,Completed,PS5,2024-09-05,2024-09-06,8
 305015,,Project C,Wanted,PC,,4000-12-31,0
@@ -858,7 +857,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 306149,Q126722717,The Legend of Zelda: Echoes of Wisdom,Queued,Switch,2024-09-25,2024-09-26,0
 306979,,Dead Rising Deluxe Remaster,Queued,PC,2024-09-17,2024-09-19,0
 308029,Q127328363,Black State,Wanted,PC,,4000-12-31,0
-314238,Q129437626,Sniper Elite: Resistance,Wanted,PC,,2025-12-31,0
+314238,Q129437626,Sniper Elite: Resistance,Wanted,PC,,2025-01-30,0
 314246,Q129437801,Borderlands 4,Wanted,PC,,2025-12-31,0
 314252,Q129438968,Dying Light: The Beast,Wanted,PC,,4000-12-31,0
 314276,Q129444823,Mafia: The Old Country,Wanted,PC,,2025-12-31,0
