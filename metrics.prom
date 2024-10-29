@@ -1128,7 +1128,7 @@ gametrack_game_count{year="2024",platform="PC",status="Queued"} 7.0
 gametrack_game_count{year="2024",platform="PS2",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Queued"} 0.0
-gametrack_game_count{year="2024",platform="PS5",status="Queued"} 2.0
+gametrack_game_count{year="2024",platform="PS5",status="Queued"} 1.0
 gametrack_game_count{year="2024",platform="Series X",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Queued"} 0.0
@@ -2318,7 +2318,7 @@ gametrack_game_count{year="2024",platform="PC",status="Completed"} 16.0
 gametrack_game_count{year="2024",platform="PS2",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Completed"} 0.0
-gametrack_game_count{year="2024",platform="PS5",status="Completed"} 5.0
+gametrack_game_count{year="2024",platform="PS5",status="Completed"} 6.0
 gametrack_game_count{year="2024",platform="Series X",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Completed"} 0.0
@@ -2909,11 +2909,11 @@ gametrack_game_count{year="2023",platform="XONE",status="Abandoned"} 1.0
 gametrack_game_count{year="2023",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="Abandoned"} 24.0
+gametrack_game_count{year="2024",platform="PC",status="Abandoned"} 25.0
 gametrack_game_count{year="2024",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Abandoned"} 0.0
-gametrack_game_count{year="2024",platform="PS5",status="Abandoned"} 3.0
+gametrack_game_count{year="2024",platform="PS5",status="Abandoned"} 4.0
 gametrack_game_count{year="2024",platform="Series X",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Abandoned"} 1.0
@@ -3504,11 +3504,11 @@ gametrack_game_count{year="2023",platform="XONE",status="Wanted"} 0.0
 gametrack_game_count{year="2023",platform="iOS",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="Wanted"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="Wanted"} 11.0
+gametrack_game_count{year="2024",platform="PC",status="Wanted"} 10.0
 gametrack_game_count{year="2024",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Wanted"} 0.0
-gametrack_game_count{year="2024",platform="PS5",status="Wanted"} 3.0
+gametrack_game_count{year="2024",platform="PS5",status="Wanted"} 2.0
 gametrack_game_count{year="2024",platform="Series X",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Wanted"} 0.0
@@ -3555,7 +3555,7 @@ gametrack_game_count{year="2026",platform="XONE",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="iOS",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="N64",status="Wanted"} 0.0
-gametrack_game_count{year="4000",platform="PC",status="Wanted"} 25.0
+gametrack_game_count{year="4000",platform="PC",status="Wanted"} 26.0
 gametrack_game_count{year="4000",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="PS4",status="Wanted"} 0.0
@@ -3888,7 +3888,7 @@ gametrack_game_rating{year="2024",rating="3"} 0.0
 gametrack_game_rating{year="2024",rating="4"} 3.0
 gametrack_game_rating{year="2024",rating="5"} 6.0
 gametrack_game_rating{year="2024",rating="6"} 5.0
-gametrack_game_rating{year="2024",rating="7"} 4.0
+gametrack_game_rating{year="2024",rating="7"} 5.0
 gametrack_game_rating{year="2024",rating="8"} 7.0
 gametrack_game_rating{year="2024",rating="9"} 1.0
 gametrack_game_rating{year="2024",rating="10"} 1.0

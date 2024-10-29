@@ -376,7 +376,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 26401,Q29154231,Star Wars Battlefront II,Abandoned,PC,,2017-11-16,0
 26472,Q71693825,Disco Elysium,Abandoned,PC,2021-04-18,2019-10-15,0
 26589,Q28127405,RollerCoaster Tycoon Classic,Completed,PC,2020-05-12,2017-09-28,9
-26602,Q119362054,Metaphor: ReFantazio,Wanted,PC,,2024-10-11,0
+26602,Q119362054,Metaphor: ReFantazio,Abandoned,PS5,2024-10-28,2024-10-11,0
 26758,Q28234671,Super Mario Odyssey,Completed,Switch,2017-10-26,2017-10-27,10
 26855,Q30639210,Dead Cells,Abandoned,PC,2021-08-16,2018-08-07,0
 26948,Q28532756,Dirt 4,Abandoned,PC,2020-11-25,2017-06-09,0
@@ -811,7 +811,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 266717,,Resident Evil 4: Separate Ways,Completed,PS5,2023-09-20,2023-09-21,7
 268842,,Horizon Forbidden West: Complete Edition,Abandoned,PC,2023-09-27,2024-03-21,0
 273996,Q126410039,Alan Wake II: Night Springs,Completed,PS5,2024-06-07,2024-06-08,8
-273997,Q126414466,Alan Wake II: The Lake House,Queued,PS5,2024-10-24,2024-10-22,0
+273997,Q126414466,Alan Wake II: The Lake House,Completed,PS5,2024-10-24,2024-10-22,7
 277143,Q123473426,The Last of Us Part II: Remastered,Abandoned,PS5,2024-01-22,2024-01-19,0
 278326,Q126744144,Beyond Good & Evil: 20th Anniversary Edition,Abandoned,PC,2024-07-07,2024-06-25,0
 279612,Q123698807,Brothers: A Tale of Two Sons Remake,Completed,PC,2024-02-28,2024-02-28,5
@@ -861,9 +861,10 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 314246,Q129437801,Borderlands 4,Wanted,PC,,2025-12-31,0
 314252,Q129438968,Dying Light: The Beast,Wanted,PC,,4000-12-31,0
 314276,Q129444823,Mafia: The Old Country,Wanted,PC,,2025-12-31,0
+314449,,Hela,Wanted,PC,,4000-12-31,0
 315804,,Star Wars Outlaws: Wild Card,Wanted,PC,,2024-11-21,0
 315805,,Star Wars Outlaws: A Pirate's Fortune,Wanted,PC,,2025-12-31,0
-317103,Q130360291,Horizon Zero Dawn Remastered,Wanted,PS5,,2024-10-31,0
+317103,Q130360291,Horizon Zero Dawn Remastered,Abandoned,PC,2024-10-28,2024-10-31,0
 317317,,Like a Dragon: Pirate Yakuza in Hawaii,Queued,PC,2024-10-01,2025-02-28,0
 317625,Q130360274,Legacy of Kain: Soul Reaver 1 & 2 Remastered,Queued,PC,,2024-12-10,0
 317626,,Stellar Blade x Nier: Automata,Wanted,PS5,,2024-12-31,0
