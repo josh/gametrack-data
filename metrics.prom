@@ -12,7 +12,6 @@ gametrack_game_count{year="0",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="0",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="0",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="0",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="0",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="0",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="0",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="0",platform="XONE",status="In Progress"} 0.0
@@ -29,7 +28,6 @@ gametrack_game_count{year="1992",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="1992",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="1992",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="1992",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="1992",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="1992",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="1992",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="1992",platform="XONE",status="In Progress"} 0.0
@@ -46,7 +44,6 @@ gametrack_game_count{year="1995",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="1995",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="1995",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="1995",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="1995",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="1995",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="1995",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="1995",platform="XONE",status="In Progress"} 0.0
@@ -63,7 +60,6 @@ gametrack_game_count{year="1996",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="1996",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="1996",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="1996",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="1996",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="1996",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="1996",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="1996",platform="XONE",status="In Progress"} 0.0
@@ -80,7 +76,6 @@ gametrack_game_count{year="1997",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="1997",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="1997",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="1997",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="1997",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="1997",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="1997",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="1997",platform="XONE",status="In Progress"} 0.0
@@ -97,7 +92,6 @@ gametrack_game_count{year="1998",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="1998",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="1998",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="1998",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="1998",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="1998",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="1998",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="1998",platform="XONE",status="In Progress"} 0.0
@@ -114,7 +108,6 @@ gametrack_game_count{year="1999",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="1999",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="1999",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="1999",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="1999",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="1999",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="1999",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="1999",platform="XONE",status="In Progress"} 0.0
@@ -131,7 +124,6 @@ gametrack_game_count{year="2000",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2000",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2000",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2000",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2000",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2000",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2000",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2000",platform="XONE",status="In Progress"} 0.0
@@ -148,7 +140,6 @@ gametrack_game_count{year="2001",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2001",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2001",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2001",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2001",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2001",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2001",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2001",platform="XONE",status="In Progress"} 0.0
@@ -165,7 +156,6 @@ gametrack_game_count{year="2002",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2002",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2002",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2002",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2002",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2002",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2002",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2002",platform="XONE",status="In Progress"} 0.0
@@ -182,7 +172,6 @@ gametrack_game_count{year="2003",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2003",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2003",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2003",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2003",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2003",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2003",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2003",platform="XONE",status="In Progress"} 0.0
@@ -199,7 +188,6 @@ gametrack_game_count{year="2004",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2004",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2004",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2004",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2004",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2004",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2004",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2004",platform="XONE",status="In Progress"} 0.0
@@ -216,7 +204,6 @@ gametrack_game_count{year="2005",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2005",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2005",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2005",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2005",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2005",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2005",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2005",platform="XONE",status="In Progress"} 0.0
@@ -233,7 +220,6 @@ gametrack_game_count{year="2006",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2006",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2006",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2006",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2006",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2006",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2006",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2006",platform="XONE",status="In Progress"} 0.0
@@ -250,7 +236,6 @@ gametrack_game_count{year="2007",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2007",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2007",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2007",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2007",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2007",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2007",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2007",platform="XONE",status="In Progress"} 0.0
@@ -267,7 +252,6 @@ gametrack_game_count{year="2008",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2008",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2008",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2008",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2008",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2008",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2008",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2008",platform="XONE",status="In Progress"} 0.0
@@ -284,7 +268,6 @@ gametrack_game_count{year="2009",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2009",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2009",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2009",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2009",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2009",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2009",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2009",platform="XONE",status="In Progress"} 0.0
@@ -301,7 +284,6 @@ gametrack_game_count{year="2010",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2010",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2010",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2010",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2010",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2010",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2010",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2010",platform="XONE",status="In Progress"} 0.0
@@ -318,7 +300,6 @@ gametrack_game_count{year="2011",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2011",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2011",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2011",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2011",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2011",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2011",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2011",platform="XONE",status="In Progress"} 0.0
@@ -335,7 +316,6 @@ gametrack_game_count{year="2012",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2012",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2012",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2012",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2012",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2012",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2012",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2012",platform="XONE",status="In Progress"} 0.0
@@ -352,7 +332,6 @@ gametrack_game_count{year="2013",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2013",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2013",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2013",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2013",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2013",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2013",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2013",platform="XONE",status="In Progress"} 0.0
@@ -369,7 +348,6 @@ gametrack_game_count{year="2014",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2014",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2014",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2014",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2014",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2014",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2014",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2014",platform="XONE",status="In Progress"} 0.0
@@ -386,7 +364,6 @@ gametrack_game_count{year="2015",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2015",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2015",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2015",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2015",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2015",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2015",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2015",platform="XONE",status="In Progress"} 0.0
@@ -403,7 +380,6 @@ gametrack_game_count{year="2016",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2016",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2016",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2016",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2016",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2016",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2016",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2016",platform="XONE",status="In Progress"} 0.0
@@ -420,7 +396,6 @@ gametrack_game_count{year="2017",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2017",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2017",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2017",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2017",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2017",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2017",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2017",platform="XONE",status="In Progress"} 0.0
@@ -437,7 +412,6 @@ gametrack_game_count{year="2018",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2018",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2018",platform="XONE",status="In Progress"} 0.0
@@ -454,7 +428,6 @@ gametrack_game_count{year="2019",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2019",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2019",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2019",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2019",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2019",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2019",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2019",platform="XONE",status="In Progress"} 0.0
@@ -471,7 +444,6 @@ gametrack_game_count{year="2020",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2020",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2020",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2020",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2020",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2020",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2020",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2020",platform="XONE",status="In Progress"} 0.0
@@ -488,7 +460,6 @@ gametrack_game_count{year="2021",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2021",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2021",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2021",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2021",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2021",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2021",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2021",platform="XONE",status="In Progress"} 0.0
@@ -505,7 +476,6 @@ gametrack_game_count{year="2022",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2022",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2022",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2022",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2022",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2022",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2022",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2022",platform="XONE",status="In Progress"} 0.0
@@ -522,7 +492,6 @@ gametrack_game_count{year="2023",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2023",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2023",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2023",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2023",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2023",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2023",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2023",platform="XONE",status="In Progress"} 0.0
@@ -539,7 +508,6 @@ gametrack_game_count{year="2024",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2024",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="XONE",status="In Progress"} 0.0
@@ -556,7 +524,6 @@ gametrack_game_count{year="2025",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2025",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="XONE",status="In Progress"} 0.0
@@ -573,7 +540,6 @@ gametrack_game_count{year="2026",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2026",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2026",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="2026",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="2026",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2026",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2026",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2026",platform="XONE",status="In Progress"} 0.0
@@ -590,7 +556,6 @@ gametrack_game_count{year="4000",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="4000",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="4000",platform="Steam VR",status="In Progress"} 0.0
 gametrack_game_count{year="4000",platform="Switch",status="In Progress"} 0.0
-gametrack_game_count{year="4000",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="4000",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="4000",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="4000",platform="XONE",status="In Progress"} 0.0
@@ -607,7 +572,6 @@ gametrack_game_count{year="0",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="0",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="0",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="0",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="0",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="0",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="0",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="0",platform="XONE",status="Queued"} 0.0
@@ -624,7 +588,6 @@ gametrack_game_count{year="1992",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="1992",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="1992",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="1992",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="1992",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="1992",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="1992",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="1992",platform="XONE",status="Queued"} 0.0
@@ -641,7 +604,6 @@ gametrack_game_count{year="1995",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="1995",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="1995",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="1995",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="1995",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="1995",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="1995",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="1995",platform="XONE",status="Queued"} 0.0
@@ -658,7 +620,6 @@ gametrack_game_count{year="1996",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="1996",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="1996",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="1996",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="1996",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="1996",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="1996",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="1996",platform="XONE",status="Queued"} 0.0
@@ -675,7 +636,6 @@ gametrack_game_count{year="1997",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="1997",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="1997",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="1997",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="1997",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="1997",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="1997",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="1997",platform="XONE",status="Queued"} 0.0
@@ -692,7 +652,6 @@ gametrack_game_count{year="1998",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="1998",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="1998",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="1998",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="1998",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="1998",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="1998",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="1998",platform="XONE",status="Queued"} 0.0
@@ -709,7 +668,6 @@ gametrack_game_count{year="1999",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="1999",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="1999",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="1999",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="1999",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="1999",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="1999",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="1999",platform="XONE",status="Queued"} 0.0
@@ -726,7 +684,6 @@ gametrack_game_count{year="2000",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2000",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2000",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2000",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2000",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2000",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2000",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2000",platform="XONE",status="Queued"} 0.0
@@ -743,7 +700,6 @@ gametrack_game_count{year="2001",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2001",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2001",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2001",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2001",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2001",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2001",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2001",platform="XONE",status="Queued"} 0.0
@@ -760,7 +716,6 @@ gametrack_game_count{year="2002",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2002",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2002",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2002",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2002",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2002",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2002",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2002",platform="XONE",status="Queued"} 0.0
@@ -777,7 +732,6 @@ gametrack_game_count{year="2003",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2003",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2003",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2003",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2003",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2003",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2003",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2003",platform="XONE",status="Queued"} 0.0
@@ -794,7 +748,6 @@ gametrack_game_count{year="2004",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2004",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2004",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2004",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2004",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2004",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2004",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2004",platform="XONE",status="Queued"} 0.0
@@ -811,7 +764,6 @@ gametrack_game_count{year="2005",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2005",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2005",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2005",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2005",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2005",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2005",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2005",platform="XONE",status="Queued"} 0.0
@@ -828,7 +780,6 @@ gametrack_game_count{year="2006",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2006",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2006",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2006",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2006",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2006",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2006",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2006",platform="XONE",status="Queued"} 0.0
@@ -845,7 +796,6 @@ gametrack_game_count{year="2007",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2007",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2007",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2007",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2007",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2007",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2007",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2007",platform="XONE",status="Queued"} 0.0
@@ -862,7 +812,6 @@ gametrack_game_count{year="2008",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2008",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2008",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2008",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2008",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2008",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2008",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2008",platform="XONE",status="Queued"} 0.0
@@ -879,7 +828,6 @@ gametrack_game_count{year="2009",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2009",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2009",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2009",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2009",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2009",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2009",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2009",platform="XONE",status="Queued"} 0.0
@@ -896,7 +844,6 @@ gametrack_game_count{year="2010",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2010",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2010",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2010",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2010",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2010",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2010",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2010",platform="XONE",status="Queued"} 0.0
@@ -913,7 +860,6 @@ gametrack_game_count{year="2011",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2011",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2011",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2011",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2011",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2011",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2011",platform="X360",status="Queued"} 1.0
 gametrack_game_count{year="2011",platform="XONE",status="Queued"} 0.0
@@ -930,7 +876,6 @@ gametrack_game_count{year="2012",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2012",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2012",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2012",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2012",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2012",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2012",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2012",platform="XONE",status="Queued"} 0.0
@@ -947,7 +892,6 @@ gametrack_game_count{year="2013",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2013",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="XONE",status="Queued"} 0.0
@@ -964,7 +908,6 @@ gametrack_game_count{year="2014",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2014",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2014",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2014",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2014",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2014",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2014",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2014",platform="XONE",status="Queued"} 0.0
@@ -981,7 +924,6 @@ gametrack_game_count{year="2015",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2015",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2015",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2015",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2015",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2015",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2015",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2015",platform="XONE",status="Queued"} 0.0
@@ -998,7 +940,6 @@ gametrack_game_count{year="2016",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2016",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2016",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2016",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2016",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2016",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2016",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2016",platform="XONE",status="Queued"} 0.0
@@ -1015,7 +956,6 @@ gametrack_game_count{year="2017",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2017",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2017",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2017",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2017",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2017",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2017",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2017",platform="XONE",status="Queued"} 0.0
@@ -1032,7 +972,6 @@ gametrack_game_count{year="2018",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2018",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2018",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2018",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2018",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2018",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2018",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2018",platform="XONE",status="Queued"} 0.0
@@ -1049,7 +988,6 @@ gametrack_game_count{year="2019",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2019",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2019",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2019",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2019",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2019",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2019",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2019",platform="XONE",status="Queued"} 0.0
@@ -1066,7 +1004,6 @@ gametrack_game_count{year="2020",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2020",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2020",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2020",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2020",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2020",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2020",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2020",platform="XONE",status="Queued"} 0.0
@@ -1083,7 +1020,6 @@ gametrack_game_count{year="2021",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2021",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2021",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2021",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2021",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2021",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2021",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2021",platform="XONE",status="Queued"} 0.0
@@ -1100,7 +1036,6 @@ gametrack_game_count{year="2022",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2022",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2022",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2022",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2022",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2022",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2022",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2022",platform="XONE",status="Queued"} 0.0
@@ -1117,7 +1052,6 @@ gametrack_game_count{year="2023",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2023",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2023",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2023",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2023",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2023",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2023",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2023",platform="XONE",status="Queued"} 0.0
@@ -1134,7 +1068,6 @@ gametrack_game_count{year="2024",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Switch",status="Queued"} 1.0
-gametrack_game_count{year="2024",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="XONE",status="Queued"} 0.0
@@ -1151,7 +1084,6 @@ gametrack_game_count{year="2025",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2025",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="XONE",status="Queued"} 0.0
@@ -1168,7 +1100,6 @@ gametrack_game_count{year="2026",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2026",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2026",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="2026",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="2026",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2026",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2026",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2026",platform="XONE",status="Queued"} 0.0
@@ -1185,7 +1116,6 @@ gametrack_game_count{year="4000",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="4000",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="4000",platform="Steam VR",status="Queued"} 0.0
 gametrack_game_count{year="4000",platform="Switch",status="Queued"} 0.0
-gametrack_game_count{year="4000",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="4000",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="4000",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="4000",platform="XONE",status="Queued"} 0.0
@@ -1202,7 +1132,6 @@ gametrack_game_count{year="0",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="0",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="0",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="0",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="0",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="0",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="0",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="0",platform="XONE",status="Collection"} 0.0
@@ -1219,7 +1148,6 @@ gametrack_game_count{year="1992",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="1992",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="1992",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="1992",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="1992",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="1992",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="1992",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="1992",platform="XONE",status="Collection"} 0.0
@@ -1236,7 +1164,6 @@ gametrack_game_count{year="1995",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="1995",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="1995",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="1995",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="1995",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="1995",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="1995",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="1995",platform="XONE",status="Collection"} 0.0
@@ -1253,7 +1180,6 @@ gametrack_game_count{year="1996",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="1996",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="1996",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="1996",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="1996",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="1996",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="1996",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="1996",platform="XONE",status="Collection"} 0.0
@@ -1270,7 +1196,6 @@ gametrack_game_count{year="1997",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="1997",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="1997",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="1997",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="1997",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="1997",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="1997",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="1997",platform="XONE",status="Collection"} 0.0
@@ -1287,7 +1212,6 @@ gametrack_game_count{year="1998",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="1998",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="1998",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="1998",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="1998",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="1998",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="1998",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="1998",platform="XONE",status="Collection"} 0.0
@@ -1304,7 +1228,6 @@ gametrack_game_count{year="1999",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="1999",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="1999",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="1999",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="1999",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="1999",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="1999",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="1999",platform="XONE",status="Collection"} 0.0
@@ -1321,7 +1244,6 @@ gametrack_game_count{year="2000",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2000",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2000",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2000",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2000",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2000",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2000",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2000",platform="XONE",status="Collection"} 0.0
@@ -1338,7 +1260,6 @@ gametrack_game_count{year="2001",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2001",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2001",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2001",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2001",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2001",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2001",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2001",platform="XONE",status="Collection"} 0.0
@@ -1355,7 +1276,6 @@ gametrack_game_count{year="2002",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2002",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2002",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2002",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2002",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2002",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2002",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2002",platform="XONE",status="Collection"} 0.0
@@ -1372,7 +1292,6 @@ gametrack_game_count{year="2003",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2003",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="XONE",status="Collection"} 0.0
@@ -1389,7 +1308,6 @@ gametrack_game_count{year="2004",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2004",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2004",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2004",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2004",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2004",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2004",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2004",platform="XONE",status="Collection"} 0.0
@@ -1406,7 +1324,6 @@ gametrack_game_count{year="2005",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2005",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2005",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2005",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2005",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2005",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2005",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2005",platform="XONE",status="Collection"} 0.0
@@ -1423,7 +1340,6 @@ gametrack_game_count{year="2006",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2006",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2006",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2006",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2006",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2006",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2006",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2006",platform="XONE",status="Collection"} 0.0
@@ -1440,7 +1356,6 @@ gametrack_game_count{year="2007",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2007",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2007",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2007",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2007",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2007",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2007",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2007",platform="XONE",status="Collection"} 0.0
@@ -1457,7 +1372,6 @@ gametrack_game_count{year="2008",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2008",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2008",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2008",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2008",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2008",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2008",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2008",platform="XONE",status="Collection"} 0.0
@@ -1474,7 +1388,6 @@ gametrack_game_count{year="2009",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2009",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2009",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2009",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2009",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2009",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2009",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2009",platform="XONE",status="Collection"} 0.0
@@ -1491,7 +1404,6 @@ gametrack_game_count{year="2010",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2010",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2010",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2010",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2010",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2010",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2010",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2010",platform="XONE",status="Collection"} 0.0
@@ -1508,7 +1420,6 @@ gametrack_game_count{year="2011",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2011",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="XONE",status="Collection"} 0.0
@@ -1525,7 +1436,6 @@ gametrack_game_count{year="2012",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2012",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2012",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2012",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2012",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2012",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2012",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2012",platform="XONE",status="Collection"} 0.0
@@ -1542,7 +1452,6 @@ gametrack_game_count{year="2013",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2013",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2013",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2013",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2013",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2013",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2013",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2013",platform="XONE",status="Collection"} 0.0
@@ -1559,7 +1468,6 @@ gametrack_game_count{year="2014",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2014",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="XONE",status="Collection"} 0.0
@@ -1576,7 +1484,6 @@ gametrack_game_count{year="2015",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2015",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2015",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2015",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2015",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2015",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2015",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2015",platform="XONE",status="Collection"} 0.0
@@ -1593,7 +1500,6 @@ gametrack_game_count{year="2016",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2016",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2016",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2016",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2016",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2016",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2016",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2016",platform="XONE",status="Collection"} 0.0
@@ -1610,7 +1516,6 @@ gametrack_game_count{year="2017",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2017",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2017",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2017",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2017",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2017",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2017",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2017",platform="XONE",status="Collection"} 0.0
@@ -1627,7 +1532,6 @@ gametrack_game_count{year="2018",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2018",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="XONE",status="Collection"} 0.0
@@ -1644,7 +1548,6 @@ gametrack_game_count{year="2019",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2019",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2019",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2019",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2019",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2019",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2019",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2019",platform="XONE",status="Collection"} 0.0
@@ -1661,7 +1564,6 @@ gametrack_game_count{year="2020",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2020",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2020",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2020",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2020",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2020",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2020",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2020",platform="XONE",status="Collection"} 0.0
@@ -1678,7 +1580,6 @@ gametrack_game_count{year="2021",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2021",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2021",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2021",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2021",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2021",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2021",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2021",platform="XONE",status="Collection"} 0.0
@@ -1695,7 +1596,6 @@ gametrack_game_count{year="2022",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2022",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2022",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2022",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2022",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2022",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2022",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2022",platform="XONE",status="Collection"} 0.0
@@ -1712,7 +1612,6 @@ gametrack_game_count{year="2023",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2023",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2023",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2023",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2023",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2023",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2023",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2023",platform="XONE",status="Collection"} 0.0
@@ -1729,7 +1628,6 @@ gametrack_game_count{year="2024",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2024",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="XONE",status="Collection"} 0.0
@@ -1746,7 +1644,6 @@ gametrack_game_count{year="2025",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2025",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="XONE",status="Collection"} 0.0
@@ -1763,7 +1660,6 @@ gametrack_game_count{year="2026",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="2026",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="2026",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="2026",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="2026",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="2026",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="2026",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="2026",platform="XONE",status="Collection"} 0.0
@@ -1780,7 +1676,6 @@ gametrack_game_count{year="4000",platform="Series X|S",status="Collection"} 0.0
 gametrack_game_count{year="4000",platform="Steam Deck",status="Collection"} 0.0
 gametrack_game_count{year="4000",platform="Steam VR",status="Collection"} 0.0
 gametrack_game_count{year="4000",platform="Switch",status="Collection"} 0.0
-gametrack_game_count{year="4000",platform="TBC",status="Collection"} 0.0
 gametrack_game_count{year="4000",platform="Wii",status="Collection"} 0.0
 gametrack_game_count{year="4000",platform="X360",status="Collection"} 0.0
 gametrack_game_count{year="4000",platform="XONE",status="Collection"} 0.0
@@ -1797,7 +1692,6 @@ gametrack_game_count{year="0",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="0",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="0",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="0",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="0",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="0",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="0",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="0",platform="XONE",status="Completed"} 0.0
@@ -1814,7 +1708,6 @@ gametrack_game_count{year="1992",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="1992",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="1992",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="1992",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="1992",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="1992",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="1992",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="1992",platform="XONE",status="Completed"} 0.0
@@ -1831,7 +1724,6 @@ gametrack_game_count{year="1995",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="1995",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="1995",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="1995",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="1995",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="1995",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="1995",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="1995",platform="XONE",status="Completed"} 0.0
@@ -1848,7 +1740,6 @@ gametrack_game_count{year="1996",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="1996",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="1996",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="1996",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="1996",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="1996",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="1996",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="1996",platform="XONE",status="Completed"} 0.0
@@ -1865,7 +1756,6 @@ gametrack_game_count{year="1997",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="1997",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="1997",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="1997",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="1997",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="1997",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="1997",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="1997",platform="XONE",status="Completed"} 0.0
@@ -1882,7 +1772,6 @@ gametrack_game_count{year="1998",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="1998",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="1998",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="1998",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="1998",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="1998",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="1998",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="1998",platform="XONE",status="Completed"} 0.0
@@ -1899,7 +1788,6 @@ gametrack_game_count{year="1999",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="1999",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="1999",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="1999",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="1999",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="1999",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="1999",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="1999",platform="XONE",status="Completed"} 0.0
@@ -1916,7 +1804,6 @@ gametrack_game_count{year="2000",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2000",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2000",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2000",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2000",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2000",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2000",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2000",platform="XONE",status="Completed"} 0.0
@@ -1933,7 +1820,6 @@ gametrack_game_count{year="2001",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2001",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2001",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2001",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2001",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2001",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2001",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2001",platform="XONE",status="Completed"} 0.0
@@ -1950,7 +1836,6 @@ gametrack_game_count{year="2002",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2002",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2002",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2002",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2002",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2002",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2002",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2002",platform="XONE",status="Completed"} 0.0
@@ -1967,7 +1852,6 @@ gametrack_game_count{year="2003",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2003",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="XONE",status="Completed"} 0.0
@@ -1984,7 +1868,6 @@ gametrack_game_count{year="2004",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2004",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2004",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2004",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2004",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2004",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2004",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2004",platform="XONE",status="Completed"} 0.0
@@ -2001,7 +1884,6 @@ gametrack_game_count{year="2005",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2005",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2005",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2005",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2005",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2005",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2005",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2005",platform="XONE",status="Completed"} 0.0
@@ -2018,7 +1900,6 @@ gametrack_game_count{year="2006",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2006",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2006",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2006",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2006",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2006",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2006",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2006",platform="XONE",status="Completed"} 0.0
@@ -2035,7 +1916,6 @@ gametrack_game_count{year="2007",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2007",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2007",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2007",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2007",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2007",platform="Wii",status="Completed"} 1.0
 gametrack_game_count{year="2007",platform="X360",status="Completed"} 2.0
 gametrack_game_count{year="2007",platform="XONE",status="Completed"} 0.0
@@ -2052,7 +1932,6 @@ gametrack_game_count{year="2008",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2008",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2008",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2008",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2008",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2008",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2008",platform="X360",status="Completed"} 1.0
 gametrack_game_count{year="2008",platform="XONE",status="Completed"} 0.0
@@ -2069,7 +1948,6 @@ gametrack_game_count{year="2009",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2009",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2009",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2009",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2009",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2009",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2009",platform="X360",status="Completed"} 2.0
 gametrack_game_count{year="2009",platform="XONE",status="Completed"} 0.0
@@ -2086,7 +1964,6 @@ gametrack_game_count{year="2010",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2010",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2010",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2010",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2010",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2010",platform="Wii",status="Completed"} 1.0
 gametrack_game_count{year="2010",platform="X360",status="Completed"} 3.0
 gametrack_game_count{year="2010",platform="XONE",status="Completed"} 0.0
@@ -2103,7 +1980,6 @@ gametrack_game_count{year="2011",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2011",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2011",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2011",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2011",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2011",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2011",platform="X360",status="Completed"} 3.0
 gametrack_game_count{year="2011",platform="XONE",status="Completed"} 0.0
@@ -2120,7 +1996,6 @@ gametrack_game_count{year="2012",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2012",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2012",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2012",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2012",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2012",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2012",platform="X360",status="Completed"} 3.0
 gametrack_game_count{year="2012",platform="XONE",status="Completed"} 0.0
@@ -2137,7 +2012,6 @@ gametrack_game_count{year="2013",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2013",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2013",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2013",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2013",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2013",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2013",platform="X360",status="Completed"} 1.0
 gametrack_game_count{year="2013",platform="XONE",status="Completed"} 1.0
@@ -2154,7 +2028,6 @@ gametrack_game_count{year="2014",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2014",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2014",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2014",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2014",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2014",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2014",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2014",platform="XONE",status="Completed"} 1.0
@@ -2171,7 +2044,6 @@ gametrack_game_count{year="2015",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2015",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2015",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2015",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2015",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2015",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2015",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2015",platform="XONE",status="Completed"} 5.0
@@ -2188,7 +2060,6 @@ gametrack_game_count{year="2016",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2016",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2016",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2016",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2016",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2016",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2016",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2016",platform="XONE",status="Completed"} 5.0
@@ -2205,7 +2076,6 @@ gametrack_game_count{year="2017",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2017",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2017",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2017",platform="Switch",status="Completed"} 2.0
-gametrack_game_count{year="2017",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2017",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2017",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2017",platform="XONE",status="Completed"} 3.0
@@ -2222,7 +2092,6 @@ gametrack_game_count{year="2018",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2018",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2018",platform="XONE",status="Completed"} 2.0
@@ -2239,7 +2108,6 @@ gametrack_game_count{year="2019",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2019",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2019",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2019",platform="Switch",status="Completed"} 2.0
-gametrack_game_count{year="2019",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2019",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2019",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2019",platform="XONE",status="Completed"} 3.0
@@ -2256,7 +2124,6 @@ gametrack_game_count{year="2020",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2020",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2020",platform="Steam VR",status="Completed"} 1.0
 gametrack_game_count{year="2020",platform="Switch",status="Completed"} 1.0
-gametrack_game_count{year="2020",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2020",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2020",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2020",platform="XONE",status="Completed"} 2.0
@@ -2273,7 +2140,6 @@ gametrack_game_count{year="2021",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2021",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2021",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2021",platform="Switch",status="Completed"} 3.0
-gametrack_game_count{year="2021",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2021",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2021",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2021",platform="XONE",status="Completed"} 3.0
@@ -2290,7 +2156,6 @@ gametrack_game_count{year="2022",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2022",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2022",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2022",platform="Switch",status="Completed"} 2.0
-gametrack_game_count{year="2022",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2022",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2022",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2022",platform="XONE",status="Completed"} 0.0
@@ -2307,7 +2172,6 @@ gametrack_game_count{year="2023",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="Switch",status="Completed"} 3.0
-gametrack_game_count{year="2023",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="XONE",status="Completed"} 0.0
@@ -2324,7 +2188,6 @@ gametrack_game_count{year="2024",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2024",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="XONE",status="Completed"} 0.0
@@ -2341,7 +2204,6 @@ gametrack_game_count{year="2025",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2025",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="XONE",status="Completed"} 0.0
@@ -2358,7 +2220,6 @@ gametrack_game_count{year="2026",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2026",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2026",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="2026",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="2026",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2026",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2026",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="2026",platform="XONE",status="Completed"} 0.0
@@ -2375,7 +2236,6 @@ gametrack_game_count{year="4000",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="4000",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="4000",platform="Steam VR",status="Completed"} 0.0
 gametrack_game_count{year="4000",platform="Switch",status="Completed"} 0.0
-gametrack_game_count{year="4000",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="4000",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="4000",platform="X360",status="Completed"} 0.0
 gametrack_game_count{year="4000",platform="XONE",status="Completed"} 0.0
@@ -2392,7 +2252,6 @@ gametrack_game_count{year="0",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="0",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="0",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="0",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="0",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="0",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="0",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="0",platform="XONE",status="Abandoned"} 0.0
@@ -2409,7 +2268,6 @@ gametrack_game_count{year="1992",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="1992",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="1992",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="1992",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="1992",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="1992",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="1992",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="1992",platform="XONE",status="Abandoned"} 0.0
@@ -2426,7 +2284,6 @@ gametrack_game_count{year="1995",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="1995",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="1995",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="1995",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="1995",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="1995",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="1995",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="1995",platform="XONE",status="Abandoned"} 0.0
@@ -2443,7 +2300,6 @@ gametrack_game_count{year="1996",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="1996",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="1996",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="1996",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="1996",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="1996",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="1996",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="1996",platform="XONE",status="Abandoned"} 0.0
@@ -2460,7 +2316,6 @@ gametrack_game_count{year="1997",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="1997",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="1997",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="1997",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="1997",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="1997",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="1997",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="1997",platform="XONE",status="Abandoned"} 0.0
@@ -2477,7 +2332,6 @@ gametrack_game_count{year="1998",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="1998",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="1998",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="1998",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="1998",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="1998",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="1998",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="1998",platform="XONE",status="Abandoned"} 0.0
@@ -2494,7 +2348,6 @@ gametrack_game_count{year="1999",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="1999",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="1999",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="1999",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="1999",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="1999",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="1999",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="1999",platform="XONE",status="Abandoned"} 0.0
@@ -2511,7 +2364,6 @@ gametrack_game_count{year="2000",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2000",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2000",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2000",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2000",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2000",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2000",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2000",platform="XONE",status="Abandoned"} 0.0
@@ -2528,7 +2380,6 @@ gametrack_game_count{year="2001",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2001",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2001",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2001",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2001",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2001",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2001",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2001",platform="XONE",status="Abandoned"} 0.0
@@ -2545,7 +2396,6 @@ gametrack_game_count{year="2002",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2002",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2002",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2002",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2002",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2002",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2002",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2002",platform="XONE",status="Abandoned"} 0.0
@@ -2562,7 +2412,6 @@ gametrack_game_count{year="2003",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2003",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2003",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2003",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2003",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2003",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2003",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2003",platform="XONE",status="Abandoned"} 0.0
@@ -2579,7 +2428,6 @@ gametrack_game_count{year="2004",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2004",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2004",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2004",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2004",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2004",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2004",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2004",platform="XONE",status="Abandoned"} 0.0
@@ -2596,7 +2444,6 @@ gametrack_game_count{year="2005",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2005",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2005",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2005",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2005",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2005",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2005",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2005",platform="XONE",status="Abandoned"} 0.0
@@ -2613,7 +2460,6 @@ gametrack_game_count{year="2006",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2006",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2006",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2006",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2006",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2006",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2006",platform="X360",status="Abandoned"} 1.0
 gametrack_game_count{year="2006",platform="XONE",status="Abandoned"} 0.0
@@ -2630,7 +2476,6 @@ gametrack_game_count{year="2007",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2007",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2007",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2007",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2007",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2007",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2007",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2007",platform="XONE",status="Abandoned"} 0.0
@@ -2647,7 +2492,6 @@ gametrack_game_count{year="2008",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2008",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2008",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2008",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2008",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2008",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2008",platform="X360",status="Abandoned"} 1.0
 gametrack_game_count{year="2008",platform="XONE",status="Abandoned"} 0.0
@@ -2664,7 +2508,6 @@ gametrack_game_count{year="2009",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2009",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2009",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2009",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2009",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2009",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2009",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2009",platform="XONE",status="Abandoned"} 0.0
@@ -2681,7 +2524,6 @@ gametrack_game_count{year="2010",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2010",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2010",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2010",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2010",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2010",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2010",platform="X360",status="Abandoned"} 1.0
 gametrack_game_count{year="2010",platform="XONE",status="Abandoned"} 0.0
@@ -2698,7 +2540,6 @@ gametrack_game_count{year="2011",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2011",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="XONE",status="Abandoned"} 0.0
@@ -2715,7 +2556,6 @@ gametrack_game_count{year="2012",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2012",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2012",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2012",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2012",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2012",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2012",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2012",platform="XONE",status="Abandoned"} 0.0
@@ -2732,7 +2572,6 @@ gametrack_game_count{year="2013",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2013",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="XONE",status="Abandoned"} 1.0
@@ -2749,7 +2588,6 @@ gametrack_game_count{year="2014",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2014",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="XONE",status="Abandoned"} 1.0
@@ -2766,7 +2604,6 @@ gametrack_game_count{year="2015",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2015",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2015",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2015",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2015",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2015",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2015",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2015",platform="XONE",status="Abandoned"} 1.0
@@ -2783,7 +2620,6 @@ gametrack_game_count{year="2016",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2016",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="XONE",status="Abandoned"} 3.0
@@ -2800,7 +2636,6 @@ gametrack_game_count{year="2017",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2017",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="XONE",status="Abandoned"} 1.0
@@ -2817,7 +2652,6 @@ gametrack_game_count{year="2018",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2018",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="XONE",status="Abandoned"} 1.0
@@ -2834,7 +2668,6 @@ gametrack_game_count{year="2019",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2019",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2019",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2019",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2019",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2019",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2019",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2019",platform="XONE",status="Abandoned"} 1.0
@@ -2851,7 +2684,6 @@ gametrack_game_count{year="2020",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2020",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2020",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2020",platform="Switch",status="Abandoned"} 1.0
-gametrack_game_count{year="2020",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2020",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2020",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2020",platform="XONE",status="Abandoned"} 3.0
@@ -2868,7 +2700,6 @@ gametrack_game_count{year="2021",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2021",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2021",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2021",platform="Switch",status="Abandoned"} 2.0
-gametrack_game_count{year="2021",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2021",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2021",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2021",platform="XONE",status="Abandoned"} 1.0
@@ -2885,7 +2716,6 @@ gametrack_game_count{year="2022",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2022",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2022",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2022",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2022",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2022",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2022",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2022",platform="XONE",status="Abandoned"} 2.0
@@ -2902,7 +2732,6 @@ gametrack_game_count{year="2023",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2023",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2023",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2023",platform="Switch",status="Abandoned"} 4.0
-gametrack_game_count{year="2023",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2023",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2023",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2023",platform="XONE",status="Abandoned"} 1.0
@@ -2919,7 +2748,6 @@ gametrack_game_count{year="2024",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Abandoned"} 1.0
 gametrack_game_count{year="2024",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="Switch",status="Abandoned"} 1.0
-gametrack_game_count{year="2024",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="XONE",status="Abandoned"} 0.0
@@ -2936,7 +2764,6 @@ gametrack_game_count{year="2025",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2025",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="XONE",status="Abandoned"} 0.0
@@ -2953,7 +2780,6 @@ gametrack_game_count{year="2026",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2026",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2026",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="2026",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="2026",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2026",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2026",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="2026",platform="XONE",status="Abandoned"} 0.0
@@ -2970,7 +2796,6 @@ gametrack_game_count{year="4000",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="4000",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="4000",platform="Steam VR",status="Abandoned"} 0.0
 gametrack_game_count{year="4000",platform="Switch",status="Abandoned"} 0.0
-gametrack_game_count{year="4000",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="4000",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="4000",platform="X360",status="Abandoned"} 0.0
 gametrack_game_count{year="4000",platform="XONE",status="Abandoned"} 0.0
@@ -2987,7 +2812,6 @@ gametrack_game_count{year="0",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="0",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="0",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="0",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="0",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="0",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="0",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="0",platform="XONE",status="Wanted"} 0.0
@@ -3004,7 +2828,6 @@ gametrack_game_count{year="1992",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="1992",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="1992",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="1992",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="1992",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="1992",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="1992",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="1992",platform="XONE",status="Wanted"} 0.0
@@ -3021,7 +2844,6 @@ gametrack_game_count{year="1995",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="1995",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="1995",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="1995",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="1995",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="1995",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="1995",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="1995",platform="XONE",status="Wanted"} 0.0
@@ -3038,7 +2860,6 @@ gametrack_game_count{year="1996",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="1996",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="1996",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="1996",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="1996",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="1996",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="1996",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="1996",platform="XONE",status="Wanted"} 0.0
@@ -3055,7 +2876,6 @@ gametrack_game_count{year="1997",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="1997",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="1997",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="1997",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="1997",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="1997",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="1997",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="1997",platform="XONE",status="Wanted"} 0.0
@@ -3072,7 +2892,6 @@ gametrack_game_count{year="1998",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="1998",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="1998",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="1998",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="1998",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="1998",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="1998",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="1998",platform="XONE",status="Wanted"} 0.0
@@ -3089,7 +2908,6 @@ gametrack_game_count{year="1999",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="1999",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="1999",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="1999",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="1999",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="1999",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="1999",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="1999",platform="XONE",status="Wanted"} 0.0
@@ -3106,7 +2924,6 @@ gametrack_game_count{year="2000",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2000",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2000",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2000",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2000",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2000",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2000",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2000",platform="XONE",status="Wanted"} 0.0
@@ -3123,7 +2940,6 @@ gametrack_game_count{year="2001",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2001",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2001",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2001",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2001",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2001",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2001",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2001",platform="XONE",status="Wanted"} 0.0
@@ -3140,7 +2956,6 @@ gametrack_game_count{year="2002",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2002",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2002",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2002",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2002",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2002",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2002",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2002",platform="XONE",status="Wanted"} 0.0
@@ -3157,7 +2972,6 @@ gametrack_game_count{year="2003",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2003",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2003",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2003",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2003",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2003",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2003",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2003",platform="XONE",status="Wanted"} 0.0
@@ -3174,7 +2988,6 @@ gametrack_game_count{year="2004",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2004",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2004",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2004",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2004",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2004",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2004",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2004",platform="XONE",status="Wanted"} 0.0
@@ -3191,7 +3004,6 @@ gametrack_game_count{year="2005",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2005",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2005",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2005",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2005",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2005",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2005",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2005",platform="XONE",status="Wanted"} 0.0
@@ -3208,7 +3020,6 @@ gametrack_game_count{year="2006",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2006",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2006",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2006",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2006",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2006",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2006",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2006",platform="XONE",status="Wanted"} 0.0
@@ -3225,7 +3036,6 @@ gametrack_game_count{year="2007",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2007",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2007",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2007",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2007",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2007",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2007",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2007",platform="XONE",status="Wanted"} 0.0
@@ -3242,7 +3052,6 @@ gametrack_game_count{year="2008",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2008",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2008",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2008",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2008",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2008",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2008",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2008",platform="XONE",status="Wanted"} 0.0
@@ -3259,7 +3068,6 @@ gametrack_game_count{year="2009",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2009",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2009",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2009",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2009",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2009",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2009",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2009",platform="XONE",status="Wanted"} 0.0
@@ -3276,7 +3084,6 @@ gametrack_game_count{year="2010",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2010",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2010",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2010",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2010",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2010",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2010",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2010",platform="XONE",status="Wanted"} 0.0
@@ -3293,7 +3100,6 @@ gametrack_game_count{year="2011",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2011",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2011",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2011",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2011",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2011",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2011",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2011",platform="XONE",status="Wanted"} 0.0
@@ -3310,7 +3116,6 @@ gametrack_game_count{year="2012",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2012",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2012",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2012",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2012",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2012",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2012",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2012",platform="XONE",status="Wanted"} 0.0
@@ -3327,7 +3132,6 @@ gametrack_game_count{year="2013",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2013",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2013",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2013",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2013",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2013",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2013",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2013",platform="XONE",status="Wanted"} 0.0
@@ -3344,7 +3148,6 @@ gametrack_game_count{year="2014",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2014",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2014",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2014",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2014",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2014",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2014",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2014",platform="XONE",status="Wanted"} 0.0
@@ -3361,7 +3164,6 @@ gametrack_game_count{year="2015",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2015",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2015",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2015",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2015",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2015",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2015",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2015",platform="XONE",status="Wanted"} 0.0
@@ -3378,7 +3180,6 @@ gametrack_game_count{year="2016",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2016",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2016",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2016",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2016",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2016",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2016",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2016",platform="XONE",status="Wanted"} 0.0
@@ -3395,7 +3196,6 @@ gametrack_game_count{year="2017",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2017",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2017",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2017",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2017",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2017",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2017",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2017",platform="XONE",status="Wanted"} 0.0
@@ -3412,7 +3212,6 @@ gametrack_game_count{year="2018",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2018",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2018",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2018",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2018",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2018",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2018",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2018",platform="XONE",status="Wanted"} 0.0
@@ -3429,7 +3228,6 @@ gametrack_game_count{year="2019",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2019",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2019",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2019",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2019",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2019",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2019",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2019",platform="XONE",status="Wanted"} 0.0
@@ -3446,7 +3244,6 @@ gametrack_game_count{year="2020",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2020",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2020",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2020",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2020",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2020",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2020",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2020",platform="XONE",status="Wanted"} 0.0
@@ -3463,7 +3260,6 @@ gametrack_game_count{year="2021",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2021",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2021",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2021",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2021",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2021",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2021",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2021",platform="XONE",status="Wanted"} 0.0
@@ -3480,7 +3276,6 @@ gametrack_game_count{year="2022",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2022",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2022",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2022",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2022",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2022",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2022",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2022",platform="XONE",status="Wanted"} 0.0
@@ -3497,7 +3292,6 @@ gametrack_game_count{year="2023",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2023",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2023",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2023",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2023",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2023",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2023",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2023",platform="XONE",status="Wanted"} 0.0
@@ -3514,7 +3308,6 @@ gametrack_game_count{year="2024",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2024",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="XONE",status="Wanted"} 0.0
@@ -3531,7 +3324,6 @@ gametrack_game_count{year="2025",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Switch",status="Wanted"} 2.0
-gametrack_game_count{year="2025",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="XONE",status="Wanted"} 0.0
@@ -3548,7 +3340,6 @@ gametrack_game_count{year="2026",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="2026",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="XONE",status="Wanted"} 0.0
@@ -3565,7 +3356,6 @@ gametrack_game_count{year="4000",platform="Series X|S",status="Wanted"} 1.0
 gametrack_game_count{year="4000",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="4000",platform="TBC",status="Wanted"} 1.0
 gametrack_game_count{year="4000",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="XONE",status="Wanted"} 0.0
