@@ -1062,7 +1062,7 @@ gametrack_game_count{year="2024",platform="PC",status="Queued"} 6.0
 gametrack_game_count{year="2024",platform="PS2",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Queued"} 0.0
-gametrack_game_count{year="2024",platform="PS5",status="Queued"} 1.0
+gametrack_game_count{year="2024",platform="PS5",status="Queued"} 2.0
 gametrack_game_count{year="2024",platform="Series X",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Queued"} 0.0
@@ -3302,7 +3302,7 @@ gametrack_game_count{year="2024",platform="PC",status="Wanted"} 7.0
 gametrack_game_count{year="2024",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Wanted"} 0.0
-gametrack_game_count{year="2024",platform="PS5",status="Wanted"} 2.0
+gametrack_game_count{year="2024",platform="PS5",status="Wanted"} 1.0
 gametrack_game_count{year="2024",platform="Series X",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Wanted"} 0.0
