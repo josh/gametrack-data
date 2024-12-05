@@ -750,7 +750,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 217624,Q116980103,Like a Dragon Gaiden: The Man Who Erased His Name,Abandoned,Series X,,2023-11-09,0
 218277,Q115633684,Portal with RTX,Abandoned,PC,2022-12-08,2022-12-08,0
 218974,,Hitman: Absolution HD,Completed,XONE,,2019-01-11,7
-222341,Q114770599,Silent Hill 2,Queued,PC,2024-10-08,2024-10-08,0
+222341,Q114770599,Silent Hill 2,In Progress,PC,2024-10-08,2024-10-08,0
 222803,Q114858023,Age of Mythology: Retold,Abandoned,PC,,2024-09-04,0
 223134,Q114968454,"El Paso, Nightmare",Abandoned,PC,,2022-10-25,0
 228525,Q115641620,Hades II,Completed,PC,2024-05-06,2024-05-06,7
@@ -801,7 +801,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 260735,,Red Dead Redemption,Completed,PS4,,2023-08-17,9
 260780,Q121295422,Call of Duty: Modern Warfare III,Completed,PC,2023-11-01,2023-11-10,5
 261085,Q737103,Quake II,Abandoned,PC,2023-08-20,2023-08-10,0
-262186,Q123138197,Delta Force,Wanted,PC,,2024-12-05,0
+262186,Q123138197,Delta Force,Queued,PC,2024-12-04,2024-12-05,0
 262973,Q124690517,Star Wars: Dark Forces Remaster,Abandoned,PC,2024-02-28,2024-02-29,0
 263480,,Starfield: Shattered Space,Completed,PC,2024-09-29,2024-09-30,7
 264412,Q122234992,EA Sports WRC,Abandoned,PC,,2023-11-03,0
@@ -865,7 +865,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 317103,Q130360291,Horizon Zero Dawn Remastered,Abandoned,PC,2024-10-28,2024-10-31,0
 317317,,Like a Dragon: Pirate Yakuza in Hawaii,Queued,PC,2024-10-01,2025-02-28,0
 317625,Q130360274,Legacy of Kain: Soul Reaver 1 & 2 Remastered,Queued,PC,,2024-12-10,0
-317626,,Stellar Blade x Nier: Automata,Queued,PS5,2024-11-12,2024-11-19,0
+317626,,Stellar Blade x Nier: Automata,In Progress,PS5,2024-11-12,2024-11-19,0
 317627,Q130360297,Ghost of Yotei,Wanted,PS5,,2025-12-31,0
 319480,,Tomb Raider IV•V•VI Remastered,Wanted,PC,,2025-02-14,0
 320137,,Cronos: The New Dawn,Wanted,PC,,2025-12-31,0
