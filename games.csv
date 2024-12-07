@@ -631,7 +631,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 141540,Q127164835,Disco Elysium: The Final Cut,Abandoned,PC,,2021-03-29,0
 141543,Q106513305,Road 96,Completed,PC,2021-08-16,2021-08-16,6
 141547,Q104568362,Evil West,Completed,PC,,2022-11-21,4
-142415,Q124312399,Indiana Jones and the Great Circle,Wanted,PC,,2024-12-09,0
+142415,Q124312399,Indiana Jones and the Great Circle,Queued,PC,2024-12-06,2024-12-09,0
 142549,Q120733019,Viewfinder,Completed,PC,2023-06-26,2023-07-17,8
 142740,Q104991768,Resident Evil Re:Verse,Abandoned,PC,,2022-10-28,0
 142862,Q119846651,Farlight 84,Abandoned,PC,,2023-04-24,5
@@ -801,7 +801,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 260735,,Red Dead Redemption,Completed,PS4,,2023-08-17,9
 260780,Q121295422,Call of Duty: Modern Warfare III,Completed,PC,2023-11-01,2023-11-10,5
 261085,Q737103,Quake II,Abandoned,PC,2023-08-20,2023-08-10,0
-262186,Q123138197,Delta Force,Queued,PC,2024-12-04,2024-12-05,0
+262186,Q123138197,Delta Force,Abandoned,PC,2024-12-04,2024-12-05,0
 262973,Q124690517,Star Wars: Dark Forces Remaster,Abandoned,PC,2024-02-28,2024-02-29,0
 263480,,Starfield: Shattered Space,Completed,PC,2024-09-29,2024-09-30,7
 264412,Q122234992,EA Sports WRC,Abandoned,PC,,2023-11-03,0
@@ -836,7 +836,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 290216,,Command & Conquer and The Covert Operations,Abandoned,,,,0
 290911,,Nobody Wants to Die,Completed,PC,2024-08-02,2024-07-17,7
 293733,,Screenbound,Wanted,PC,,4000-12-31,0
-294041,Q125175413,Marvel Rivals,Queued,PC,2024-12-05,2024-12-06,0
+294041,Q125175413,Marvel Rivals,Collection,PC,2024-12-05,2024-12-06,0
 294453,,A Quiet Place: The Road Ahead,Queued,PC,2024-10-24,2024-10-17,0
 296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
 300976,Q117716202,Assassin's Creed Shadows,Wanted,PC,,2025-02-14,0
@@ -865,7 +865,6 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 317103,Q130360291,Horizon Zero Dawn Remastered,Abandoned,PC,2024-10-28,2024-10-31,0
 317317,,Like a Dragon: Pirate Yakuza in Hawaii,Queued,PC,2024-10-01,2025-02-28,0
 317625,Q130360274,Legacy of Kain: Soul Reaver 1 & 2 Remastered,Queued,PC,,2024-12-10,0
-317626,,Stellar Blade x Nier: Automata,In Progress,PS5,2024-11-12,2024-11-19,0
 317627,Q130360297,Ghost of Yotei,Wanted,PS5,,2025-12-31,0
 319480,,Tomb Raider IV•V•VI Remastered,Wanted,PC,,2025-02-14,0
 320137,,Cronos: The New Dawn,Wanted,PC,,2025-12-31,0
