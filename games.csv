@@ -418,7 +418,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 36872,Q30339213,Forza Motorsport 7,Abandoned,PC,,2017-10-02,0
 36897,Q30229306,A Way Out,Completed,XONE,,2018-03-22,7
 36926,Q30252256,Monster Hunter: World,Abandoned,PC,2020-12-22,2018-08-09,0
-36952,Q30276412,Wolfenstein II: The New Colossus,Abandoned,PC,,2017-10-25,0
+36952,Q30276412,Wolfenstein II: The New Colossus,Abandoned,PC,2020-08-09,2017-10-25,0
 37001,Q30325568,Ori and the Will of the Wisps,Completed,Series X,2021-01-30,2020-11-10,8
 37016,Q30238508,Metro Exodus,Completed,PC,,2019-02-14,7
 37030,Q38904048,Dishonored: Death of the Outsider,Completed,XONE,,2017-09-14,7
@@ -540,7 +540,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 119357,Q64549401,Immortals Fenyx Rising,Completed,Series X,2020-12-03,2020-12-03,8
 119388,Q64577191,The Legend of Zelda: Tears of the Kingdom,Completed,Switch,2023-05-11,2023-05-12,10
 119402,Q116404335,The Witcher 3: Wild Hunt - Complete Edition,Completed,PC,,2016-08-28,9
-121277,Q129441319,Monument Valley III,Wanted,iOS,,2024-12-10,0
+121277,Q129441319,Monument Valley III,Queued,iOS,2024-12-07,2024-12-10,0
 121731,Q74705108,Humankind,Abandoned,PC,2021-08-16,2021-08-17,0
 121752,Q96035161,Ghostrunner,Abandoned,PC,,2020-10-26,0
 122095,,Marvel's Spider-Man: Game of the Year Edition,Completed,PS4,2018-11-20,2019-08-28,9
@@ -631,7 +631,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 141540,Q127164835,Disco Elysium: The Final Cut,Abandoned,PC,,2021-03-29,0
 141543,Q106513305,Road 96,Completed,PC,2021-08-16,2021-08-16,6
 141547,Q104568362,Evil West,Completed,PC,,2022-11-21,4
-142415,Q124312399,Indiana Jones and the Great Circle,Queued,PC,2024-12-06,2024-12-09,0
+142415,Q124312399,Indiana Jones and the Great Circle,In Progress,PC,2024-12-06,2024-12-09,0
 142549,Q120733019,Viewfinder,Completed,PC,2023-06-26,2023-07-17,8
 142740,Q104991768,Resident Evil Re:Verse,Abandoned,PC,,2022-10-28,0
 142862,Q119846651,Farlight 84,Abandoned,PC,,2023-04-24,5
