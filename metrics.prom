@@ -511,7 +511,7 @@ gametrack_game_count{year="2024",platform="Switch",status="In Progress"} 1.0
 gametrack_game_count{year="2024",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="XONE",status="In Progress"} 0.0
-gametrack_game_count{year="2024",platform="iOS",status="In Progress"} 0.0
+gametrack_game_count{year="2024",platform="iOS",status="In Progress"} 1.0
 gametrack_game_count{year="2025",platform="",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="PC",status="In Progress"} 0.0
@@ -1071,7 +1071,7 @@ gametrack_game_count{year="2024",platform="Switch",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="XONE",status="Queued"} 0.0
-gametrack_game_count{year="2024",platform="iOS",status="Queued"} 1.0
+gametrack_game_count{year="2024",platform="iOS",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PC",status="Queued"} 2.0
