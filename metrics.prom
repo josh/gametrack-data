@@ -1719,7 +1719,7 @@ gametrack_game_count{year="2023",platform="XONE",status="Collection"} 0.0
 gametrack_game_count{year="2023",platform="iOS",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="Collection"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="Collection"} 2.0
+gametrack_game_count{year="2024",platform="PC",status="Collection"} 1.0
 gametrack_game_count{year="2024",platform="PS2",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Collection"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Collection"} 0.0
@@ -2909,7 +2909,7 @@ gametrack_game_count{year="2023",platform="XONE",status="Abandoned"} 1.0
 gametrack_game_count{year="2023",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="Abandoned"} 29.0
+gametrack_game_count{year="2024",platform="PC",status="Abandoned"} 30.0
 gametrack_game_count{year="2024",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Abandoned"} 0.0
