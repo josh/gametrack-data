@@ -529,7 +529,7 @@ gametrack_game_count{year="2023",platform="XONE",status="In Progress"} 0.0
 gametrack_game_count{year="2023",platform="iOS",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="In Progress"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="In Progress"} 2.0
+gametrack_game_count{year="2024",platform="PC",status="In Progress"} 1.0
 gametrack_game_count{year="2024",platform="PS2",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="In Progress"} 0.0
@@ -2314,7 +2314,7 @@ gametrack_game_count{year="2023",platform="XONE",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="iOS",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="Completed"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="Completed"} 18.0
+gametrack_game_count{year="2024",platform="PC",status="Completed"} 19.0
 gametrack_game_count{year="2024",platform="PS2",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Completed"} 0.0
@@ -3565,7 +3565,7 @@ gametrack_game_count{year="4000",platform="Series X|S",status="Wanted"} 1.0
 gametrack_game_count{year="4000",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="Steam VR",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="Switch",status="Wanted"} 0.0
-gametrack_game_count{year="4000",platform="TBC",status="Wanted"} 3.0
+gametrack_game_count{year="4000",platform="TBC",status="Wanted"} 4.0
 gametrack_game_count{year="4000",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="X360",status="Wanted"} 0.0
 gametrack_game_count{year="4000",platform="XONE",status="Wanted"} 0.0
@@ -3887,7 +3887,7 @@ gametrack_game_rating{year="2024",rating="2"} 0.0
 gametrack_game_rating{year="2024",rating="3"} 0.0
 gametrack_game_rating{year="2024",rating="4"} 3.0
 gametrack_game_rating{year="2024",rating="5"} 6.0
-gametrack_game_rating{year="2024",rating="6"} 7.0
+gametrack_game_rating{year="2024",rating="6"} 8.0
 gametrack_game_rating{year="2024",rating="7"} 5.0
 gametrack_game_rating{year="2024",rating="8"} 7.0
 gametrack_game_rating{year="2024",rating="9"} 1.0
