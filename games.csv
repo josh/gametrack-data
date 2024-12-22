@@ -841,7 +841,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 290911,,Nobody Wants to Die,Completed,PC,2024-08-02,2024-07-17,7
 293733,,Screenbound,Wanted,PC,,4000-12-31,0
 294041,Q125175413,Marvel Rivals,Abandoned,PC,2024-12-05,2024-12-06,0
-294453,,A Quiet Place: The Road Ahead,Queued,PC,2024-10-24,2024-10-17,0
+294453,,A Quiet Place: The Road Ahead,Abandoned,PC,2024-10-24,2024-10-17,0
 296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
 300976,Q117716202,Assassin's Creed Shadows,Wanted,PC,,2025-02-14,0
 302156,Q125962931,Call of Duty: Black Ops 6,Completed,PC,2024-10-24,2024-10-25,6
@@ -868,7 +868,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 315805,,Star Wars Outlaws: A Pirate's Fortune,Wanted,PC,,2025-12-31,0
 317103,Q130360291,Horizon Zero Dawn Remastered,Abandoned,PC,2024-10-28,2024-10-31,0
 317317,,Like a Dragon: Pirate Yakuza in Hawaii,Queued,PC,2024-10-01,2025-02-28,0
-317625,Q130360274,Legacy of Kain: Soul Reaver 1 & 2 Remastered,Queued,PC,,2024-12-10,0
+317625,Q130360274,Legacy of Kain: Soul Reaver 1 & 2 Remastered,Abandoned,PC,,2024-12-10,0
 317627,Q130360297,Ghost of Yotei,Wanted,PS5,,2025-12-31,0
 319480,,Tomb Raider IV•V•VI Remastered,Wanted,PC,,2025-02-14,0
 320137,,Cronos: The New Dawn,Wanted,PC,,2025-12-31,0
@@ -881,4 +881,4 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 325602,Q131436104,Onimusha: Way of the Sword,Wanted,PC,,2026-12-31,0
 325609,Q131436199,Dispatch,Wanted,PC,,2025-12-31,0
 325610,Q131436208,Okami Sequel,Wanted,TBC,,4000-12-31,0
-325611,Q131436227,Intergalactic: The Heretic Prophet,Wanted,TBC,,4000-12-31,0
+325611,Q131436227,Intergalactic: The Heretic Prophet,Wanted,PS5,,4000-12-31,0
