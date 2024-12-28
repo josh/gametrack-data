@@ -4,8 +4,16 @@ Export [GameTrack](https://gametrack.app/) data to CSV.
 
 ## Installation
 
+Via [Homebrew](https://brew.sh/):
+
 ```sh
 $ brew install josh/tap/gametrack-data
+```
+
+Or via [Nix](https://nixos.org/):
+
+```sh
+$ nix run github:josh/nurpkgs#gametrack-data -- --help
 ```
 
 ## Usage
