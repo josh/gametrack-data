@@ -173,7 +173,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 1939,Q210275,Destiny,Abandoned,PS4,2014-09-08,2014-09-08,0
 1942,Q4267401,The Witcher 3: Wild Hunt,Completed,PC,2020-09-29,2015-05-18,9
 1969,Q641697,Red Dead Revolver,Abandoned,PS4,2022-11-28,2016-10-11,0
-1970,Q6052688,Assassin's Creed IV Black Flag,Queued,PC,2020-10-13,2013-11-19,0
+1970,Q6052688,Assassin's Creed IV Black Flag,Abandoned,PC,2020-10-13,2013-11-19,0
 1976,Q4035752,Call of Juarez: Gunslinger,Abandoned,PC,,2013-05-22,0
 1979,Q2618557,Battlefield 4,Completed,XONE,,2013-11-21,6
 1983,Q810662,Bastion,Abandoned,PC,2021-08-16,2011-08-16,0
@@ -273,6 +273,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 9730,Q19627426,Firewatch,Completed,PS4,2016-02-09,2016-02-09,8
 9740,Q120750875,Deus Ex: Human Revolution - Director's Cut,Abandoned,PC,2020-11-25,2013-10-25,0
 9781,Q750032,Beyond Divinity,Abandoned,PC,,2004-04-27,0
+9806,Q16457556,Hyper Light Drifter,Abandoned,PC,,2016-03-31,0
 9902,Q117841582,Age of Mythology: Extended Edition,Abandoned,PC,,2014-05-07,0
 9928,Q19842547,Dirt Rally,Abandoned,PC,2020-11-25,2015-12-07,0
 10192,Q1319860,The Ultimate Doom,Abandoned,PC,2020-08-09,2007-08-03,0
@@ -718,7 +719,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 194436,Q112434575,Flintlock: The Siege of Dawn,Abandoned,PC,2024-07-18,2024-07-18,0
 194464,Q113140888,Escape Academy,Completed,Series X,2022-07-16,2022-07-13,8
 194662,Q111023388,The Witcher IV,Wanted,PC,,4000-12-31,0
-194965,Q115569035,Hyper Light Breaker,Wanted,PC,2022-12-03,2025-01-14,0
+194965,Q115569035,Hyper Light Breaker,Queued,PC,2025-01-14,2025-01-14,0
 195517,Q111538856,Return to Monkey Island,Completed,PC,2022-09-19,2022-09-19,5
 196954,Q123173448,Hell is Us,Wanted,PC,,2025-12-31,0
 198439,Q115476105,American Arcadia,Completed,PC,,2023-11-14,5
@@ -857,7 +858,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 305157,,Mixtape,Wanted,PC,,2025-12-31,0
 305159,,Atomfall,Wanted,PC,,2025-03-27,0
 305160,Q125341011,Gears of War: E-Day,Wanted,PC,,4000-12-31,0
-306143,,Donkey Kong Country Returns HD,Wanted,Switch,,2025-01-16,0
+306143,,Donkey Kong Country Returns HD,Queued,Switch,2025-01-14,2025-01-16,0
 306149,Q126722717,The Legend of Zelda: Echoes of Wisdom,In Progress,Switch,2024-09-25,2024-09-26,0
 306979,,Dead Rising Deluxe Remaster,Abandoned,PC,2024-09-17,2024-09-19,0
 308029,Q127328363,Black State,Wanted,PC,,4000-12-31,0

@@ -937,7 +937,7 @@ gametrack_game_count{year="2012",platform="XONE",status="Queued"} 0.0
 gametrack_game_count{year="2012",platform="iOS",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="N64",status="Queued"} 0.0
-gametrack_game_count{year="2013",platform="PC",status="Queued"} 1.0
+gametrack_game_count{year="2013",platform="PC",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="PS2",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="PS3",status="Queued"} 0.0
 gametrack_game_count{year="2013",platform="PS4",status="Queued"} 0.0
@@ -1141,7 +1141,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Queued"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Queued"} 2.0
+gametrack_game_count{year="2025",platform="PC",status="Queued"} 3.0
 gametrack_game_count{year="2025",platform="PS2",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Queued"} 0.0
@@ -1150,7 +1150,7 @@ gametrack_game_count{year="2025",platform="Series X",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Queued"} 0.0
-gametrack_game_count{year="2025",platform="Switch",status="Queued"} 0.0
+gametrack_game_count{year="2025",platform="Switch",status="Queued"} 1.0
 gametrack_game_count{year="2025",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Queued"} 0.0
@@ -2722,7 +2722,7 @@ gametrack_game_count{year="2012",platform="XONE",status="Abandoned"} 0.0
 gametrack_game_count{year="2012",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2013",platform="PC",status="Abandoned"} 11.0
+gametrack_game_count{year="2013",platform="PC",status="Abandoned"} 12.0
 gametrack_game_count{year="2013",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2013",platform="PS4",status="Abandoned"} 0.0
@@ -2773,7 +2773,7 @@ gametrack_game_count{year="2015",platform="XONE",status="Abandoned"} 1.0
 gametrack_game_count{year="2015",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2016",platform="PC",status="Abandoned"} 25.0
+gametrack_game_count{year="2016",platform="PC",status="Abandoned"} 26.0
 gametrack_game_count{year="2016",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2016",platform="PS4",status="Abandoned"} 1.0
@@ -3521,7 +3521,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Wanted"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Wanted"} 40.0
+gametrack_game_count{year="2025",platform="PC",status="Wanted"} 39.0
 gametrack_game_count{year="2025",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Wanted"} 0.0
@@ -3530,7 +3530,7 @@ gametrack_game_count{year="2025",platform="Series X",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Series X|S",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Wanted"} 0.0
-gametrack_game_count{year="2025",platform="Switch",status="Wanted"} 2.0
+gametrack_game_count{year="2025",platform="Switch",status="Wanted"} 1.0
 gametrack_game_count{year="2025",platform="TBC",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Wanted"} 0.0
