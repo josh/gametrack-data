@@ -573,7 +573,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 132516,Q99990957,Phasmophobia,Abandoned,PC,2020-12-17,2020-09-17,0
 133004,Q92464687,Assassin's Creed Valhalla,Completed,PS5,2021-01-30,2020-11-11,8
 133227,Q111420821,Patrick's Parabox,Abandoned,PC,,2022-03-28,0
-133236,Q112617712,Final Fantasy VII Rebirth,Queued,PS5,2024-02-22,2024-02-29,0
+133236,Q112617712,Final Fantasy VII Rebirth,Queued,PC,2024-02-22,2025-01-23,0
 133301,Q93641348,DIRT 5,Completed,PS5,,2020-11-11,6
 133302,Q93721073,Scarlet Nexus,Abandoned,PC,,2021-06-24,0
 133306,Q93722551,Call of the Sea,Abandoned,XONE,2020-12-07,2020-12-08,0
@@ -719,7 +719,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 194436,Q112434575,Flintlock: The Siege of Dawn,Abandoned,PC,2024-07-18,2024-07-18,0
 194464,Q113140888,Escape Academy,Completed,Series X,2022-07-16,2022-07-13,8
 194662,Q111023388,The Witcher IV,Wanted,PC,,4000-12-31,0
-194965,Q115569035,Hyper Light Breaker,Queued,PC,2025-01-14,2025-01-14,0
+194965,Q115569035,Hyper Light Breaker,Abandoned,PC,2025-01-14,2025-01-14,0
 195517,Q111538856,Return to Monkey Island,Completed,PC,2022-09-19,2022-09-19,5
 196954,Q123173448,Hell is Us,Wanted,PC,,2025-12-31,0
 198439,Q115476105,American Arcadia,Completed,PC,,2023-11-14,5
