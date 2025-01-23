@@ -1141,7 +1141,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Queued"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Queued"} 3.0
+gametrack_game_count{year="2025",platform="PC",status="Queued"} 4.0
 gametrack_game_count{year="2025",platform="PS2",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Queued"} 0.0
@@ -1150,7 +1150,7 @@ gametrack_game_count{year="2025",platform="Series X",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Series X|S",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Queued"} 0.0
-gametrack_game_count{year="2025",platform="Switch",status="Queued"} 1.0
+gametrack_game_count{year="2025",platform="Switch",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="TBC",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Queued"} 0.0
@@ -2913,7 +2913,7 @@ gametrack_game_count{year="2024",platform="PC",status="Abandoned"} 32.0
 gametrack_game_count{year="2024",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Abandoned"} 0.0
-gametrack_game_count{year="2024",platform="PS5",status="Abandoned"} 4.0
+gametrack_game_count{year="2024",platform="PS5",status="Abandoned"} 3.0
 gametrack_game_count{year="2024",platform="Series X",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Abandoned"} 1.0
@@ -2935,7 +2935,7 @@ gametrack_game_count{year="2025",platform="Series X",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="Series X|S",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="Steam Deck",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="Steam VR",status="Abandoned"} 0.0
-gametrack_game_count{year="2025",platform="Switch",status="Abandoned"} 0.0
+gametrack_game_count{year="2025",platform="Switch",status="Abandoned"} 1.0
 gametrack_game_count{year="2025",platform="TBC",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="Wii",status="Abandoned"} 0.0
 gametrack_game_count{year="2025",platform="X360",status="Abandoned"} 0.0
