@@ -529,7 +529,7 @@ gametrack_game_count{year="2023",platform="XONE",status="In Progress"} 0.0
 gametrack_game_count{year="2023",platform="iOS",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="In Progress"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="In Progress"} 1.0
+gametrack_game_count{year="2024",platform="PC",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="PS2",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="In Progress"} 0.0
@@ -2314,7 +2314,7 @@ gametrack_game_count{year="2023",platform="XONE",status="Completed"} 0.0
 gametrack_game_count{year="2023",platform="iOS",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="Completed"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="Completed"} 19.0
+gametrack_game_count{year="2024",platform="PC",status="Completed"} 20.0
 gametrack_game_count{year="2024",platform="PS2",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Completed"} 0.0
