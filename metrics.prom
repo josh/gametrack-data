@@ -1549,7 +1549,7 @@ gametrack_game_count{year="2013",platform="XONE",status="Collection"} 0.0
 gametrack_game_count{year="2013",platform="iOS",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="N64",status="Collection"} 0.0
-gametrack_game_count{year="2014",platform="PC",status="Collection"} 0.0
+gametrack_game_count{year="2014",platform="PC",status="Collection"} 1.0
 gametrack_game_count{year="2014",platform="PS2",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="PS3",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="PS4",status="Collection"} 0.0
