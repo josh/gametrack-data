@@ -200,7 +200,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 3077,Q2708028,Sniper Elite,Abandoned,PC,2020-10-20,2005-09-30,0
 3078,Q714782,Sniper Elite V2,Abandoned,PC,2020-10-20,2012-04-30,0
 3195,Q76868,Assassin's Creed III: Liberation,Abandoned,PC,2020-10-13,2014-01-15,0
-3212,Q12579896,The Sims 4,Collection,PC,,2014-09-04,0
+3212,Q12579896,The Sims 4,Abandoned,PC,,2014-09-04,0
 3225,Q15297043,No Man's Sky,Abandoned,PC,2021-09-13,2016-08-12,0
 3267,Q1045397,Day of Defeat: Source,Completed,PC,,2005-09-25,6
 3418,Q806598,Banjo-Tooie,Completed,N64,2000-11-20,2000-11-20,8
@@ -847,6 +847,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 294041,Q125175413,Marvel Rivals,Abandoned,PC,2024-12-05,2024-12-06,0
 294453,,A Quiet Place: The Road Ahead,Abandoned,PC,2024-10-24,2024-10-17,0
 296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
+298526,Q125430996,Kingdom Come: Deliverance II,Wanted,PC,,2025-02-04,0
 300976,Q117716202,Assassin's Creed Shadows,Wanted,PC,,2025-03-20,0
 302156,Q125962931,Call of Duty: Black Ops 6,Completed,PC,2024-10-24,2024-10-25,6
 302704,Q126091569,Doom: The Dark Ages,Queued,PC,,2025-05-14,0
@@ -886,3 +887,5 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 325609,Q131436199,Dispatch,Wanted,PC,,2025-12-31,0
 325610,Q131436208,Okami Sequel,Wanted,TBC,,4000-12-31,0
 325611,Q131436227,Intergalactic: The Heretic Prophet,Wanted,PS5,,4000-12-31,0
+329130,Q131862321,Ninja Gaiden 4,Wanted,PC,,2025-12-31,0
+329132,Q131862353,Ninja Gaiden II Black,Wanted,PC,,2025-01-23,0

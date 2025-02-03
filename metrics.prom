@@ -1549,7 +1549,7 @@ gametrack_game_count{year="2013",platform="XONE",status="Collection"} 0.0
 gametrack_game_count{year="2013",platform="iOS",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="N64",status="Collection"} 0.0
-gametrack_game_count{year="2014",platform="PC",status="Collection"} 1.0
+gametrack_game_count{year="2014",platform="PC",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="PS2",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="PS3",status="Collection"} 0.0
 gametrack_game_count{year="2014",platform="PS4",status="Collection"} 0.0
@@ -2739,7 +2739,7 @@ gametrack_game_count{year="2013",platform="XONE",status="Abandoned"} 1.0
 gametrack_game_count{year="2013",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2014",platform="PC",status="Abandoned"} 18.0
+gametrack_game_count{year="2014",platform="PC",status="Abandoned"} 19.0
 gametrack_game_count{year="2014",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="PS4",status="Abandoned"} 1.0
@@ -3521,7 +3521,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Wanted"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Wanted"} 37.0
+gametrack_game_count{year="2025",platform="PC",status="Wanted"} 40.0
 gametrack_game_count{year="2025",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Wanted"} 0.0
