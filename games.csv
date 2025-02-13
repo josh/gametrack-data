@@ -722,7 +722,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 194662,Q111023388,The Witcher IV,Wanted,PC,,4000-12-31,0
 194965,Q115569035,Hyper Light Breaker,Abandoned,PC,2025-01-14,2025-01-14,0
 195517,Q111538856,Return to Monkey Island,Completed,PC,2022-09-19,2022-09-19,5
-196954,Q123173448,Hell is Us,Wanted,PC,,2025-12-31,0
+196954,Q123173448,Hell is Us,Wanted,PC,,2025-09-04,0
 198439,Q115476105,American Arcadia,Completed,PC,,2023-11-14,5
 198499,Q122234668,Chants of Sennaar,Abandoned,PC,,2023-09-04,0
 200165,Q110206584,Call of Duty: Modern Warfare II,Completed,PC,,2022-10-27,6
@@ -787,7 +787,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,4000-12-31,0
 250620,Q118645491,Sword of the Sea,Wanted,PC,2023-05-25,2025-12-31,0
 250630,Q118645622,Marathon,Wanted,PC,2023-05-25,2025-12-31,0
-250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Wanted,PC,2023-05-24,2025-08-28,0
+250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Collection,PC,2023-05-24,2025-08-28,0
 250635,Q118650385,Metal Gear Solid Master Collection: Volume 1,Completed,PC,2023-06-26,2023-10-23,8
 251833,Q124357469,Balatro,Abandoned,PC,,2024-02-20,0
 252072,Q126693109,Athena Crisis,Abandoned,PC,2024-03-10,2024-09-23,0
@@ -849,6 +849,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 294453,,A Quiet Place: The Road Ahead,Abandoned,PC,2024-10-24,2024-10-17,0
 295199,,Eternal Strands,Abandoned,PC,2025-02-03,2025-01-28,0
 296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
+298526,Q125430996,Kingdom Come: Deliverance II,Wanted,PC,,2025-02-04,0
 300976,Q117716202,Assassin's Creed Shadows,Wanted,PC,,2025-03-20,0
 302156,Q125962931,Call of Duty: Black Ops 6,Completed,PC,2024-10-24,2024-10-25,6
 302704,Q126091569,Doom: The Dark Ages,Queued,PC,,2025-05-14,0
@@ -865,7 +866,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 306149,Q126722717,The Legend of Zelda: Echoes of Wisdom,In Progress,Switch,2024-09-25,2024-09-26,0
 306979,,Dead Rising Deluxe Remaster,Abandoned,PC,2024-09-17,2024-09-19,0
 308029,Q127328363,Black State,Wanted,PC,,4000-12-31,0
-314238,Q129437626,Sniper Elite: Resistance,Queued,PC,2025-01-31,2025-01-30,0
+314238,Q129437626,Sniper Elite: Resistance,In Progress,PC,2025-01-31,2025-01-30,0
 314246,Q129437801,Borderlands 4,Wanted,PC,,2025-09-23,0
 314252,Q129438968,Dying Light: The Beast,Wanted,PC,,2025-12-31,0
 314276,Q129444823,Mafia: The Old Country,Wanted,PC,,2025-12-31,0
@@ -890,3 +891,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 325611,Q131436227,Intergalactic: The Heretic Prophet,Wanted,PS5,,4000-12-31,0
 329130,Q131862321,Ninja Gaiden 4,Wanted,PC,,2025-12-31,0
 329132,Q131862353,Ninja Gaiden II Black,Abandoned,PC,2025-02-03,2025-01-23,0
+331204,Q132257910,Lies of P: Overture,Wanted,PC,,2025-12-31,0
+331206,Q132258158,Days Gone: Remastered,Wanted,PS5,,2025-04-25,0
+331215,Q132258586,Saros,Wanted,PS5,,2026-12-31,0
+331216,,Days Gone: Broken Road,Wanted,PC,,2025-04-25,0
