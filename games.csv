@@ -725,6 +725,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 196954,Q123173448,Hell is Us,Wanted,PC,,2025-09-04,0
 198439,Q115476105,American Arcadia,Completed,PC,,2023-11-14,5
 198499,Q122234668,Chants of Sennaar,Abandoned,PC,,2023-09-04,0
+199132,Q122890976,Pizza Possum,Abandoned,PC,,2023-09-28,0
 200165,Q110206584,Call of Duty: Modern Warfare II,Completed,PC,,2022-10-27,6
 200903,Q111968487,Another Crab's Treasure,Completed,PC,,2024-04-25,6
 201156,Q112704136,Star Wars Jedi: Survivor,Completed,PS5,2023-04-28,2023-04-28,6
@@ -787,7 +788,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,4000-12-31,0
 250620,Q118645491,Sword of the Sea,Wanted,PC,2023-05-25,2025-12-31,0
 250630,Q118645622,Marathon,Wanted,PC,2023-05-25,2025-12-31,0
-250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Collection,PC,2023-05-24,2025-08-28,0
+250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Queued,PC,2023-05-24,2025-08-28,0
 250635,Q118650385,Metal Gear Solid Master Collection: Volume 1,Completed,PC,2023-06-26,2023-10-23,8
 251833,Q124357469,Balatro,Abandoned,PC,,2024-02-20,0
 252072,Q126693109,Athena Crisis,Abandoned,PC,2024-03-10,2024-09-23,0
@@ -874,7 +875,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 315804,,Star Wars Outlaws: Wild Card,Completed,PC,2024-11-11,2024-11-21,6
 315805,,Star Wars Outlaws: A Pirate's Fortune,Wanted,PC,,2025-12-31,0
 317103,Q130360291,Horizon Zero Dawn Remastered,Abandoned,PC,2024-10-28,2024-10-31,0
-317317,,Like a Dragon: Pirate Yakuza in Hawaii,Queued,PC,2024-10-01,2025-02-28,0
+317317,,Like a Dragon: Pirate Yakuza in Hawaii,Queued,PC,2024-10-01,2025-02-21,0
 317625,Q130360274,Legacy of Kain: Soul Reaver 1 & 2 Remastered,Abandoned,PC,,2024-12-10,0
 317627,Q130360297,Ghost of Yotei,Wanted,PS5,,2025-12-31,0
 319480,,Tomb Raider IV•V•VI Remastered,Abandoned,PC,2025-02-13,2025-02-14,0
