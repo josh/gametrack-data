@@ -513,6 +513,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 113119,Q111513644,The Stanley Parable: Ultra Deluxe,Completed,PC,,2022-04-26,5
 113598,Q96240037,DEATHLOOP,Completed,PS5,,2021-09-13,9
 113739,Q93494528,Bright Memory: Infinite,Completed,PC,2021-11-20,2021-11-11,4
+113866,Q96394151,Moving Out,Abandoned,PC,,2020-04-28,0
 114283,Q63385672,Persona 5 Royal,Abandoned,Series X,2022-10-29,2022-10-21,0
 114286,Q63494531,Madden NFL 20,Abandoned,XONE,,2019-08-01,0
 114795,Q61478103,Apex Legends,Abandoned,PS4,,2019-02-03,0
@@ -850,7 +851,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 294453,,A Quiet Place: The Road Ahead,Abandoned,PC,2024-10-24,2024-10-17,0
 295199,,Eternal Strands,Abandoned,PC,2025-02-03,2025-01-28,0
 296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
-298526,Q125430996,Kingdom Come: Deliverance II,Queued,PC,,2025-02-04,0
+298526,Q125430996,Kingdom Come: Deliverance II,In Progress,PC,,2025-02-04,0
 300976,Q117716202,Assassin's Creed Shadows,Wanted,PC,,2025-03-20,0
 302156,Q125962931,Call of Duty: Black Ops 6,Completed,PC,2024-10-24,2024-10-25,6
 302704,Q126091569,Doom: The Dark Ages,Queued,PC,,2025-05-15,0
