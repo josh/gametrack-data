@@ -798,7 +798,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 252502,,Baby Steps,Wanted,PC,,2025-12-31,0
 252826,Q119360998,South of Midnight,Wanted,PC,,2025-04-08,0
 252827,Q119361001,Star Wars Outlaws,Completed,PC,2024-08-26,2024-08-30,8
-252828,Q119361054,33 Immortals,Wanted,PC,,4000-12-31,0
+252828,Q119361054,33 Immortals,Wanted,PC,,2025-03-18,0
 252830,Q119361120,Microsoft Flight Simulator 2024,Abandoned,PC,,2024-11-19,0
 252836,Q119361361,Jusant,Completed,Series X,2023-10-29,2023-10-31,7
 252837,Q119361372,Still Wakes the Deep,Abandoned,PC,2024-06-15,2024-06-18,4
@@ -880,6 +880,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 317625,Q130360274,Legacy of Kain: Soul Reaver 1 & 2 Remastered,Abandoned,PC,,2024-12-10,0
 317627,Q130360297,Ghost of Yotei,Wanted,PS5,,2025-12-31,0
 319480,,Tomb Raider IV•V•VI Remastered,Abandoned,PC,2025-02-13,2025-02-14,0
+319818,,Heroes of Hammerwatch II,Collection,PC,,2025-01-14,0
 320137,,Cronos: The New Dawn,Wanted,PC,,2025-12-31,0
 320144,,FBC: Firebreak,Wanted,PC,,2025-12-31,0
 325591,Q131435228,Elden Ring: Nightreign,Wanted,PC,,2025-05-30,0
@@ -894,5 +895,5 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 329130,Q131862321,Ninja Gaiden 4,Wanted,PC,,2025-12-31,0
 329132,Q131862353,Ninja Gaiden II Black,Abandoned,PC,2025-02-03,2025-01-23,0
 331204,Q132257910,Lies of P: Overture,Wanted,PC,,2025-12-31,0
-331206,Q132258158,Days Gone: Remastered,Wanted,PS5,,2025-04-25,0
+331206,Q132258158,Days Gone Remastered,Wanted,PS5,,2025-04-25,0
 331215,Q132258586,Saros,Wanted,PS5,,2026-12-31,0
