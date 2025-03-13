@@ -538,7 +538,7 @@ gametrack_game_count{year="2024",platform="Series X",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="Steam VR",status="In Progress"} 0.0
-gametrack_game_count{year="2024",platform="Switch",status="In Progress"} 1.0
+gametrack_game_count{year="2024",platform="Switch",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="TBC",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="In Progress"} 0.0
@@ -2323,7 +2323,7 @@ gametrack_game_count{year="2024",platform="Series X",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Series X|S",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Steam Deck",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Steam VR",status="Completed"} 0.0
-gametrack_game_count{year="2024",platform="Switch",status="Completed"} 0.0
+gametrack_game_count{year="2024",platform="Switch",status="Completed"} 1.0
 gametrack_game_count{year="2024",platform="TBC",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="Wii",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="X360",status="Completed"} 0.0
@@ -3889,7 +3889,7 @@ gametrack_game_rating{year="2024",rating="4"} 3.0
 gametrack_game_rating{year="2024",rating="5"} 6.0
 gametrack_game_rating{year="2024",rating="6"} 9.0
 gametrack_game_rating{year="2024",rating="7"} 5.0
-gametrack_game_rating{year="2024",rating="8"} 7.0
+gametrack_game_rating{year="2024",rating="8"} 8.0
 gametrack_game_rating{year="2024",rating="9"} 1.0
 gametrack_game_rating{year="2024",rating="10"} 1.0
 gametrack_game_rating{year="2025",rating="1"} 0.0
