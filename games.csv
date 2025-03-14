@@ -196,6 +196,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 2691,Q2543862,Rock Band 3,Abandoned,X360,,2010-10-25,0
 2920,Q11256854,FIFA 14,Abandoned,XONE,,2013-11-21,0
 3022,Q13417084,Transistor,Abandoned,PC,2021-08-16,2014-05-20,0
+3025,Q15709637,Middle-earth: Shadow of Mordor,Abandoned,PC,,2014-09-30,0
 3042,Q13415292,Dying Light,Completed,PC,,2015-01-25,7
 3077,Q2708028,Sniper Elite,Abandoned,PC,2020-10-20,2005-09-30,0
 3078,Q714782,Sniper Elite V2,Abandoned,PC,2020-10-20,2012-04-30,0
@@ -209,6 +210,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 3775,Q88321016,Assassin's Creed: Freedom Cry,Abandoned,PC,2020-10-13,2014-02-25,0
 4788,Q16975080,Octodad: Dadliest Catch,Completed,PC,2022-05-02,2014-01-30,5
 4797,Q1145336,Dead Rising,Abandoned,XONE,,2016-09-12,0
+4843,Q15408545,Kingdom Come: Deliverance,Abandoned,PC,,2018-02-13,0
 5328,Q11879017,Metal Gear Solid V: Ground Zeroes,Completed,PS4,,2014-03-17,8
 5503,Q15891648,Batman: Arkham Knight,Completed,XONE,,2015-06-22,8
 5541,Q5185480,Sherlock Holmes: Crimes & Punishments,Abandoned,PC,2021-12-25,2014-09-29,0
@@ -386,6 +388,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 27134,Q55381944,Deep Rock Galactic,Abandoned,PC,,2020-05-12,0
 27270,Q85130376,Payday 3,Completed,PC,2023-09-20,2023-09-21,6
 27316,Q54577668,A Plague Tale: Innocence,Completed,Series X,,2021-07-05,8
+27421,Q28859887,Middle-earth: Shadow of War,Abandoned,PC,,2017-10-10,0
 27575,Q106645214,Onward,Abandoned,PC,2020-10-08,2016-08-30,0
 27789,Q28937399,PUBG: BATTLEGROUNDS,Abandoned,PS4,,2018-12-06,0
 27849,Q127938122,Sherlock Holmes: The Awakened - Remastered Edition,Abandoned,PC,,2009-08-06,0
@@ -817,6 +820,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 262973,Q124690517,Star Wars: Dark Forces Remaster,Abandoned,PC,2024-02-28,2024-02-29,0
 263480,,Starfield: Shattered Space,Completed,PC,2024-09-29,2024-09-30,7
 264412,Q122234992,EA Sports WRC,Abandoned,PC,,2023-11-03,0
+265111,Q127498813,Chained Together,Abandoned,PC,,2024-06-19,0
 266683,Q123272433,Tomb Raider I•II•III Remastered,Abandoned,PC,2024-02-13,2024-02-14,0
 266690,,Paper Mario: The Thousand-Year Door,Abandoned,Switch,2024-05-18,2024-05-23,0
 266717,,Resident Evil 4: Separate Ways,Completed,PS5,2023-09-20,2023-09-21,7
@@ -869,7 +873,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 306149,Q126722717,The Legend of Zelda: Echoes of Wisdom,Completed,Switch,2024-09-25,2024-09-26,8
 306979,,Dead Rising Deluxe Remaster,Abandoned,PC,2024-09-17,2024-09-19,0
 308029,Q127328363,Black State,Wanted,PC,,4000-12-31,0
-314238,Q129437626,Sniper Elite: Resistance,In Progress,PC,2025-01-31,2025-01-30,0
+314238,Q129437626,Sniper Elite: Resistance,Completed,PC,2025-01-31,2025-01-30,7
 314246,Q129437801,Borderlands 4,Wanted,PC,,2025-09-23,0
 314252,Q129438968,Dying Light: The Beast,Wanted,PC,,2025-12-31,0
 314276,Q129444823,Mafia: The Old Country,Wanted,PC,,2025-12-31,0

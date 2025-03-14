@@ -546,7 +546,7 @@ gametrack_game_count{year="2024",platform="XONE",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="In Progress"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="In Progress"} 4.0
+gametrack_game_count{year="2025",platform="PC",status="In Progress"} 3.0
 gametrack_game_count{year="2025",platform="PS2",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="In Progress"} 0.0
@@ -2331,7 +2331,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Completed"} 1.0
 gametrack_game_count{year="2025",platform="",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Completed"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Completed"} 1.0
+gametrack_game_count{year="2025",platform="PC",status="Completed"} 2.0
 gametrack_game_count{year="2025",platform="PS2",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Completed"} 0.0
@@ -2739,7 +2739,7 @@ gametrack_game_count{year="2013",platform="XONE",status="Abandoned"} 1.0
 gametrack_game_count{year="2013",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2014",platform="PC",status="Abandoned"} 19.0
+gametrack_game_count{year="2014",platform="PC",status="Abandoned"} 20.0
 gametrack_game_count{year="2014",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2014",platform="PS4",status="Abandoned"} 1.0
@@ -2790,7 +2790,7 @@ gametrack_game_count{year="2016",platform="XONE",status="Abandoned"} 3.0
 gametrack_game_count{year="2016",platform="iOS",status="Abandoned"} 1.0
 gametrack_game_count{year="2017",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2017",platform="PC",status="Abandoned"} 15.0
+gametrack_game_count{year="2017",platform="PC",status="Abandoned"} 16.0
 gametrack_game_count{year="2017",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2017",platform="PS4",status="Abandoned"} 2.0
@@ -2807,7 +2807,7 @@ gametrack_game_count{year="2017",platform="XONE",status="Abandoned"} 1.0
 gametrack_game_count{year="2017",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2018",platform="PC",status="Abandoned"} 9.0
+gametrack_game_count{year="2018",platform="PC",status="Abandoned"} 10.0
 gametrack_game_count{year="2018",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="PS4",status="Abandoned"} 2.0
@@ -2909,7 +2909,7 @@ gametrack_game_count{year="2023",platform="XONE",status="Abandoned"} 1.0
 gametrack_game_count{year="2023",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="N64",status="Abandoned"} 0.0
-gametrack_game_count{year="2024",platform="PC",status="Abandoned"} 34.0
+gametrack_game_count{year="2024",platform="PC",status="Abandoned"} 35.0
 gametrack_game_count{year="2024",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2024",platform="PS4",status="Abandoned"} 0.0
@@ -3898,7 +3898,7 @@ gametrack_game_rating{year="2025",rating="3"} 0.0
 gametrack_game_rating{year="2025",rating="4"} 0.0
 gametrack_game_rating{year="2025",rating="5"} 0.0
 gametrack_game_rating{year="2025",rating="6"} 1.0
-gametrack_game_rating{year="2025",rating="7"} 0.0
+gametrack_game_rating{year="2025",rating="7"} 1.0
 gametrack_game_rating{year="2025",rating="8"} 0.0
 gametrack_game_rating{year="2025",rating="9"} 0.0
 gametrack_game_rating{year="2025",rating="10"} 0.0
