@@ -546,7 +546,7 @@ gametrack_game_count{year="2024",platform="XONE",status="In Progress"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="In Progress"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="In Progress"} 3.0
+gametrack_game_count{year="2025",platform="PC",status="In Progress"} 2.0
 gametrack_game_count{year="2025",platform="PS2",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="In Progress"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="In Progress"} 0.0
@@ -1141,7 +1141,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Queued"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Queued"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Queued"} 3.0
+gametrack_game_count{year="2025",platform="PC",status="Queued"} 4.0
 gametrack_game_count{year="2025",platform="PS2",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Queued"} 0.0
@@ -2331,7 +2331,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Completed"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Completed"} 1.0
 gametrack_game_count{year="2025",platform="",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Completed"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Completed"} 2.0
+gametrack_game_count{year="2025",platform="PC",status="Completed"} 3.0
 gametrack_game_count{year="2025",platform="PS2",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Completed"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Completed"} 0.0
@@ -3521,7 +3521,7 @@ gametrack_game_count{year="2024",platform="XONE",status="Wanted"} 0.0
 gametrack_game_count{year="2024",platform="iOS",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Wanted"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Wanted"} 35.0
+gametrack_game_count{year="2025",platform="PC",status="Wanted"} 34.0
 gametrack_game_count{year="2025",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Wanted"} 0.0
@@ -3899,7 +3899,7 @@ gametrack_game_rating{year="2025",rating="4"} 0.0
 gametrack_game_rating{year="2025",rating="5"} 0.0
 gametrack_game_rating{year="2025",rating="6"} 1.0
 gametrack_game_rating{year="2025",rating="7"} 1.0
-gametrack_game_rating{year="2025",rating="8"} 0.0
+gametrack_game_rating{year="2025",rating="8"} 1.0
 gametrack_game_rating{year="2025",rating="9"} 0.0
 gametrack_game_rating{year="2025",rating="10"} 0.0
 gametrack_game_rating{year="2026",rating="1"} 0.0
