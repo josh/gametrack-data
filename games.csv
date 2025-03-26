@@ -856,7 +856,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 295199,Q125341756,Eternal Strands,Abandoned,PC,2025-02-03,2025-01-28,0
 296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
 298526,Q125430996,Kingdom Come: Deliverance II,In Progress,PC,,2025-02-04,0
-300976,Q117716202,Assassin's Creed Shadows,Queued,PC,2025-03-18,2025-03-20,0
+300976,Q117716202,Assassin's Creed Shadows,In Progress,PC,2025-03-18,2025-03-20,0
 301553,,The Executive,Abandoned,PC,,2025-02-11,0
 302156,Q125962931,Call of Duty: Black Ops 6,Completed,PC,2024-10-24,2024-10-25,6
 302704,Q126091569,Doom: The Dark Ages,Queued,PC,,2025-05-15,0
@@ -867,7 +867,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 305027,,New World: Aeternum,Abandoned,PC,2024-10-15,2024-10-15,0
 305042,Q126416665,Possessor(s),Wanted,PC,,4000-12-31,0
 305157,Q126477358,Mixtape,Wanted,PC,,2025-12-31,0
-305159,Q126465340,Atomfall,Wanted,PC,,2025-03-27,0
+305159,Q126465340,Atomfall,Queued,PC,,2025-03-27,0
 305160,Q125341011,Gears of War: E-Day,Wanted,PC,,4000-12-31,0
 306143,,Donkey Kong Country Returns HD,Abandoned,Switch,2025-01-14,2025-01-15,0
 306149,Q126722717,The Legend of Zelda: Echoes of Wisdom,Completed,Switch,2024-09-25,2024-09-26,8
