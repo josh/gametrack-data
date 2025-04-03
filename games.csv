@@ -608,7 +608,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 135254,Q96574138,Crash Bandicoot 4: It's About Time,Abandoned,Switch,,2021-03-11,5
 135991,Q97940241,Hello Neighbor 2,Abandoned,Series X,2022-12-10,2022-12-06,0
 135993,Q97657013,State of Decay 3,Wanted,PC,,4000-12-31,0
-135994,Q97736516,Avowed,In Progress,PC,2025-02-16,2025-02-18,0
+135994,Q97736516,Avowed,Completed,PC,2025-02-16,2025-02-18,5
 135995,Q112618572,As Dusk Falls,Completed,Series X,,2022-07-18,5
 135999,Q121009380,Tetris Effect: Connected,Abandoned,PC,,2020-11-09,0
 136511,Q123385910,Braid: Anniversary Edition,Abandoned,PC,2024-05-14,2024-05-14,0
@@ -909,4 +909,4 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 334647,,Grand Theft Auto V Enhanced,Abandoned,PC,,2025-03-04,0
 338067,,Mario Kart World,Wanted,Nintendo Switch 2,,2025-06-05,0
 338104,Q133804433,The Duskbloods,Wanted,Nintendo Switch 2,,2026-12-31,0
-338106,,Donkey Kong: Bananza,Wanted,Nintendo Switch 2,,2025-07-17,0
+338106,Q133804475,Donkey Kong: Bananza,Wanted,Nintendo Switch 2,,2025-07-17,0
