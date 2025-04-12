@@ -1443,7 +1443,7 @@ gametrack_game_count{year="2002",platform="iOS",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="N64",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="Nintendo Switch 2",status="Collection"} 0.0
-gametrack_game_count{year="2003",platform="PC",status="Collection"} 1.0
+gametrack_game_count{year="2003",platform="PC",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="PS2",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="PS3",status="Collection"} 0.0
 gametrack_game_count{year="2003",platform="PS4",status="Collection"} 0.0
@@ -1587,7 +1587,7 @@ gametrack_game_count{year="2010",platform="iOS",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="N64",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="Nintendo Switch 2",status="Collection"} 0.0
-gametrack_game_count{year="2011",platform="PC",status="Collection"} 1.0
+gametrack_game_count{year="2011",platform="PC",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="PS2",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="PS3",status="Collection"} 0.0
 gametrack_game_count{year="2011",platform="PS4",status="Collection"} 0.0
@@ -1713,7 +1713,7 @@ gametrack_game_count{year="2017",platform="iOS",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="N64",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="Nintendo Switch 2",status="Collection"} 0.0
-gametrack_game_count{year="2018",platform="PC",status="Collection"} 1.0
+gametrack_game_count{year="2018",platform="PC",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="PS2",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="PS3",status="Collection"} 0.0
 gametrack_game_count{year="2018",platform="PS4",status="Collection"} 0.0
@@ -2073,7 +2073,7 @@ gametrack_game_count{year="2002",platform="iOS",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="N64",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="Nintendo Switch 2",status="Completed"} 0.0
-gametrack_game_count{year="2003",platform="PC",status="Completed"} 2.0
+gametrack_game_count{year="2003",platform="PC",status="Completed"} 3.0
 gametrack_game_count{year="2003",platform="PS2",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="PS3",status="Completed"} 0.0
 gametrack_game_count{year="2003",platform="PS4",status="Completed"} 0.0
@@ -2847,7 +2847,7 @@ gametrack_game_count{year="2010",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="N64",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="Nintendo Switch 2",status="Abandoned"} 0.0
-gametrack_game_count{year="2011",platform="PC",status="Abandoned"} 7.0
+gametrack_game_count{year="2011",platform="PC",status="Abandoned"} 8.0
 gametrack_game_count{year="2011",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2011",platform="PS4",status="Abandoned"} 0.0
@@ -2973,7 +2973,7 @@ gametrack_game_count{year="2017",platform="iOS",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="N64",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="Nintendo Switch 2",status="Abandoned"} 0.0
-gametrack_game_count{year="2018",platform="PC",status="Abandoned"} 10.0
+gametrack_game_count{year="2018",platform="PC",status="Abandoned"} 11.0
 gametrack_game_count{year="2018",platform="PS2",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="PS3",status="Abandoned"} 0.0
 gametrack_game_count{year="2018",platform="PS4",status="Abandoned"} 2.0
