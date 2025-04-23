@@ -465,7 +465,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 76882,Q54906424,Sekiro: Shadows Die Twice,Completed,PS4,2020-12-22,2019-03-22,10
 78511,Q107611729,Forza Motorsport,Abandoned,Series X,2023-10-04,2023-10-09,0
 79864,Q118645498,The Talos Principle II,Abandoned,PC,2023-10-17,2023-11-01,0
-81085,Q55728812,Dark Souls: Remastered,Completed,PC,,2018-05-22,8
+81085,Q55728812,Dark Souls: Remastered,Completed,PC,2021-02-02,2018-05-23,8
 81249,Q54933101,The Elder Scrolls VI,Wanted,PC,,4000-12-31,0
 82090,Q54893555,Forza Horizon 4,Completed,Series X,2019-11-19,2020-11-10,9
 83728,Q21043786,Battlefield V,Completed,PC,2018-11-01,2018-11-20,7
@@ -803,7 +803,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 252476,Q119224900,Prince of Persia: The Lost Crown,Completed,PC,2024-01-14,2024-01-17,8
 252478,Q119225008,Sonic Superstars,Abandoned,Switch,2023-06-21,2023-10-16,0
 252502,Q119228888,Baby Steps,Wanted,PC,,2025-12-31,0
-252826,Q119360998,South of Midnight,Queued,PC,2025-04-16,2025-04-08,0
+252826,Q119360998,South of Midnight,Abandoned,PC,2025-04-16,2025-04-08,0
 252827,Q119361001,Star Wars Outlaws,Completed,PC,2024-08-26,2024-08-30,8
 252828,Q119361054,33 Immortals,Collection,PC,2025-03-26,2025-03-18,0
 252830,Q119361120,Microsoft Flight Simulator 2024,Abandoned,PC,,2024-11-19,0
@@ -828,6 +828,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 266683,Q123272433,Tomb Raider I•II•III Remastered,Abandoned,PC,2024-02-13,2024-02-14,0
 266690,,Paper Mario: The Thousand-Year Door,Abandoned,Switch,2024-05-18,2024-05-23,0
 266717,,Resident Evil 4: Separate Ways,Completed,PS5,2023-09-20,2023-09-21,7
+267306,Q133882515,The Elder Scrolls IV: Oblivion Remastered,Queued,PC,,2025-04-22,0
 268842,,Horizon Forbidden West: Complete Edition,Abandoned,PC,2023-09-27,2024-03-21,0
 273996,Q126410039,Alan Wake II: Night Springs,Completed,PS5,2024-06-07,2024-06-08,8
 273997,Q126414466,Alan Wake II: The Lake House,Completed,PS5,2024-10-24,2024-10-22,7
