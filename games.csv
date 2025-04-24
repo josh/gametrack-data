@@ -666,7 +666,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 145937,Q118143124,"Little Kitty, Big City",Completed,PC,2024-05-09,2024-05-09,6
 146851,Q106764284,Lost Judgment,Abandoned,Series X,2021-08-24,2021-09-24,0
 148241,Q109820884,Lies of P,Completed,Series X,2023-09-18,2023-09-18,6
-149657,Q125131501,Blue Prince,Completed,PC,2025-04-11,2025-04-10,9
+149657,Q125131501,Blue Prince,Completed,PC,2025-04-11,2025-04-10,8
 149706,Q109649953,Cats in Time,Abandoned,PC,2022-06-10,2021-08-26,0
 150010,Q109502429,Sonic Frontiers,Completed,PC,,2022-11-07,5
 151788,Q114968449,"El Paso, Elsewhere",Abandoned,PC,2023-12-04,2023-09-25,0
@@ -707,7 +707,6 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 178126,Q109240155,Grand Theft Auto: San Andreas - The Definitive Edition,Completed,PS5,2021-11-10,2021-11-11,6
 178361,Q107412919,The Dark Pictures Anthology: The Devil in Me,Completed,PS5,,2022-11-17,5
 180960,Q108482619,Kid A Mnesia Exhibition,Abandoned,PS5,2021-11-17,2021-11-18,0
-182410,Q115642093,Post Trauma,Wanted,PC,,2025-04-22,0
 185239,Q110029348,The Expanse: A Telltale Series,Completed,Series X,2023-08-04,2023-07-27,4
 185240,Q110029363,Thirsty Suitors,Abandoned,Series X,2023-11-02,2023-11-02,0
 185241,Q110029350,Have a Nice Death,Abandoned,PC,2022-04-01,2023-03-22,0
@@ -871,7 +870,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 305019,Q126414597,Wanderstop,Abandoned,PC,,2025-03-11,0
 305027,,New World: Aeternum,Abandoned,PC,2024-10-15,2024-10-15,0
 305042,Q126416665,Possessor(s),Wanted,PC,,4000-12-31,0
-305152,Q126462072,Clair Obscur: Expedition 33,Wanted,PC,,2025-04-24,0
+305152,Q126462072,Clair Obscur: Expedition 33,Queued,PC,2025-04-23,2025-04-24,0
 305157,Q126477358,Mixtape,Wanted,PC,,2025-12-31,0
 305159,Q126465340,Atomfall,Queued,PC,,2025-03-27,0
 305160,Q125341011,Gears of War: E-Day,Wanted,PC,,4000-12-31,0
