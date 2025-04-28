@@ -2,7 +2,7 @@
 #    uv pip compile pyproject.toml --all-extras --output-file requirements.txt
 mypy==1.15.0
     # via gametrack-data (pyproject.toml)
-mypy-extensions==1.0.0
+mypy-extensions==1.1.0
     # via mypy
 ruff==0.11.0
     # via gametrack-data (pyproject.toml)
