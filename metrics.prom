@@ -1209,7 +1209,7 @@ gametrack_game_count{year="2024",platform="iOS",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="Nintendo Switch 2",status="Queued"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Queued"} 5.0
+gametrack_game_count{year="2025",platform="PC",status="Queued"} 7.0
 gametrack_game_count{year="2025",platform="PS2",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Queued"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Queued"} 0.0
@@ -1839,7 +1839,7 @@ gametrack_game_count{year="2024",platform="iOS",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="Nintendo Switch 2",status="Collection"} 0.0
-gametrack_game_count{year="2025",platform="PC",status="Collection"} 2.0
+gametrack_game_count{year="2025",platform="PC",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="PS2",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Collection"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Collection"} 0.0
