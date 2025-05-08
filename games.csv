@@ -335,7 +335,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 18871,Q21850283,Parkitect,Abandoned,PC,2022-09-28,2018-11-29,0
 18968,Q23978200,Call of Duty: Infinite Warfare,Abandoned,PC,,2016-11-03,0
 18975,Q16259000,Oceanhorn: Monster of Uncharted Seas,Abandoned,PC,,2015-03-17,0
-19128,Q96069035,Squadron 42,Wanted,PC,,2026-12-31,0
+19128,Q96069035,Squadron 42,Wanted,PC,,2027-01-01,0
 19130,Q24050047,Sid Meier's Civilization VI,Abandoned,PC,2016-10-20,2016-10-21,0
 19164,Q62565771,Borderlands 3,Abandoned,PC,,2019-09-12,0
 19241,Q54875419,Unravel Two,Completed,XONE,,2018-06-08,5
@@ -433,7 +433,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 37062,Q30253211,Skull and Bones,Abandoned,PC,2024-02-08,2024-02-16,0
 37092,Q30612014,Hidden Agenda,Completed,PS4,,2017-10-23,6
 37094,Q846051,Shadow of the Colossus,Completed,PS4,2018-02-05,2018-02-06,5
-37136,Q30749509,Metroid Prime 4: Beyond,Wanted,Switch,,2025-12-31,0
+37136,Q30749509,Metroid Prime 4: Beyond,Wanted,Switch,,2026-01-01,0
 37777,Q50562677,Shadow of the Tomb Raider,Completed,PC,,2018-09-13,7
 45178,,Metal Gear Solid: Peace Walker - HD Edition,Queued,X360,2023-07-02,2011-11-08,0
 50531,Q119846458,BattleBit Remastered,Abandoned,PC,2023-06-29,2023-06-15,0
@@ -473,7 +473,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 90099,Q50376754,Tom Clancy's The Division 2,Completed,PC,,2019-03-14,7
 90558,Q62049495,Satisfactory,Abandoned,PC,,2019-03-18,0
 91477,Q106452472,Before Your Eyes,Abandoned,PC,2021-05-14,2021-04-08,0
-92550,Q97656849,Fable,Wanted,PC,2023-06-11,2026-12-31,0
+92550,Q97656849,Fable,Wanted,PC,2023-06-11,2027-01-01,0
 93832,,Star Wars: Empire at War - Gold Pack,Abandoned,PC,2021-05-02,2007-08-15,0
 94085,,Battlefield 1: Revolution,Completed,PC,2020-07-29,2018-01-01,9
 96437,Q55286432,Starfield,Completed,PC,2023-08-31,2023-09-06,9
@@ -563,7 +563,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 125174,Q73163646,Overwatch 2,Completed,PC,,2022-10-03,8
 125623,Q79420097,Everwild,Wanted,PC,,4000-12-31,0
 125624,Q96418509,Grounded,Abandoned,PC,,2020-07-27,0
-125633,Q85979990,Crimson Desert,Wanted,PC,,2025-12-31,0
+125633,Q85979990,Crimson Desert,Wanted,PC,,2026-01-01,0
 126098,Q75653574,Half-Life: Alyx,Completed,Steam VR,2020-09-13,2020-03-23,7
 126290,Q97120062,Far Cry 6,Completed,PS5,,2021-10-06,7
 126459,Q86919275,Valorant,Abandoned,PC,2020-06-01,2020-06-02,0
@@ -626,7 +626,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 138227,Q105106422,Super Mario 3D World + Bowser's Fury,Completed,Switch,2021-02-10,2021-02-12,7
 138341,Q126956530,RollerCoaster Tycoon 3: Complete Edition,Abandoned,PC,,2020-09-23,0
 138343,Q98969837,Hyrule Warriors: Age of Calamity,Abandoned,Switch,,2020-11-19,0
-138383,Q99194148,Prince of Persia: The Sands of Time,Wanted,PC,,2026-12-31,0
+138383,Q99194148,Prince of Persia: The Sands of Time,Wanted,PC,,2027-01-01,0
 138906,Q108910283,The Invincible,Abandoned,PC,2023-11-09,2023-11-06,0
 138949,Q100440421,Marvel's Spider-Man Remastered,Completed,PS5,,2020-11-11,9
 138950,Q99441852,Monster Hunter Rise,Abandoned,Switch,,2021-03-25,0
@@ -677,8 +677,8 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 152201,Q107208619,Mario + Rabbids Sparks of Hope,Completed,Switch,,2022-10-19,4
 152202,Q107208649,Avatar: Frontiers of Pandora,Completed,PC,2023-12-06,2023-12-07,5
 152242,Q107214641,A Plague Tale: Requiem,Completed,Series X,,2022-10-17,7
-152244,Q107215313,Replaced,Wanted,PC,,2026-12-31,0
-152246,Q107214673,The Outer Worlds 2,Wanted,PC,2024-12-12,2025-12-31,0
+152244,Q107215313,Replaced,Wanted,PC,,2027-01-01,0
+152246,Q107214673,The Outer Worlds 2,Wanted,PC,2024-12-12,2026-01-01,0
 152247,Q107214764,Redfall,Abandoned,PC,2023-05-01,2023-05-02,4
 152249,Q107214964,Marvel's Guardians of the Galaxy,Completed,Series X,2021-10-28,2021-10-26,8
 152250,Q107216758,Stranger of Paradise: Final Fantasy Origin,Abandoned,PS5,,2022-03-17,0
@@ -691,7 +691,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 165126,Q107063016,Crysis 2 Remastered,Abandoned,PC,,2021-10-15,0
 165127,Q107063018,Crysis 3 Remastered,Abandoned,PC,,2022-11-17,0
 165192,Q109708349,The Elder Scrolls V: Skyrim - Anniversary Edition,Completed,Series X,2020-12-25,2021-11-11,9
-165229,Q116823232,ExeKiller,Wanted,PC,2023-06-13,2025-12-31,0
+165229,Q116823232,ExeKiller,Wanted,PC,2023-06-13,2026-01-01,0
 165333,Q115475799,RealRTCW,Abandoned,PC,2021-11-27,2020-10-15,0
 165346,Q108273534,Saints Row,Completed,Series X,2022-08-22,2022-08-23,6
 165351,Q108273566,Cult of the Lamb,Completed,PC,2022-08-14,2022-08-11,9
@@ -715,7 +715,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 185251,Q109965238,The Matrix: Awakens - An Unreal Engine 5 Experience,Completed,PS5,2021-12-05,2021-12-06,6
 185252,Q110055360,"Warhammer 40,000: Space Marine II",Abandoned,PC,2024-09-29,2024-09-09,0
 185253,Q110028339,Dune: Spice Wars,Abandoned,PC,2023-04-26,2022-04-26,0
-185258,Q110029330,ARC Raiders,Wanted,PC,,2025-12-31,0
+185258,Q110029330,ARC Raiders,Wanted,PC,,2026-01-01,0
 186725,Q110726215,Vampire Survivors,Abandoned,PC,,2021-12-16,0
 190280,Q118228600,Tape To Tape,Abandoned,PC,,2023-05-02,0
 190422,,Demon Spore,Abandoned,PC,2024-02-08,2025-12-31,0
@@ -755,7 +755,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 214417,Q113586393,The Finals,Abandoned,PC,2023-12-07,2023-10-25,0
 215060,Q113675008,Assassin's Creed Mirage,Completed,PC,2023-10-04,2023-10-05,5
 215769,Q113826614,Cyberpunk 2077: Phantom Liberty,Completed,PC,2023-09-25,2023-09-25,8
-216315,Q115815979,Marvel 1943: Rise of Hydra,Wanted,PC,,2025-12-31,0
+216315,Q115815979,Marvel 1943: Rise of Hydra,Wanted,PC,,2026-01-01,0
 217404,Q124016810,The Axis Unseen,Abandoned,PC,2024-10-24,2024-10-22,0
 217441,Q122377958,Desordre: A Puzzle Game Adventure,Abandoned,PC,2023-10-31,2023-06-01,0
 217592,Q113959701,Pacific Drive,Abandoned,PC,,2024-02-22,0
@@ -769,9 +769,9 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 222343,Q114772020,Silent Hill f,Wanted,TBC,,4000-12-31,0
 222803,Q114858023,Age of Mythology: Retold,Abandoned,PC,,2024-09-04,0
 223134,Q114968454,"El Paso, Nightmare",Abandoned,PC,,2022-10-25,0
-224511,Q131434358,Thick as Thieves,Wanted,PC,,2026-12-31,0
+224511,Q131434358,Thick as Thieves,Wanted,PC,,2027-01-01,0
 228525,Q115641620,Hades II,Completed,PC,2024-05-06,2024-05-06,7
-228527,Q115641623,Judas,Wanted,PC,,2025-12-31,0
+228527,Q115641623,Judas,Wanted,PC,,2026-01-01,0
 228530,Q115641709,Death Stranding 2: On The Beach,Wanted,PS5,,2025-06-26,0
 228531,Q115641718,Immortals of Aveum,Abandoned,PC,2023-09-27,2023-08-21,0
 228533,Q115641819,Horizon Forbidden West: Burning Shores,Completed,PS5,2023-04-19,2023-04-19,6
@@ -794,7 +794,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 250616,Q118645527,Helldivers 2,Collection,PC,,2024-02-08,9
 250617,Q106835809,Ghostrunner II,Abandoned,PS5,2023-05-25,2023-10-25,0
 250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,4000-12-31,0
-250620,Q118645491,Sword of the Sea,Wanted,PC,2023-05-25,2025-12-31,0
+250620,Q118645491,Sword of the Sea,Wanted,PC,2023-05-25,2026-01-01,0
 250630,Q118645622,Marathon,Wanted,PC,2023-05-25,2025-09-23,0
 250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Queued,PC,2023-05-24,2025-08-28,0
 250635,Q118650385,Metal Gear Solid Master Collection: Volume 1,Completed,PC,2023-06-26,2023-10-23,8
@@ -802,7 +802,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 252072,Q126693109,Athena Crisis,Abandoned,PC,2024-03-10,2024-09-23,0
 252476,Q119224900,Prince of Persia: The Lost Crown,Completed,PC,2024-01-14,2024-01-17,8
 252478,Q119225008,Sonic Superstars,Abandoned,Switch,2023-06-21,2023-10-16,0
-252502,Q119228888,Baby Steps,Wanted,PC,,2025-12-31,0
+252502,Q119228888,Baby Steps,Wanted,PC,,2026-01-01,0
 252826,Q119360998,South of Midnight,Abandoned,PC,2025-04-16,2025-04-08,0
 252827,Q119361001,Star Wars Outlaws,Completed,PC,2024-08-26,2024-08-30,8
 252828,Q119361054,33 Immortals,Abandoned,PC,2025-03-26,2025-03-18,0
@@ -813,7 +813,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 252853,Q123859947,Citizen Sleeper 2: Starward Vector,Abandoned,PC,2025-02-03,2025-01-31,0
 254327,Q119822934,Super Mario RPG,Abandoned,Switch,2023-11-12,2023-11-16,0
 254339,Q119819453,Super Mario Bros. Wonder,Completed,Switch,2023-10-19,2023-10-20,5
-255091,Q123015381,Wheel World,Wanted,PC,,2025-12-31,0
+255091,Q123015381,Wheel World,Wanted,PC,,2026-01-01,0
 255093,Q120102489,Blade Runner 2033: Labyrinth,Wanted,PC,2023-07-02,4000-12-31,0
 256291,Q125709883,Astor: Blade of the Monolith,Abandoned,PC,2024-06-03,2024-05-30,0
 256666,,Time Breaker,Abandoned,PC,2023-11-26,2022-05-17,0
@@ -837,7 +837,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 279612,Q123698807,Brothers: A Tale of Two Sons Remake,Completed,PC,2024-02-28,2024-02-28,5
 279613,Q123698809,Pony Island 2: Panda Circus,Wanted,PC,2023-12-07,4000-12-31,0
 279623,Q123698932,God of War Ragnarök: Valhalla,Completed,PS5,2023-12-12,2023-12-11,6
-279624,Q123698935,Big Walk,Wanted,PC,2023-12-07,2025-12-31,0
+279624,Q123698935,Big Walk,Wanted,PC,2023-12-07,2026-01-01,0
 279627,Q123698954,No Rest for the Wicked,Completed,PC,2024-04-18,2024-04-18,5
 279635,Q123698969,The Casting of Frank Stone,Completed,PC,2023-12-07,2024-09-03,5
 279637,,OD,Wanted,Series X|S,,4000-12-31,0
@@ -849,7 +849,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 279658,Q123785382,Final Fantasy XVI: The Rising Tide,Completed,PS5,2024-04-17,2024-04-18,6
 284721,Q124395933,Until Dawn,Completed,PC,,2024-10-04,6
 287851,,Star Wars: Battlefront Classic Collection,Abandoned,PC,2024-02-29,2024-03-14,0
-289696,Q124753643,The Sinking City 2,Wanted,PC,,2025-12-31,0
+289696,Q124753643,The Sinking City 2,Wanted,PC,,2026-01-01,0
 290138,,"Command & Conquer: Red Alert, Counterstrike and The Aftermath",Abandoned,,,,0
 290139,,Command & Conquer: Tiberian Sun and Firestorm,Abandoned,,,,0
 290140,,Command & Conquer: Red Alert 2 and Yuri’s Revenge,Abandoned,,,,0
@@ -867,12 +867,12 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 302704,Q126091569,Doom: The Dark Ages,Queued,PC,,2025-05-15,0
 303811,Q126199700,Astro Bot,Completed,PS5,2024-09-05,2024-09-06,8
 305015,,Project C,Wanted,PC,,4000-12-31,0
-305017,Q126414600,Cairn,Wanted,PC,,2025-12-31,0
+305017,Q126414600,Cairn,Wanted,PC,,2026-01-01,0
 305019,Q126414597,Wanderstop,Abandoned,PC,,2025-03-11,0
 305027,,New World: Aeternum,Abandoned,PC,2024-10-15,2024-10-15,0
 305042,Q126416665,Possessor(s),Wanted,PC,,4000-12-31,0
 305152,Q126462072,Clair Obscur: Expedition 33,In Progress,PC,2025-04-23,2025-04-24,0
-305157,Q126477358,Mixtape,Wanted,PC,,2025-12-31,0
+305157,Q126477358,Mixtape,Wanted,PC,,2026-01-01,0
 305159,Q126465340,Atomfall,Queued,PC,,2025-03-27,0
 305160,Q125341011,Gears of War: E-Day,Wanted,PC,,4000-12-31,0
 306143,,Donkey Kong Country Returns HD,Abandoned,Switch,2025-01-14,2025-01-15,0
@@ -881,7 +881,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 308029,Q127328363,Black State,Wanted,PC,,4000-12-31,0
 314238,Q129437626,Sniper Elite: Resistance,Completed,PC,2025-01-31,2025-01-30,7
 314246,Q129437801,Borderlands 4,Wanted,PC,,2025-09-12,0
-314252,Q129438968,Dying Light: The Beast,Wanted,PC,,2025-12-31,0
+314252,Q129438968,Dying Light: The Beast,Wanted,PC,,2026-01-01,0
 314276,Q129444823,Mafia: The Old Country,Wanted,PC,,2025-08-08,0
 314449,Q129521052,Hela,Wanted,PC,,4000-12-31,0
 315804,,Star Wars Outlaws: Wild Card,Completed,PC,2024-11-11,2024-11-21,6
@@ -892,7 +892,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 317627,Q130360297,Ghost of Yotei,Wanted,PS5,,2025-10-02,0
 319480,,Tomb Raider IV•V•VI Remastered,Abandoned,PC,2025-02-13,2025-02-14,0
 319818,,Heroes of Hammerwatch II,Abandoned,PC,,2025-01-14,0
-320137,Q130550355,Cronos: The New Dawn,Wanted,PC,,2025-12-31,0
+320137,Q130550355,Cronos: The New Dawn,Wanted,PC,,2026-01-01,0
 320144,,FBC: Firebreak,Wanted,PC,,2025-06-17,0
 325588,Q131434638,Rematch,Wanted,PC,,2025-06-19,0
 325591,Q131435228,Elden Ring: Nightreign,Queued,PC,,2025-05-30,0
@@ -900,19 +900,19 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 325594,Q131433899,Split Fiction,Completed,PC,2025-03-03,2025-03-06,8
 325599,Q131436081,Project Century,Wanted,TBC,,4000-12-31,0
 325600,Q131436091,Turok: Origins,Wanted,PC,,4000-12-31,0
-325602,Q131436104,Onimusha: Way of the Sword,Wanted,PC,,2026-12-31,0
-325609,Q131436199,Dispatch,Wanted,PC,,2025-12-31,0
+325602,Q131436104,Onimusha: Way of the Sword,Wanted,PC,,2027-01-01,0
+325609,Q131436199,Dispatch,Wanted,PC,,2026-01-01,0
 325610,Q131436208,Okami Sequel,Wanted,TBC,,4000-12-31,0
 325611,Q131436227,Intergalactic: The Heretic Prophet,Wanted,PS5,,4000-12-31,0
-329130,Q131862321,Ninja Gaiden 4,Wanted,PC,,2025-12-31,0
+329130,Q131862321,Ninja Gaiden 4,Wanted,PC,,2026-01-01,0
 329132,Q131862353,Ninja Gaiden II Black,Abandoned,PC,2025-02-03,2025-01-23,0
 329954,,The Sims: Legacy Collection,Abandoned,PC,,2025-01-31,0
 329955,,The Sims 2: Legacy Collection,Abandoned,PC,,2025-01-31,0
-331204,Q132257910,Lies of P: Overture,Wanted,PC,,2025-12-31,0
+331204,Q132257910,Lies of P: Overture,Wanted,PC,,2026-01-01,0
 331206,Q132258158,Days Gone Remastered,Abandoned,PS5,2025-04-25,2025-04-25,0
-331215,Q132258586,Saros,Wanted,PS5,,2026-12-31,0
+331215,Q132258586,Saros,Wanted,PS5,,2027-01-01,0
 334243,Q132989754,Tony Hawk's Pro Skater 3+4,Queued,PC,,2025-07-11,0
 334647,,Grand Theft Auto V Enhanced,Abandoned,PC,,2025-03-04,0
 338067,Q131767872,Mario Kart World,Wanted,Nintendo Switch 2,,2025-06-05,0
-338104,Q133804433,The Duskbloods,Wanted,Nintendo Switch 2,,2026-12-31,0
+338104,Q133804433,The Duskbloods,Wanted,Nintendo Switch 2,,2027-01-01,0
 338106,Q133804475,Donkey Kong: Bananza,Wanted,Nintendo Switch 2,,2025-07-17,0
