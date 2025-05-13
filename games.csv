@@ -871,7 +871,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 305019,Q126414597,Wanderstop,Abandoned,PC,,2025-03-11,0
 305027,,New World: Aeternum,Abandoned,PC,2024-10-15,2024-10-15,0
 305042,Q126416665,Possessor(s),Wanted,PC,,4000-12-31,0
-305152,Q126462072,Clair Obscur: Expedition 33,In Progress,PC,2025-04-23,2025-04-24,0
+305152,Q126462072,Clair Obscur: Expedition 33,Completed,PC,2025-04-23,2025-04-24,7
 305157,Q126477358,Mixtape,Wanted,PC,,2025-12-31,0
 305159,Q126465340,Atomfall,Queued,PC,,2025-03-27,0
 305160,Q125341011,Gears of War: E-Day,Wanted,PC,,4000-12-31,0
@@ -882,7 +882,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 314238,Q129437626,Sniper Elite: Resistance,Completed,PC,2025-01-31,2025-01-30,7
 314246,Q129437801,Borderlands 4,Wanted,PC,,2025-09-12,0
 314252,Q129438968,Dying Light: The Beast,Wanted,PC,,2025-12-31,0
-314276,Q129444823,Mafia: The Old Country,Wanted,PC,,2025-08-08,0
+314276,Q129444823,Mafia: The Old Country,Collection,PC,,2025-08-08,0
 314449,Q129521052,Hela,Wanted,PC,,4000-12-31,0
 315804,,Star Wars Outlaws: Wild Card,Completed,PC,2024-11-11,2024-11-21,6
 315805,,Star Wars Outlaws: A Pirate's Fortune,Wanted,PC,,2025-05-15,0
