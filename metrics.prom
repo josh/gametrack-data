@@ -3729,7 +3729,7 @@ gametrack_game_count{year="2024",platform="iOS",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="N64",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="Nintendo Switch 2",status="Wanted"} 2.0
-gametrack_game_count{year="2025",platform="PC",status="Wanted"} 28.0
+gametrack_game_count{year="2025",platform="PC",status="Wanted"} 27.0
 gametrack_game_count{year="2025",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="2025",platform="PS4",status="Wanted"} 0.0
@@ -3747,7 +3747,7 @@ gametrack_game_count{year="2025",platform="iOS",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="N64",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="Nintendo Switch 2",status="Wanted"} 1.0
-gametrack_game_count{year="2026",platform="PC",status="Wanted"} 6.0
+gametrack_game_count{year="2026",platform="PC",status="Wanted"} 7.0
 gametrack_game_count{year="2026",platform="PS2",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="PS3",status="Wanted"} 0.0
 gametrack_game_count{year="2026",platform="PS4",status="Wanted"} 0.0
