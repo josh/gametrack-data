@@ -81,8 +81,11 @@ def _read_csv(filename: str) -> Iterator[Game]:
         for row in csv.DictReader(f):
             if row["igdb_id"]:
                 row["igdb_id"] = int(row["igdb_id"])
-            if row["release_date"] and "release_year" not in row:
-                row["release_year"] = int(row["release_date"].split("-")[0])
+            if "release_year" not in row:
+                if row["release_date"]:
+                    row["release_year"] = int(row["release_date"].split("-")[0])
+                else:
+                    row["release_year"] = 0
             if row["user_rating"]:
                 row["user_rating"] = int(row["user_rating"])
             yield cast(Game, row)
