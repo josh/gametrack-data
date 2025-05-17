@@ -10,7 +10,7 @@ import urllib.request
 from collections.abc import Iterable, Iterator
 from io import StringIO
 from pathlib import Path
-from typing import Any, Literal, TextIO, TypedDict, Union
+from typing import Any, Literal, TextIO, TypedDict, Union, cast
 
 GAMEDATA_PATH = (
     Path.home()
@@ -74,6 +74,18 @@ class Game(TypedDict):
 
 def _from_coredata_timestamp(timestamp: Union[int, float]) -> datetime.datetime:
     return datetime.datetime.fromtimestamp(int(timestamp) + 978307200)
+
+
+def _read_csv(filename: str) -> Iterator[Game]:
+    with open(filename) as f:
+        for row in csv.DictReader(f):
+            if row["igdb_id"]:
+                row["igdb_id"] = int(row["igdb_id"])
+            if row["release_date"] and "release_year" not in row:
+                row["release_year"] = int(row["release_date"].split("-")[0])
+            if row["user_rating"]:
+                row["user_rating"] = int(row["user_rating"])
+            yield cast(Game, row)
 
 
 def _write_csv(f: TextIO, games: Iterable[Game]) -> int:
@@ -416,57 +428,108 @@ def _upload_github(repo: str, github_token: str, games: list[Game]) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Export GameTrack data to CSV")
-    parser.add_argument(
+    parser = argparse.ArgumentParser(description="GameTrack data exporter")
+    subparsers = parser.add_subparsers(
+        dest="command",
+        metavar="COMMAND",
+        help="Subcommand to run",
+    )
+
+    export_parser = subparsers.add_parser(
+        "export",
+        help="Export GameTrack database to CSV",
+    )
+    export_parser.add_argument(
         "--output-filename",
         metavar="FILENAME",
         type=str,
         help="Output CSV filename",
     )
-    parser.add_argument(
+    export_parser.add_argument(
         "--metrics-filename",
         metavar="FILENAME",
         type=str,
         help="Prometheus metrics filename",
     )
-
-    parser.add_argument(
+    export_parser.add_argument(
         "--gh-repo", metavar="GITHUB_REPOSITORY", type=str, help="GitHub repository"
     )
-    parser.add_argument(
+    export_parser.add_argument(
         "--gh-token",
         metavar="GITHUB_TOKEN",
         type=str,
         help="GitHub token",
     )
+
+    metrics_parser = subparsers.add_parser(
+        "metrics",
+        help="Generate metrics from CSV data",
+    )
+    metrics_parser.add_argument(
+        "--input-filename",
+        metavar="FILENAME",
+        type=str,
+        help="Input CSV filename",
+    )
+    metrics_parser.add_argument(
+        "--metrics-filename",
+        metavar="FILENAME",
+        type=str,
+        default="-",
+        help="Prometheus metrics filename",
+    )
+
     args = parser.parse_args()
+    command = args.command or "export"
 
-    github_repo: str | None = args.gh_repo or os.environ.get("GITHUB_REPOSITORY")
-    github_token: str | None = args.gh_token or os.environ.get("GITHUB_TOKEN")
+    if command == "metrics":
+        exitcode = 1
+        games = list(_read_csv(filename=args.input_filename))
 
-    exitcode = 1
-    games = list(_load_gametrack_games())
-
-    if filename := args.output_filename:
-        with open(filename, "w") as csvfile:
-            count = _write_csv(csvfile, games)
-            print(f"Wrote {count} rows to {filename}", file=sys.stderr)
+        if args.metrics_filename == "-":
+            _write_prom_metrics(sys.stdout, games)
+        else:
+            with open(args.metrics_filename, "w") as f:
+                _write_prom_metrics(f, games)
         exitcode = 0
 
-    if filename := args.metrics_filename:
-        with open(filename, "w") as f:
-            _write_prom_metrics(f, games)
-        exitcode = 0
+        exit(exitcode)
 
-    if github_repo and github_token:
-        _upload_github(
-            repo=github_repo,
-            github_token=github_token,
-            games=games,
+    elif command == "export":
+        github_repo: str | None = getattr(args, "gh_repo", None) or os.environ.get(
+            "GITHUB_REPOSITORY"
         )
-        exitcode = 0
+        github_token: str | None = getattr(args, "gh_token", None) or os.environ.get(
+            "GITHUB_TOKEN"
+        )
 
-    exit(exitcode)
+        exitcode = 1
+        games = list(_load_gametrack_games())
+
+        if filename := getattr(args, "output_filename", None):
+            with open(filename, "w") as csvfile:
+                count = _write_csv(csvfile, games)
+                print(f"Wrote {count} rows to {filename}", file=sys.stderr)
+            exitcode = 0
+
+        if filename := getattr(args, "metrics_filename", None):
+            with open(filename, "w") as f:
+                _write_prom_metrics(f, games)
+            exitcode = 0
+
+        if github_repo and github_token:
+            _upload_github(
+                repo=github_repo,
+                github_token=github_token,
+                games=games,
+            )
+            exitcode = 0
+
+        exit(exitcode)
+
+    else:
+        parser.print_help()
+        sys.exit(1)
 
 
 if __name__ == "__main__":
