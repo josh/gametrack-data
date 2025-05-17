@@ -1,0 +1,28 @@
+name: Test
+
+on: [push, workflow_dispatch]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: "data"
+          path: "data"
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Generate metrics
+        run: |
+          uv run gametrack-data \
+            --input-filename data/games.csv \
+            --metrics-filename data/metrics.prom
