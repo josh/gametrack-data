@@ -24,5 +24,4 @@ jobs:
       - name: Generate metrics
         run: |
           uv run gametrack-data metrics \
-            --input-filename data/games.csv \
-            --metrics-filename data/metrics.prom
+            --input-filename data/games.csv
