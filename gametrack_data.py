@@ -402,22 +402,12 @@ def _upload_github(repo: str, github_token: str, games: list[Game]) -> None:
     rows = _write_csv(gamedata, games)
     print(f"Uploading {rows} games", file=sys.stderr)
 
-    metricsdata = StringIO()
-    rows = _write_prom_metrics(metricsdata, games)
-    print(f"Uploading {rows} metrics", file=sys.stderr)
-
     tree: list[_GitTreeEntry] = [
         {
             "path": "games.csv",
             "mode": "100644",
             "type": "blob",
             "sha": _gh_create_blob(repo, github_token, gamedata.getvalue()),
-        },
-        {
-            "path": "metrics.prom",
-            "mode": "100644",
-            "type": "blob",
-            "sha": _gh_create_blob(repo, github_token, metricsdata.getvalue()),
         },
     ]
 
