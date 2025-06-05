@@ -605,7 +605,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 134599,Q96238264,NBA 2K21,Abandoned,PS5,,2020-11-11,0
 134602,Q96240054,Bugsnax,Completed,PS5,2020-11-12,2020-11-12,5
 134606,Q96227146,Demon's Souls,Completed,PS5,2020-11-12,2020-11-12,10
-134612,Q96240015,Pragmata,Wanted,PC,,4000-12-31,0
+134612,Q96240015,Pragmata,Wanted,PC,,2026-12-31,0
 134706,Q96312725,Star Wars: Squadrons,Abandoned,PC,,2020-09-30,4
 135243,Q105038239,It Takes Two,Completed,PS5,2021-03-25,2021-03-26,9
 135254,Q96574138,Crash Bandicoot 4: It's About Time,Abandoned,Switch,,2021-03-11,5
@@ -766,7 +766,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 218277,Q115633684,Portal with RTX,Abandoned,PC,2022-12-08,2022-12-08,0
 218974,,Hitman: Absolution HD,Completed,XONE,,2019-01-11,7
 222341,Q114770599,Silent Hill 2,Completed,PC,2024-10-08,2024-10-08,6
-222343,Q114772020,Silent Hill f,Wanted,TBC,,4000-12-31,0
+222343,Q114772020,Silent Hill f,Collection,TBC,,4000-12-31,0
 222803,Q114858023,Age of Mythology: Retold,Abandoned,PC,,2024-09-04,0
 223134,Q114968454,"El Paso, Nightmare",Abandoned,PC,,2022-10-25,0
 224511,Q131434358,Thick as Thieves,Wanted,PC,,2026-12-31,0
@@ -870,6 +870,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 305017,Q126414600,Cairn,Wanted,PC,,2025-11-05,0
 305019,Q126414597,Wanderstop,Abandoned,PC,,2025-03-11,0
 305027,,New World: Aeternum,Abandoned,PC,2024-10-15,2024-10-15,0
+305036,Q126427073,Tides of Tomorrow,Wanted,PC,,2026-02-24,0
 305042,Q126416665,Possessor(s),Wanted,PC,,4000-12-31,0
 305152,Q126462072,Clair Obscur: Expedition 33,Completed,PC,2025-04-23,2025-04-24,7
 305157,Q126477358,Mixtape,Wanted,PC,,2025-12-31,0
@@ -918,3 +919,4 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 338106,Q133804475,Donkey Kong: Bananza,Wanted,Nintendo Switch 2,,2025-07-17,0
 347119,Q134707587,Romeo is a Dead Man,Wanted,PC,,2026-12-31,0
 347123,Q134707677,Nioh 3,Wanted,PC,,2026-12-31,0
+347137,,Astro Bot: Vicious Void Galaxy,Wanted,PS5,,2025-12-31,0
