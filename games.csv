@@ -876,6 +876,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 305157,Q126477358,Mixtape,Wanted,PC,,2025-12-31,0
 305159,Q126465340,Atomfall,Completed,PC,,2025-03-27,7
 305160,Q125341011,Gears of War: E-Day,Wanted,PC,,4000-12-31,0
+305550,,Acts of Blood,Wanted,PC,,2026-12-31,0
 306143,,Donkey Kong Country Returns HD,Abandoned,Switch,2025-01-14,2025-01-15,0
 306149,Q126722717,The Legend of Zelda: Echoes of Wisdom,Completed,Switch,2024-09-25,2024-09-26,8
 306979,,Dead Rising Deluxe Remaster,Abandoned,PC,2024-09-17,2024-09-19,0
@@ -900,7 +901,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 325591,Q131435228,Elden Ring: Nightreign,Collection,PC,,2025-05-30,0
 325592,Q131541524,Catly,Wanted,PC,,4000-12-31,0
 325594,Q131433899,Split Fiction,Completed,PC,2025-03-03,2025-03-06,8
-325599,Q131436081,Project Century,Wanted,TBC,,4000-12-31,0
+325599,Q131436081,Stranger Than Heaven,Wanted,TBC,,4000-12-31,0
 325600,Q131436091,Turok: Origins,Wanted,PC,,4000-12-31,0
 325602,Q131436104,Onimusha: Way of the Sword,Wanted,PC,,2026-12-31,0
 325609,Q131436199,Dispatch,Wanted,PC,,2025-12-31,0
@@ -921,7 +922,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 347119,Q134707587,Romeo is a Dead Man,Wanted,PC,,2026-12-31,0
 347123,Q134707677,Nioh 3,Wanted,PC,,2026-12-31,0
 347137,,Astro Bot: Vicious Void Galaxy,Wanted,PS5,,2025-12-31,0
-347639,,Atomic Heart II,Wanted,TBC,,4000-12-31,0
-347643,Q134723387,Killer Inn,Wanted,TBC,,4000-12-31,0
-347646,Q134723443,LEGO Voyagers,Wanted,TBC,,4000-12-31,0
+347639,,Atomic Heart II,Wanted,PC,,4000-12-31,0
+347643,Q134723387,Killer Inn,Wanted,PC,,4000-12-31,0
+347646,Q134723443,LEGO Voyagers,Wanted,PC,,4000-12-31,0
 347668,,Resident Evil: Requiem,Wanted,PC,,2026-02-27,0
