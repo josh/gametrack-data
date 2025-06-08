@@ -678,7 +678,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 152202,Q107208649,Avatar: Frontiers of Pandora,Completed,PC,2023-12-06,2023-12-07,5
 152242,Q107214641,A Plague Tale: Requiem,Completed,Series X,,2022-10-17,7
 152244,Q107215313,Replaced,Wanted,PC,,2026-12-31,0
-152246,Q107214673,The Outer Worlds 2,Wanted,PC,2024-12-12,2025-12-31,0
+152246,Q107214673,The Outer Worlds 2,Wanted,PC,2024-12-12,2025-10-29,0
 152247,Q107214764,Redfall,Abandoned,PC,2023-05-01,2023-05-02,4
 152249,Q107214964,Marvel's Guardians of the Galaxy,Completed,Series X,2021-10-28,2021-10-26,8
 152250,Q107216758,Stranger of Paradise: Final Fantasy Origin,Abandoned,PS5,,2022-03-17,0
@@ -897,6 +897,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 320137,Q130550355,Cronos: The New Dawn,Wanted,PC,,2025-12-31,0
 320144,,FBC: Firebreak,Wanted,PC,,2025-06-17,0
 320873,Q130545091,MindsEye,Wanted,PC,,2025-06-10,0
+321852,Q134739745,Indiana Jones and the Great Circle: The Order of Giants,Wanted,PC,,2025-12-31,0
 325588,Q131434638,Rematch,Wanted,PC,,2025-06-19,0
 325591,Q131435228,Elden Ring: Nightreign,Collection,PC,,2025-05-30,0
 325592,Q131541524,Catly,Wanted,PC,,4000-12-31,0
@@ -926,3 +927,5 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 347643,Q134723387,Killer Inn,Wanted,PC,,4000-12-31,0
 347646,Q134723443,LEGO Voyagers,Wanted,PC,,4000-12-31,0
 347668,,Resident Evil: Requiem,Wanted,PC,,2026-02-27,0
+348168,Q134739548,Resonance: A Plague Tale Legacy,Wanted,PC,,2026-12-31,0
+348192,,Aphelion,Wanted,PC,,2026-12-31,0
