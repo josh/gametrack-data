@@ -813,7 +813,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 252853,Q123859947,Citizen Sleeper 2: Starward Vector,Abandoned,PC,2025-02-03,2025-01-31,0
 254327,Q119822934,Super Mario RPG,Abandoned,Switch,2023-11-12,2023-11-16,0
 254339,Q119819453,Super Mario Bros. Wonder,Completed,Switch,2023-10-19,2023-10-20,5
-255091,Q123015381,Wheel World,Wanted,PC,,2025-12-31,0
+255091,Q123015381,Wheel World,Wanted,PC,,2025-07-23,0
 255093,Q120102489,Blade Runner 2033: Labyrinth,Wanted,PC,2023-07-02,4000-12-31,0
 256291,Q125709883,Astor: Blade of the Monolith,Abandoned,PC,2024-06-03,2024-05-30,0
 256666,,Time Breaker,Abandoned,PC,2023-11-26,2022-05-17,0
@@ -917,7 +917,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 331215,Q132258586,Saros,Wanted,PS5,,2026-12-31,0
 334243,Q132989754,Tony Hawk's Pro Skater 3+4,Queued,PC,,2025-07-11,0
 334647,,Grand Theft Auto V Enhanced,Abandoned,PC,,2025-03-04,0
-338067,Q131767872,Mario Kart World,Wanted,Nintendo Switch 2,,2025-06-05,0
+338067,Q131767872,Mario Kart World,Queued,Nintendo Switch 2,2025-06-09,2025-06-05,0
 338104,Q133804433,The Duskbloods,Wanted,Nintendo Switch 2,,2026-12-31,0
 338106,Q133804475,Donkey Kong: Bananza,Wanted,Nintendo Switch 2,,2025-07-17,0
 347119,Q134707587,Romeo is a Dead Man,Wanted,PC,,2026-12-31,0
