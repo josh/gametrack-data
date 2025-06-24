@@ -771,7 +771,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 224511,Q131434358,Thick as Thieves,Wanted,PC,,2026-12-31,0
 228525,Q115641620,Hades II,Completed,PC,2024-05-06,2024-05-06,7
 228527,Q115641623,Judas,Wanted,PC,,2025-12-31,0
-228530,Q115641709,Death Stranding 2: On The Beach,Wanted,PS5,,2025-06-26,0
+228530,Q115641709,Death Stranding 2: On The Beach,Queued,PS5,2025-06-23,2025-06-26,0
 228531,Q115641718,Immortals of Aveum,Abandoned,PC,2023-09-27,2023-08-21,0
 228533,Q115641819,Horizon Forbidden West: Burning Shores,Completed,PS5,2023-04-19,2023-04-19,6
 228535,Q115641826,Remnant II,Completed,PC,2023-08-04,2023-07-24,5
