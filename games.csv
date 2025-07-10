@@ -83,7 +83,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 473,Q648128,Battlefield: Bad Company,Completed,X360,,2008-06-22,6
 493,Q647855,Heavy Rain,Completed,PC,,2020-06-17,4
 500,Q746228,Batman: Arkham Asylum,Completed,X360,,2009-08-24,9
-501,Q288811,Batman: Arkham City,Completed,X360,,2011-10-17,8
+501,Q135080517,Batman: Arkham City,Completed,X360,,2011-10-17,8
 529,Q796529,Far Cry 3,Completed,PC,,2012-11-27,5
 530,Q129277,Hitman: Absolution,Completed,X360,2020-10-22,2012-11-20,7
 533,Q323264,Dishonored,Completed,PC,,2012-10-08,8
@@ -501,7 +501,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 104967,Q105100327,Valheim,Abandoned,PC,2021-02-01,2021-02-02,0
 104970,Q121773652,En Garde!,Completed,PC,,2023-08-16,6
 105049,Q66975659,Remnant: From the Ashes,Abandoned,PC,,2019-08-20,0
-106107,,Hellblade: Senua's Sacrifice - VR Edition,Abandoned,,,,0
+106107,Q135081488,Hellblade: Senua's Sacrifice - VR Edition,Abandoned,,,,0
 108797,Q107526522,Stranger Things 3: The Game,Completed,XONE,,2020-04-08,5
 109274,Q56597354,Judgment,Abandoned,Series X,,2021-04-22,5
 109532,Q66763775,Assassin's Creed III Remastered,Completed,XONE,2020-10-13,2019-03-28,3
@@ -560,7 +560,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 123051,Q105985887,Shadow of the Tomb Raider: Definitive Edition,Completed,PS4,2020-09-16,2019-11-19,8
 125165,Q73154387,Diablo IV,Abandoned,PS5,2023-06-10,2023-06-06,0
 125166,Q106686950,Battlefield 2042,Collection,PC,2021-08-09,2021-11-19,9
-125174,Q73163646,Overwatch 2,Completed,PC,,2022-10-03,8
+125174,Q73163646,Overwatch 2,Collection,PC,2022-10-03,2023-08-10,8
 125624,Q96418509,Grounded,Abandoned,PC,,2020-07-27,0
 125633,Q85979990,Crimson Desert,Wanted,PC,,2025-12-31,0
 126098,Q75653574,Half-Life: Alyx,Completed,Steam VR,2020-09-13,2020-03-23,7
@@ -650,7 +650,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 143612,Q105552404,Neon White,Completed,PC,,2022-06-15,8
 143614,Q105560569,The Legend of Zelda: Skyward Sword HD,Completed,Switch,2021-07-15,2021-07-16,5
 143615,Q105687014,Knockout City,Completed,XONE,,2021-05-20,4
-143964,,System Shock 2: 25th Anniversary Remaster,Abandoned,PC,,2025-06-26,0
+143964,Q135080729,System Shock 2: 25th Anniversary Remaster,Abandoned,PC,,2025-06-26,0
 144022,Q108650420,Sifu,Completed,PS5,,2022-02-07,9
 144024,Q112663549,Final Fantasy VII Remake Intergrade,Completed,PS5,,2021-06-09,6
 144072,Q107388819,Hot Wheels Unleashed,Abandoned,PS5,2022-10-06,2021-09-30,0
@@ -861,7 +861,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 296843,Q125419952,The Rogue Prince of Persia,Abandoned,PC,2024-06-03,2024-05-27,0
 298526,Q125430996,Kingdom Come: Deliverance II,Completed,PC,,2025-02-04,7
 300976,Q117716202,Assassin's Creed Shadows,Completed,PC,2025-03-18,2025-03-20,8
-301553,,The Executive,Abandoned,PC,,2025-02-11,0
+301553,Q135081413,The Executive,Abandoned,PC,,2025-02-11,0
 302156,Q125962931,Call of Duty: Black Ops 6,Completed,PC,2024-10-24,2024-10-25,6
 302704,Q126091569,Doom: The Dark Ages,Abandoned,PC,,2025-05-15,0
 303811,Q126199700,Astro Bot,Completed,PS5,2024-09-05,2024-09-06,8
