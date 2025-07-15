@@ -527,7 +527,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 115284,Q61745904,The Legend of Zelda: Link's Awakening,Completed,Switch,,2019-09-19,10
 115421,Q78588634,Littlewood,Abandoned,PC,2020-08-03,2019-06-18,0
 115843,Q105063670,Unpacking,Abandoned,PC,2021-11-01,2021-11-02,0
-116133,Q64024095,Islanders,Collection,PC,,2019-04-04,0
+116133,Q64024095,Islanders,Abandoned,PC,,2019-04-04,0
 116156,Q64589985,Solar Ash,Completed,PS5,,2021-12-01,7
 116191,Q63065823,Sniper Elite V2 Remastered,Abandoned,PC,2020-10-20,2019-05-15,0
 116200,Q104223925,Back 4 Blood,Completed,PC,2021-08-09,2021-10-11,6
@@ -535,7 +535,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 117170,Q108481438,Stellar Blade,Completed,PS5,2024-04-24,2024-04-26,8
 117748,Q97089275,Prey: Typhon Hunter,Abandoned,PC,,2018-12-10,0
 118218,Q63675773,Tom Clancy's Ghost Recon: Breakpoint,Abandoned,PC,2024-03-29,2019-10-04,0
-118219,Q63873533,John Wick Hex,Collection,PC,,2019-10-08,0
+118219,Q63873533,John Wick Hex,Abandoned,PC,,2019-10-08,0
 118882,,Tom Clancy's Rainbow Six Siege: Deluxe Edition,Abandoned,PS4,,2020-02-17,0
 119133,Q64826862,Elden Ring,Completed,PS5,2021-11-10,2022-02-25,10
 119161,Q66439292,Need for Speed Heat,Abandoned,PC,,2019-11-07,0
@@ -916,7 +916,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 329955,,The Sims 2: Legacy Collection,Abandoned,PC,,2025-01-31,0
 331206,Q132258158,Days Gone Remastered,Abandoned,PS5,2025-04-25,2025-04-25,0
 331215,Q132258586,Saros,Wanted,PS5,,2026-12-31,0
-333961,,Islanders: New Shores,Collection,PC,,2025-07-10,0
+333961,,Islanders: New Shores,Abandoned,PC,,2025-07-10,0
 334243,Q132989754,Tony Hawk's Pro Skater 3+4,Queued,PC,,2025-07-11,0
 334647,,Grand Theft Auto V Enhanced,Abandoned,PC,,2025-03-04,0
 338067,Q131767872,Mario Kart World,Completed,Switch 2,2025-06-09,2025-06-05,6
@@ -936,4 +936,4 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 348217,Q134739929,Keeper,Wanted,PC,,2025-10-17,0
 348220,Q134739948,Call of Duty: Black Ops 7,Wanted,PC,,4000-12-31,0
 349441,Q134881642,Silent Hill,Wanted,TBC,,4000-12-31,0
-349524,Q134992929,Peak,Collection,PC,,2025-06-16,0
+349524,Q134992929,Peak,Abandoned,PC,,2025-06-16,0
