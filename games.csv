@@ -561,7 +561,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 122565,Q118399270,Humanity,Completed,PS5,2023-05-16,2023-05-15,8
 123051,Q105985887,Shadow of the Tomb Raider: Definitive Edition,Completed,PS4,2020-09-16,2019-11-19,8
 125165,Q73154387,Diablo IV,Abandoned,PS5,2023-06-10,2023-06-06,0
-125166,Q106686950,Battlefield 2042,Collection,PC,2021-08-09,2021-11-19,9
+125166,Q106686950,Battlefield 2042,Abandoned,PC,2021-08-09,2021-11-19,9
 125174,Q73163646,Overwatch 2,Collection,PC,2022-10-03,2023-08-10,8
 125624,Q96418509,Grounded,Abandoned,PC,,2020-07-27,0
 125633,Q85979990,Crimson Desert,Wanted,PC,,2025-12-31,0
@@ -791,7 +791,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 246166,Q117768892,Harry Potter: Quidditch Champions,Abandoned,PS5,,2024-09-03,0
 247383,Q118698063,F1 Manager 2023,Abandoned,PC,,2023-07-31,0
 250615,Q118645433,Fairgames,Wanted,PC,2023-05-25,4000-12-31,0
-250616,Q118645527,Helldivers 2,Collection,PC,,2024-02-08,9
+250616,Q118645527,Helldivers 2,Abandoned,PC,,2024-02-08,9
 250617,Q106835809,Ghostrunner II,Abandoned,PS5,2023-05-25,2023-10-25,0
 250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,4000-12-31,0
 250620,Q118645491,Sword of the Sea,Wanted,PC,2023-05-25,2025-08-19,0
@@ -813,7 +813,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 252853,Q123859947,Citizen Sleeper 2: Starward Vector,Abandoned,PC,2025-02-03,2025-01-31,0
 254327,Q119822934,Super Mario RPG,Abandoned,Switch,2023-11-12,2023-11-16,0
 254339,Q119819453,Super Mario Bros. Wonder,Completed,Switch,2023-10-19,2023-10-20,5
-255091,Q123015381,Wheel World,Wanted,PC,,2025-07-23,0
+255091,Q123015381,Wheel World,Queued,PC,2025-07-23,2025-07-23,0
 255093,Q120102489,Blade Runner 2033: Labyrinth,Wanted,PC,2023-07-02,4000-12-31,0
 256291,Q125709883,Astor: Blade of the Monolith,Abandoned,PC,2024-06-03,2024-05-30,0
 256666,,Time Breaker,Abandoned,PC,2023-11-26,2022-05-17,0
@@ -917,7 +917,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 331206,Q132258158,Days Gone Remastered,Abandoned,PS5,2025-04-25,2025-04-25,0
 331215,Q132258586,Saros,Wanted,PS5,,2026-12-31,0
 333961,,Islanders: New Shores,Abandoned,PC,,2025-07-10,0
-334243,Q132989754,Tony Hawk's Pro Skater 3+4,Collection,PC,,2025-07-11,0
+334243,Q132989754,Tony Hawk's Pro Skater 3+4,Abandoned,PC,,2025-07-11,0
 334647,,Grand Theft Auto V Enhanced,Abandoned,PC,,2025-03-04,0
 338067,Q131767872,Mario Kart World,Completed,Switch 2,2025-06-09,2025-06-05,6
 338104,Q133804433,The Duskbloods,Wanted,Switch 2,,2026-12-31,0
