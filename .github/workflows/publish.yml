@@ -37,7 +37,7 @@ jobs:
             --metrics-filename data/metrics.prom
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: data/
 
