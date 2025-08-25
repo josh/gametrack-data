@@ -28,6 +28,8 @@ TBA_RELEASE_DATE = datetime.datetime(4000, 12, 31, 16, 0, 0)
 
 CORE_DATA_EPOCH = datetime.datetime(2001, 1, 1)
 
+WIKIDATA_USER_AGENT = "gametrack-data (https://github.com/josh/gametrack-data)"
+
 GAME_STATUS = Literal[
     "In Progress",
     "Queued",
@@ -162,7 +164,10 @@ def _load_wikidata_items(igdb_ids: Iterable[int]) -> dict[int, str]:
         "https://query.wikidata.org/sparql",
         method="POST",
         data=post_data,
-        headers={"Accept": "application/json"},
+        headers={
+            "Accept": "application/json",
+            "User-Agent": WIKIDATA_USER_AGENT,
+        },
     )
 
     with urllib.request.urlopen(req, timeout=60) as response:
