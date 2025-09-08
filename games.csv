@@ -181,7 +181,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 1985,Q717600,Metal Gear Solid V: The Phantom Pain,Completed,PS4,2015-08-31,2015-08-31,10
 2001,Q10857764,Far Cry 3: Blood Dragon,Abandoned,PC,,2013-04-30,0
 2003,Q10826261,Batman: Arkham Origins,Abandoned,PC,2020-11-25,2013-10-24,0
-2031,Q12956031,Wolfenstein: The New Order,Abandoned,PC,,2014-05-19,0
+2031,Q12956031,Wolfenstein: The New Order,Queued,PC,2020-08-09,2014-05-19,0
 2033,Q12147068,Call of Duty: Ghosts,Abandoned,PC,,2013-11-04,0
 2058,Q7156711,Payday 2,Abandoned,PC,,2013-08-13,0
 2113,Q54862,Star Wars Battlefront,Abandoned,PC,,2015-11-16,0
@@ -268,7 +268,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 8852,Q838215,Master Levels for Doom II,Abandoned,PC,2020-08-09,2007-08-03,0
 9066,Q18149274,Cities: Skylines,Abandoned,PC,,2015-03-09,0
 9073,Q647642,Deathmatch Classic,Abandoned,PC,,2001-06-30,0
-9192,Q19515406,Wolfenstein: The Old Blood,Abandoned,PC,,2015-05-04,0
+9192,Q19515406,Wolfenstein: The Old Blood,Queued,PC,2020-08-09,2015-05-04,0
 9227,Q126884627,Thief Gold,Abandoned,PC,2022-11-28,1999-10-26,0
 9471,Q1325680,Half-Life 2: Deathmatch,Abandoned,PC,,2004-11-29,0
 9495,Q19792993,Squad,Abandoned,PC,2020-09-22,2020-09-23,0
@@ -427,7 +427,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 36872,Q30339213,Forza Motorsport 7,Abandoned,PC,,2017-10-02,0
 36897,Q30229306,A Way Out,Completed,XONE,,2018-03-22,7
 36926,Q30252256,Monster Hunter: World,Abandoned,PC,2020-12-22,2018-08-09,0
-36952,Q30276412,Wolfenstein II: The New Colossus,Abandoned,PC,2020-08-09,2017-10-26,0
+36952,Q30276412,Wolfenstein II: The New Colossus,Queued,PC,2020-08-09,2017-10-26,0
 37001,Q30325568,Ori and the Will of the Wisps,Completed,Series X,2021-01-30,2020-11-10,8
 37016,Q30238508,Metro Exodus,Completed,PC,,2019-02-14,7
 37030,Q38904048,Dishonored: Death of the Outsider,Completed,XONE,,2017-09-14,7
