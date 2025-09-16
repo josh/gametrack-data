@@ -908,7 +908,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 319818,,Heroes of Hammerwatch II,Abandoned,PC,,2025-01-14,0
 320137,Q130550355,Cronos: The New Dawn,Queued,PC,,2025-09-05,0
 320144,,FBC: Firebreak,Abandoned,PC,2025-06-17,2025-06-17,5
-321852,Q134739745,Indiana Jones and the Great Circle: The Order of Giants,Queued,PC,2025-09-01,2025-09-04,0
+321852,Q134739745,Indiana Jones and the Great Circle: The Order of Giants,In Progress,PC,2025-09-01,2025-09-04,0
 325588,Q131434638,Rematch,Abandoned,PC,2025-06-16,2025-06-19,0
 325591,Q131435228,Elden Ring: Nightreign,Collection,PC,,2025-05-30,8
 325592,Q131541524,Catly,Wanted,PC,,4000-12-31,0
@@ -937,7 +937,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 347123,Q134707677,Nioh 3,Wanted,PC,,2026-12-31,0
 347639,,Atomic Heart II,Wanted,PC,,4000-12-31,0
 347643,Q134723387,Killer Inn,Wanted,PC,,4000-12-31,0
-347646,Q134723443,LEGO Voyagers,Wanted,PC,,2025-09-15,0
+347646,Q134723443,LEGO Voyagers,Queued,PC,2025-09-15,2025-09-15,0
 347668,,Resident Evil: Requiem,Wanted,PC,,2026-02-27,0
 348166,Q134739521,High on Life 2,Wanted,PC,,2026-02-13,0
 348168,Q134739548,Resonance: A Plague Tale Legacy,Wanted,PC,,2026-12-31,0
