@@ -268,7 +268,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 8852,Q838215,Master Levels for Doom II,Abandoned,PC,2020-08-09,2007-08-03,0
 9066,Q18149274,Cities: Skylines,Abandoned,PC,,2015-03-09,0
 9073,Q647642,Deathmatch Classic,Abandoned,PC,,2001-06-30,0
-9192,Q19515406,Wolfenstein: The Old Blood,In Progress,PC,2020-08-09,2015-05-04,0
+9192,Q19515406,Wolfenstein: The Old Blood,Abandoned,PC,2020-08-09,2015-05-04,4
 9227,Q126884627,Thief Gold,Abandoned,PC,2022-11-28,1999-10-26,0
 9471,Q1325680,Half-Life 2: Deathmatch,Abandoned,PC,,2004-11-29,0
 9495,Q19792993,Squad,Abandoned,PC,2020-09-22,2020-09-23,0
@@ -893,7 +893,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 312871,Q128631313,Descenders Next,Abandoned,PC,,2025-07-21,0
 314238,Q129437626,Sniper Elite: Resistance,Completed,PC,2025-01-31,2025-01-30,7
 314246,Q129437801,Borderlands 4,Abandoned,PC,2025-09-14,2025-09-11,4
-314252,Q129438968,Dying Light: The Beast,Queued,PC,,2025-09-19,0
+314252,Q129438968,Dying Light: The Beast,Abandoned,PC,,2025-09-18,0
 314271,Q129443696,Herdling,Completed,PC,,2025-08-21,5
 314276,Q111272660,Mafia: The Old Country,Abandoned,PC,2025-08-25,2025-08-07,4
 314449,Q129521052,Hela,Wanted,PC,,4000-12-31,0
@@ -906,7 +906,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 317627,Q130360297,Ghost of Yotei,Wanted,PS5,,2025-10-02,0
 319480,,Tomb Raider IV•V•VI Remastered,Abandoned,PC,2025-02-13,2025-02-14,0
 319818,,Heroes of Hammerwatch II,Abandoned,PC,,2025-01-14,0
-320137,Q130550355,Cronos: The New Dawn,Queued,PC,,2025-09-05,0
+320137,Q130550355,Cronos: The New Dawn,Abandoned,PC,,2025-09-05,0
 320144,,FBC: Firebreak,Abandoned,PC,2025-06-17,2025-06-17,5
 321852,Q134739745,Indiana Jones and the Great Circle: The Order of Giants,Completed,PC,2025-09-01,2025-09-04,7
 325588,Q131434638,Rematch,Abandoned,PC,2025-06-16,2025-06-19,0
