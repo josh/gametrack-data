@@ -706,7 +706,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 165351,Q108273566,Cult of the Lamb,Completed,PC,2022-08-14,2022-08-11,9
 167611,Q108416797,Alan Wake Remastered,Completed,XONE,,2021-10-04,5
 168665,Q108479033,Star Wars: Knights of the Old Republic - Remake,Wanted,PC,2023-06-12,4000-12-31,0
-168667,Q108479474,Marvel's Wolverine,Wanted,PS5,,4000-12-31,0
+168667,Q108479474,Marvel's Wolverine,Wanted,PS5,,2026-12-31,0
 168670,Q108482649,Uncharted: Legacy of Thieves Collection,Completed,PC,,2022-10-18,8
 171225,Q109328658,Wuchang: Fallen Feathers,Abandoned,PC,2025-07-22,2025-07-24,0
 172427,Q108670544,Kirby and the Forgotten Land,Completed,Switch,2022-04-01,2022-03-25,7
@@ -927,7 +927,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 329954,,The Sims: Legacy Collection,Abandoned,PC,,2025-01-31,0
 329955,,The Sims 2: Legacy Collection,Abandoned,PC,,2025-01-31,0
 331206,Q132258158,Days Gone Remastered,Abandoned,PS5,2025-04-25,2025-04-25,0
-331215,Q132258586,Saros,Wanted,PS5,,2026-12-31,0
+331215,Q132258586,Saros,Wanted,PS5,,2026-03-20,0
 333961,,Islanders: New Shores,Abandoned,PC,,2025-07-10,0
 334243,Q132989754,Tony Hawk's Pro Skater 3+4,Abandoned,PC,,2025-07-11,0
 334647,,Grand Theft Auto V Enhanced,Abandoned,PC,,2025-03-04,0
@@ -951,4 +951,5 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 349441,Q134881642,Silent Hill,Wanted,TBC,,4000-12-31,0
 349524,Q134992929,Peak,Abandoned,PC,,2025-06-16,0
 360141,,Heretic + Hexen,Abandoned,PC,,2025-08-07,0
-361880,,Zero Parades,Wanted,PC,,4000-12-31,0
+361880,,Zero Parades,Wanted,PC,,2026-12-31,0
+369987,,Deus Ex Remastered,Wanted,PS5,,2026-02-05,0
