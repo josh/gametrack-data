@@ -196,7 +196,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 2682,Q55214,LEGO Star Wars: The Complete Saga,Abandoned,PC,2021-05-02,2009-10-13,0
 2691,Q2543862,Rock Band 3,Abandoned,X360,,2010-10-25,0
 2920,Q11256854,FIFA 14,Abandoned,XONE,,2013-11-21,0
-2963,Q771541,Dota 2,Collection,PC,,2013-07-09,0
+2963,Q771541,Dota 2,Abandoned,PC,,2013-07-09,0
 2987,Q873037,Wolfenstein: Enemy Territory,Completed,PC,,2003-05-28,0
 3022,Q13417084,Transistor,Abandoned,PC,2021-08-16,2014-05-20,0
 3025,Q15709637,Middle-earth: Shadow of Mordor,Abandoned,PC,,2014-09-30,0
@@ -428,7 +428,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 36872,Q30339213,Forza Motorsport 7,Abandoned,PC,,2017-10-02,0
 36897,Q30229306,A Way Out,Completed,XONE,,2018-03-22,7
 36926,Q30252256,Monster Hunter: World,Abandoned,PC,2020-12-22,2018-08-09,0
-36952,Q30276412,Wolfenstein II: The New Colossus,Queued,PC,2020-08-09,2017-10-26,0
+36952,Q30276412,Wolfenstein II: The New Colossus,In Progress,PC,2020-08-09,2017-10-26,0
 37001,Q30325568,Ori and the Will of the Wisps,Completed,Series X,2021-01-30,2020-11-10,8
 37016,Q30238508,Metro Exodus,Completed,PC,,2019-02-14,7
 37030,Q38904048,Dishonored: Death of the Outsider,Completed,XONE,,2017-09-14,7
@@ -848,7 +848,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 279624,Q123698935,Big Walk,Wanted,PC,2023-12-07,2026-12-31,0
 279627,Q123698954,No Rest for the Wicked,Completed,PC,2024-04-18,2024-04-18,5
 279635,Q123698969,The Casting of Frank Stone,Completed,PC,2023-12-07,2024-09-03,5
-279637,,OD,Wanted,Series X|S,,4000-12-31,0
+279637,,OD: Knock,Wanted,Series X|S,,4000-12-31,0
 279641,Q123699054,Tales of Kenzera: Zau,Completed,PC,2023-12-07,2024-04-23,7
 279646,Q123699068,Marvel's Blade,Wanted,PC,,4000-12-31,0
 279649,Q123699101,Den of Wolves,Wanted,PC,,4000-12-31,0
@@ -920,7 +920,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 325609,Q131436199,Dispatch,Wanted,PC,,2025-10-22,0
 325610,Q131436208,Okami Sequel,Wanted,TBC,,4000-12-31,0
 325611,Q131436227,Intergalactic: The Heretic Prophet,Wanted,PS5,,4000-12-31,0
-326130,,Agatha Christie: Death on the Nile,Abandoned,PC,2025-06-14,2025-12-31,0
+326130,,Agatha Christie: Death on the Nile,Abandoned,PC,2025-06-14,2025-09-25,0
 329130,Q131862321,Ninja Gaiden 4,Wanted,PC,,2025-10-21,0
 329132,Q131862353,Ninja Gaiden II Black,Abandoned,PC,2025-02-03,2025-01-23,0
 329865,Q135056277,Is This Seat Taken?,Abandoned,PC,,2025-08-07,0
