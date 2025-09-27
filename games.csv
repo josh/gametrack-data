@@ -51,6 +51,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 231,Q279744,Half-Life,Completed,PC,2008-11-20,1998-11-27,7
 232,Q693937,Half-Life: Opposing Force,Abandoned,PC,,1999-11-09,0
 233,Q193581,Half-Life 2,Completed,PC,,2004-11-15,5
+240,Q791439,Battlefield 1942,Collection,PC,,2002-09-20,0
 241,Q163628,Counter-Strike,Abandoned,PC,,2000-11-08,0
 247,Q553308,Half-Life 2: Episode Two,Abandoned,PC,,2007-10-09,0
 277,Q206653,Battlefield 2,Completed,PC,2010-06-15,2005-06-21,10
@@ -316,6 +317,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 14363,Q21563294,Gran Turismo Sport,Abandoned,PS4,,2017-10-17,0
 14593,Q29300592,Hollow Knight,Abandoned,PC,2021-10-29,2017-02-24,0
 14741,Q22019734,Psychonauts 2,Completed,Series X,2021-09-05,2021-08-25,7
+14801,,RollerCoaster Tycoon 3: Platinum,Collection,PC,,2006-10-26,0
 14854,Q1426374,Sherlock Holmes: The Mystery of the Persian Carpet,Abandoned,PC,,2008-05-09,0
 14902,Q22245986,Assassin's Creed Chronicles: India,Abandoned,PC,2020-10-13,2016-01-12,0
 14903,Q22245987,Assassin's Creed Chronicles: Russia,Abandoned,PC,2020-10-13,2016-02-10,0
