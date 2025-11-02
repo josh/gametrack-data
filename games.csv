@@ -925,6 +925,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 325611,Q131436227,Intergalactic: The Heretic Prophet,Wanted,PS5,,4000-12-31,0
 325646,Q131398426,Escape Simulator 2,Abandoned,PC,,2025-10-27,0
 326130,,Agatha Christie: Death on the Nile,Abandoned,PC,2025-06-14,2025-09-25,0
+327405,Q135072248,Megabonk,Abandoned,PC,,2025-09-18,0
 329130,Q131862321,Ninja Gaiden 4,Abandoned,PC,2025-10-21,2025-10-21,0
 329132,Q131862353,Ninja Gaiden II Black,Abandoned,PC,2025-02-03,2025-01-23,0
 329865,Q135056277,Is This Seat Taken?,Abandoned,PC,,2025-08-07,0
@@ -938,12 +939,13 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 338067,Q131767872,Mario Kart World,Completed,Switch 2,2025-06-09,2025-06-05,6
 338104,Q133804433,The Duskbloods,Wanted,Switch 2,,2026-12-31,0
 338106,Q133804475,Donkey Kong Bananza,Completed,Switch 2,2025-07-17,2025-07-17,7
+346035,,Ball x Pit,Abandoned,PC,,2025-10-15,0
 347119,Q134707587,Romeo is a Dead Man,Wanted,PC,,2026-12-31,0
-347123,Q134707677,Nioh 3,Wanted,PC,,2026-12-31,0
+347123,Q134707677,Nioh 3,Queued,PC,,2026-12-31,0
 347639,,Atomic Heart II,Wanted,PC,,4000-12-31,0
 347643,Q134723387,Killer Inn,Wanted,PC,,4000-12-31,0
 347646,Q134723443,LEGO Voyagers,Completed,PC,2025-09-15,2025-09-15,6
-347668,,Resident Evil: Requiem,Wanted,PC,,2026-02-27,0
+347668,,Resident Evil: Requiem,Queued,PC,,2026-02-27,0
 348166,Q134739521,High on Life 2,Wanted,PC,,2026-02-13,0
 348168,Q134739548,Resonance: A Plague Tale Legacy,Wanted,PC,,2026-12-31,0
 348175,Q134739728,Super Meat Boy 3D,Wanted,PC,,2026-12-31,0
