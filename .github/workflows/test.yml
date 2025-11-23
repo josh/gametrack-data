@@ -4,7 +4,7 @@ on: [push, workflow_dispatch]
 
 jobs:
   metrics:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-slim
 
     steps:
       - name: Checkout main branch
