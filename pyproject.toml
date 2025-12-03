@@ -25,7 +25,10 @@ classifiers = [
 scripts.gametrack-data = "gametrack_data:main"
 
 [dependency-groups]
-dev = [ "mypy>=1,<2", "ruff>=0.11" ]
+dev = [
+    "mypy>=1,<2",
+    "ruff>=0.4,<2",
+]
 
 [tool.hatch.build.targets.wheel.force-include]
 "gametrack_data.py" = "gametrack_data/__init__.py"
