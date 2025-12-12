@@ -614,7 +614,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 134599,Q96238264,NBA 2K21,Abandoned,PS5,,2020-11-11,0
 134602,Q96240054,Bugsnax,Completed,PS5,2020-11-12,2020-11-12,5
 134606,Q96227146,Demon's Souls,Completed,PS5,2020-11-12,2020-11-12,10
-134612,Q96240015,Pragmata,Wanted,PC,,2026-04-24,0
+134612,Q96240015,Pragmata,Collection,PC,,2026-04-24,0
 134706,Q96312725,Star Wars: Squadrons,Abandoned,PC,,2020-09-30,4
 135243,Q105038239,It Takes Two,Completed,PS5,2021-03-25,2021-03-26,9
 135254,Q96574138,Crash Bandicoot 4: It's About Time,Abandoned,Switch,,2021-03-11,5
@@ -806,7 +806,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 247383,Q118698063,F1 Manager 2023,Abandoned,PC,,2023-07-31,0
 250616,Q118645527,Helldivers 2,Abandoned,PC,,2024-02-08,9
 250617,Q106835809,Ghostrunner II,Abandoned,PS5,2023-05-25,2023-10-25,0
-250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,4000-12-31,0
+250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,2026-09-09,0
 250620,Q118645491,Sword of the Sea,Completed,PC,2025-08-19,2025-08-19,6
 250630,Q118645622,Marathon,Wanted,PC,2023-05-25,4000-12-31,0
 250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Completed,PC,2023-05-24,2025-08-28,7
@@ -947,6 +947,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 347123,Q134707677,Nioh 3,Queued,PC,,2026-12-31,0
 347639,,Atomic Heart II,Wanted,PC,,4000-12-31,0
 347643,Q134723387,Killer Inn,Wanted,PC,,4000-12-31,0
+347645,Q134723427,Out of Words,Wanted,PC,,2026-12-31,0
 347646,Q134723443,LEGO Voyagers,Completed,PC,2025-09-15,2025-09-15,6
 347668,,Resident Evil Requiem,Queued,PC,,2026-02-27,0
 348166,Q134739521,High on Life 2,Wanted,PC,,2026-02-13,0
@@ -968,9 +969,11 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 381205,Q137363843,No Law,Wanted,PC,,4000-12-31,0
 381211,Q137363289,Bradley The Badger,Wanted,PC,,4000-12-31,0
 381215,Q137363425,Star Wars: Fate of the Old Republic,Wanted,TBC,,4000-12-31,0
-381216,,Divinity,Wanted,TBC,,4000-12-31,0
-381217,Q137363478,4:Loop,Wanted,PC,,4000-12-31,0
+381216,Q137363478,Divinity,Wanted,TBC,,4000-12-31,0
+381217,Q137364106,4:Loop,Wanted,PC,,4000-12-31,0
 381219,Q137363533,Ontos,Wanted,PC,,2026-12-31,0
 381227,Q137363586,Gang of Dragon,Wanted,TBC,,4000-12-31,0
 381234,Q137363681,Tomb Raider: Catalyst,Wanted,PC,,2027-12-31,0
 381235,Q137363685,Tomb Raider: Legacy of Atlantis,Wanted,PC,,2026-12-31,0
+381248,Q137363888,Star Wars: Galactic Racer,Wanted,PC,,2026-12-31,0
+381250,Q137363920,HighGuard,Wanted,PC,,2026-01-26,0
