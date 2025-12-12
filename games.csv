@@ -614,7 +614,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 134599,Q96238264,NBA 2K21,Abandoned,PS5,,2020-11-11,0
 134602,Q96240054,Bugsnax,Completed,PS5,2020-11-12,2020-11-12,5
 134606,Q96227146,Demon's Souls,Completed,PS5,2020-11-12,2020-11-12,10
-134612,Q96240015,Pragmata,Wanted,PC,,2026-12-31,0
+134612,Q96240015,Pragmata,Wanted,PC,,2026-04-24,0
 134706,Q96312725,Star Wars: Squadrons,Abandoned,PC,,2020-09-30,4
 135243,Q105038239,It Takes Two,Completed,PS5,2021-03-25,2021-03-26,9
 135254,Q96574138,Crash Bandicoot 4: It's About Time,Abandoned,Switch,,2021-03-11,5
@@ -783,6 +783,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 222803,Q114858023,Age of Mythology: Retold,Abandoned,PC,,2024-09-04,0
 223134,Q114968454,"El Paso, Nightmare",Abandoned,PC,,2022-10-25,0
 224511,Q131434358,Thick as Thieves,Wanted,PC,,2026-12-31,0
+225582,Q116947317,Control Resonant,Wanted,PC,,2026-12-31,0
 228525,Q115641620,Hades II,Completed,PC,2024-05-06,2024-05-06,7
 228527,Q115641623,Judas,Wanted,PC,,4000-12-31,0
 228530,Q115641709,Death Stranding 2: On The Beach,Completed,PS5,2025-06-23,2025-06-26,8
@@ -848,6 +849,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 278326,Q126744144,Beyond Good & Evil: 20th Anniversary Edition,Abandoned,PC,2024-07-07,2024-06-25,0
 279612,Q123698807,Brothers: A Tale of Two Sons Remake,Completed,PC,2024-02-28,2024-02-28,5
 279613,Q123698809,Pony Island 2: Panda Circus,Wanted,PC,2023-12-07,4000-12-31,0
+279621,Q123698911,Exodus,Wanted,PC,,2027-12-31,0
 279623,Q123698932,God of War Ragnarök: Valhalla,Completed,PS5,2023-12-12,2023-12-11,6
 279624,Q123698935,Big Walk,Wanted,PC,2023-12-07,2026-12-31,0
 279627,Q123698954,No Rest for the Wicked,Completed,PC,2024-04-18,2024-04-18,5
@@ -933,7 +935,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 329954,,The Sims: Legacy Collection,Abandoned,PC,,2025-01-31,0
 329955,,The Sims 2: Legacy Collection,Abandoned,PC,,2025-01-31,0
 331206,Q132258158,Days Gone Remastered,Abandoned,PS5,2025-04-25,2025-04-25,0
-331215,Q132258586,Saros,Wanted,PS5,,2026-03-20,0
+331215,Q132258586,Saros,Wanted,PS5,,2026-03-30,0
 333961,,Islanders: New Shores,Abandoned,PC,,2025-07-10,0
 334243,Q132989754,Tony Hawk's Pro Skater 3+4,Abandoned,PC,,2025-07-11,0
 334647,,Grand Theft Auto V Enhanced,Abandoned,PC,,2025-03-04,0
@@ -961,3 +963,14 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 360141,,Heretic + Hexen,Abandoned,PC,,2025-08-07,0
 361880,,Zero Parades: For Dead Spies,Wanted,PC,,2026-12-31,0
 369987,Q136373808,Deus Ex Remastered,Wanted,PS5,,4000-12-31,0
+381202,,The Free Shepherd,Wanted,PC,,2027-12-31,0
+381203,Q137363260,Decrepit,Wanted,PC,,2026-12-31,0
+381205,Q137363843,No Law,Wanted,PC,,4000-12-31,0
+381211,Q137363289,Bradley The Badger,Wanted,PC,,4000-12-31,0
+381215,Q137363425,Star Wars: Fate of the Old Republic,Wanted,TBC,,4000-12-31,0
+381216,,Divinity,Wanted,TBC,,4000-12-31,0
+381217,Q137363478,4:Loop,Wanted,PC,,4000-12-31,0
+381219,Q137363533,Ontos,Wanted,PC,,2026-12-31,0
+381227,Q137363586,Gang of Dragon,Wanted,TBC,,4000-12-31,0
+381234,Q137363681,Tomb Raider: Catalyst,Wanted,PC,,2027-12-31,0
+381235,Q137363685,Tomb Raider: Legacy of Atlantis,Wanted,PC,,2026-12-31,0
