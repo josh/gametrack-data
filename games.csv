@@ -352,7 +352,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 19530,Q24575608,Quake Champions,Abandoned,PC,,2017-08-22,0
 19531,Q4047343,Prey,Completed,PC,2022-06-13,2017-05-04,8
 19560,Q18345138,God of War,Completed,PC,2020-11-14,2022-01-14,8
-19561,Q24576564,Days Gone,Completed,PS4,,2019-04-25,9
+19561,Q24576564,Days Gone,Completed,PS4,2021-04-15,2019-04-26,9
 19562,Q24577667,Resident Evil 7: Biohazard,Completed,PS5,,2022-06-12,7
 19564,Q24666782,Death Stranding,Completed,PS4,,2019-11-07,8
 19637,Q12072563,Star Wars: The Force Unleashed - Ultimate Sith Edition,Abandoned,PC,2021-05-02,2009-11-03,0
@@ -464,7 +464,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 68461,,Nioh: Complete Edition,Abandoned,PC,2022-11-22,2017-11-07,0
 72813,Q59618073,Untitled Goose Game,Completed,Switch,,2019-09-19,7
 72870,Q116771326,Horizon Zero Dawn: Complete Edition,Completed,PC,2020-10-06,2020-08-07,7
-74701,Q55449345,Star Wars Jedi: Fallen Order,Completed,XONE,,2019-11-14,9
+74701,Q55449345,Star Wars Jedi: Fallen Order,Completed,XONE,2019-12-15,2019-11-15,9
 75235,Q42564798,Ghost of Tsushima,Completed,PS4,,2020-07-16,9
 76253,Q55076932,Devil May Cry 5,Abandoned,PC,,2019-03-08,0
 76747,Q60850588,Atomic Heart,Completed,Series X,2023-02-20,2023-02-21,7
@@ -901,6 +901,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 314238,Q129437626,Sniper Elite: Resistance,Completed,PC,2025-01-31,2025-01-30,7
 314246,Q129437801,Borderlands 4,Abandoned,PC,2025-09-14,2025-09-11,4
 314252,Q129438968,Dying Light: The Beast,Abandoned,PC,,2025-09-18,0
+314265,Q129440575,Reanimal,Wanted,PC,,2026-02-13,0
 314271,Q129443696,Herdling,Completed,PC,,2025-08-21,5
 314276,Q111272660,Mafia: The Old Country,Abandoned,PC,2025-08-25,2025-08-07,4
 314449,Q129521052,Hela,Wanted,PC,,2026-12-31,0
