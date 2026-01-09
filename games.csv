@@ -245,7 +245,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 7323,Q17154489,Rise of the Tomb Raider,Completed,XONE,,2015-11-09,8
 7325,Q17181585,Lara Croft and the Temple of Osiris,Abandoned,PC,2020-09-16,2014-12-08,0
 7329,Q17167727,Dead Island 2,Completed,PS5,2023-04-20,2023-04-20,6
-7331,Q16681843,Uncharted 4: A Thief's End,Completed,PS4,,2016-05-09,9
+7331,Q16681843,Uncharted 4: A Thief's End,Completed,PS4,2018-11-17,2016-05-10,9
 7334,Q17154554,Bloodborne,Queued,PS4,2021-02-02,2015-03-24,0
 7342,Q22019785,Inside,Completed,PC,,2016-07-07,4
 7344,Q17513672,Ori and the Blind Forest,Completed,XONE,2021-03-11,2015-03-11,6
@@ -277,7 +277,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 9495,Q19792993,Squad,Abandoned,PC,2020-09-22,2020-09-23,0
 9498,Q19772510,Deus Ex: Mankind Divided,Completed,PC,2020-11-25,2016-08-23,6
 9509,Q19789342,Call of Duty: Black Ops III,Abandoned,PC,,2015-11-05,0
-9630,Q10493813,Fallout 4,Completed,PC,,2015-11-08,6
+9630,Q10493813,Fallout 4,Completed,PC,,2015-11-08,7
 9730,Q19627426,Firewatch,Completed,PS4,2016-02-09,2016-02-09,8
 9740,Q120750875,Deus Ex: Human Revolution - Director's Cut,Abandoned,PC,2020-11-25,2013-10-25,0
 9781,Q750032,Beyond Divinity,Abandoned,PC,,2004-04-27,0
@@ -356,7 +356,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 19562,Q24577667,Resident Evil 7: Biohazard,Completed,PS5,,2022-06-12,7
 19564,Q24666782,Death Stranding,Completed,PS4,,2019-11-07,8
 19637,Q12072563,Star Wars: The Force Unleashed - Ultimate Sith Edition,Abandoned,PC,2021-05-02,2009-11-03,0
-19686,Q54920200,Resident Evil 2,Completed,PS5,,2022-06-12,10
+19686,Q54920200,Resident Evil 2,Completed,PS5,2022-07-12,2022-06-13,10
 19965,Q105985883,Tomb Raider: Definitive Edition,Completed,PS4,,2014-01-27,8
 20150,Q33101548,Katana Zero,Abandoned,PC,2019-04-17,2019-04-18,0
 20275,Q110752642,The Witcher: Enhanced Edition,Abandoned,PC,2020-11-25,2008-09-16,0
@@ -425,7 +425,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 36240,Q19636615,Icewind Dale: Enhanced Edition,Abandoned,PC,,2014-10-30,0
 36366,Q121201675,RollerCoaster Tycoon 2: Triple Thrill Pack,Abandoned,PC,,2004-12-31,0
 36444,Q121200762,RollerCoaster Tycoon: Deluxe,Abandoned,PC,2014-05-21,2014-05-21,0
-36550,Q66900968,Yakuza: Like a Dragon,Completed,Series X,2021-08-05,2020-11-10,6
+36550,Q66900968,Yakuza: Like a Dragon,Completed,Series X,2021-08-05,2020-11-10,8
 36646,Q55382124,GTFO,Abandoned,PC,,2019-12-09,0
 36662,Q30141529,Need For Speed: Payback,Abandoned,PC,2020-10-13,2017-11-10,0
 36872,Q30339213,Forza Motorsport 7,Abandoned,PC,,2017-10-02,0
@@ -465,7 +465,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 72813,Q59618073,Untitled Goose Game,Completed,Switch,,2019-09-19,7
 72870,Q116771326,Horizon Zero Dawn: Complete Edition,Completed,PC,2020-10-06,2020-08-07,7
 74701,Q55449345,Star Wars Jedi: Fallen Order,Completed,XONE,,2019-11-14,9
-75235,Q42564798,Ghost of Tsushima,Completed,PS4,,2020-07-16,8
+75235,Q42564798,Ghost of Tsushima,Completed,PS4,,2020-07-16,9
 76253,Q55076932,Devil May Cry 5,Abandoned,PC,,2019-03-08,0
 76747,Q60850588,Atomic Heart,Completed,Series X,2023-02-20,2023-02-21,7
 76882,Q54906424,Sekiro: Shadows Die Twice,Completed,PS4,2020-12-22,2019-03-22,10
@@ -518,7 +518,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 112874,Q96216443,Horizon Forbidden West,Completed,PS5,,2022-02-17,7
 112875,Q99397916,God of War Ragnarök,Completed,PS5,2022-11-12,2022-11-09,8
 113111,Q59536524,Far Cry New Dawn,Completed,PC,,2019-02-14,6
-113112,Q59756366,Hades,Completed,Switch,2020-11-20,2020-09-17,8
+113112,Q59756366,Hades,Completed,Switch,2020-11-20,2020-09-17,9
 113114,Q59535090,The Outer Worlds,Completed,PC,,2019-10-24,8
 113118,Q63994801,The Pathless,Completed,PS5,,2020-11-11,7
 113119,Q111513644,The Stanley Parable: Ultra Deluxe,Completed,PC,,2022-04-26,5
@@ -539,14 +539,14 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 116191,Q63065823,Sniper Elite V2 Remastered,Abandoned,PC,2020-10-20,2019-05-15,0
 116200,Q104223925,Back 4 Blood,Completed,PC,2021-08-09,2021-10-11,6
 116238,Q63464391,Sniper Elite 5,Completed,PC,,2022-05-24,8
-117170,Q108481438,Stellar Blade,Completed,PS5,2024-04-24,2024-04-26,8
+117170,Q108481438,Stellar Blade,Completed,PS5,2024-04-24,2024-04-26,9
 117748,Q97089275,Prey: Typhon Hunter,Abandoned,PC,,2018-12-10,0
 118218,Q63675773,Tom Clancy's Ghost Recon: Breakpoint,Abandoned,PC,2024-03-29,2019-10-04,0
 118219,Q63873533,John Wick Hex,Abandoned,PC,,2019-10-08,0
 118882,,Tom Clancy's Rainbow Six Siege: Deluxe Edition,Abandoned,PS4,,2020-02-17,0
 119133,Q64826862,Elden Ring,Completed,PS5,2021-11-10,2022-02-25,10
 119161,Q66439292,Need for Speed Heat,Abandoned,PC,,2019-11-07,0
-119171,Q64441774,Baldur's Gate 3,Completed,PC,2023-08-04,2020-10-06,10
+119171,Q64441774,Baldur's Gate III,Completed,PC,2023-08-04,2020-10-06,10
 119177,Q64083878,Call Of Duty: Modern Warfare,Completed,PC,,2019-10-24,6
 119262,Q64743240,Tom Clancy's Rainbow Six Extraction,Abandoned,PC,2022-01-19,2022-01-20,6
 119295,Q69523972,Microsoft Flight Simulator,Abandoned,Series X,,2021-07-26,0
@@ -650,7 +650,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 141540,Q127164835,Disco Elysium: The Final Cut,Abandoned,PC,,2021-03-29,0
 141543,Q106513305,Road 96,Completed,PC,2021-08-16,2021-08-16,6
 141547,Q104568362,Evil West,Completed,PC,,2022-11-21,4
-142415,Q124312399,Indiana Jones and the Great Circle,Completed,PC,2024-12-06,2024-12-09,0
+142415,Q124312399,Indiana Jones and the Great Circle,Completed,PC,2024-12-06,2024-12-09,10
 142549,Q120733019,Viewfinder,Completed,PC,2023-06-26,2023-07-17,8
 142740,Q104991768,Resident Evil Re:Verse,Abandoned,PC,,2022-10-28,0
 142862,Q119846651,Farlight 84,Abandoned,PC,,2023-04-24,5
@@ -675,7 +675,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 145937,Q118143124,"Little Kitty, Big City",Completed,PC,2024-05-09,2024-05-09,6
 146851,Q106764284,Lost Judgment,Abandoned,Series X,2021-08-24,2021-09-24,0
 148241,Q109820884,Lies of P,Completed,Series X,2023-09-18,2023-09-18,6
-149657,Q125131501,Blue Prince,Completed,PC,2025-04-11,2025-04-10,8
+149657,Q125131501,Blue Prince,Completed,PC,2025-04-11,2025-04-10,9
 149706,Q109649953,Cats in Time,Abandoned,PC,2022-06-10,2021-08-26,0
 150010,Q109502429,Sonic Frontiers,Completed,PC,,2022-11-07,5
 151665,Q113989188,Palworld,Abandoned,PC,,2024-01-19,0
@@ -694,7 +694,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 152250,Q107216758,Stranger of Paradise: Final Fantasy Origin,Abandoned,PS5,,2022-03-17,0
 152259,Q108295044,Far: Changing Tides,Abandoned,PC,,2022-03-01,0
 152288,Q107225273,Immortality,Completed,PC,2022-08-30,2022-08-30,7
-153700,Q107398164,Ghost of Tsushima: Director's Cut,Completed,PS5,2021-08-19,2021-08-20,8
+153700,Q107398164,Ghost of Tsushima: Director's Cut,Completed,PS5,2021-08-19,2021-08-20,9
 153895,Q131180037,Suit for Hire,Abandoned,PC,,2021-08-31,0
 154775,Q107510346,RoboCop: Rogue City,Abandoned,PC,2023-10-17,2023-11-02,4
 159029,Q107578877,XDefiant,Abandoned,PC,2024-06-10,2024-05-21,0
