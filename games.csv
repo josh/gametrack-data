@@ -808,7 +808,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 250617,Q106835809,Ghostrunner II,Abandoned,PS5,2023-05-25,2023-10-25,0
 250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,2026-09-09,0
 250620,Q118645491,Sword of the Sea,Completed,PC,2025-08-19,2025-08-19,6
-250630,Q118645622,Marathon,Wanted,PC,2023-05-25,2026-03-05,0
+250630,Q118645622,Marathon,Collection,PC,2023-05-25,2026-03-05,0
 250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Completed,PC,2023-05-24,2025-08-28,7
 250635,Q118650385,Metal Gear Solid Master Collection: Volume 1,Completed,PC,2023-06-26,2023-10-23,8
 251833,Q124357469,Balatro,Abandoned,PC,,2024-02-20,0
@@ -961,7 +961,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 348192,,Aphelion,Wanted,PC,,2026-12-31,0
 348217,Q134739929,Keeper,Abandoned,PC,2025-10-17,2025-10-17,0
 348220,Q134739948,Call of Duty: Black Ops 7,Abandoned,PC,2025-11-11,2025-11-14,0
-348330,,Forza Horizon 6,Wanted,PC,,2026-05-18,0
+348330,,Forza Horizon 6,Wanted,PC,,2026-05-19,0
 349441,Q134881642,Silent Hill,Wanted,TBC,,4000-12-31,0
 349524,Q134992929,Peak,Abandoned,PC,,2025-06-16,0
 360141,,Heretic + Hexen,Abandoned,PC,,2025-08-07,0
