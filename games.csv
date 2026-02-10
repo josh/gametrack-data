@@ -571,7 +571,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 125166,Q106686950,Battlefield 2042,Abandoned,PC,2021-08-09,2021-11-19,9
 125174,Q73163646,Overwatch 2,Abandoned,PC,2022-10-03,2023-08-10,8
 125624,Q96418509,Grounded,Abandoned,PC,,2020-07-27,0
-125633,Q85979990,Crimson Desert,Collection,PC,,2026-03-19,0
+125633,Q85979990,Crimson Desert,Queued,PC,,2026-03-19,0
 126098,Q75653574,Half-Life: Alyx,Completed,Steam VR,2020-09-13,2020-03-23,7
 126290,Q97120062,Far Cry 6,Completed,PS5,,2021-10-06,7
 126459,Q86919275,Valorant,Abandoned,PC,2020-06-01,2020-06-02,0
@@ -614,7 +614,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 134599,Q96238264,NBA 2K21,Abandoned,PS5,,2020-11-11,0
 134602,Q96240054,Bugsnax,Completed,PS5,2020-11-12,2020-11-12,5
 134606,Q96227146,Demon's Souls,Completed,PS5,2020-11-12,2020-11-12,10
-134612,Q96240015,Pragmata,Collection,PC,,2026-04-24,0
+134612,Q96240015,Pragmata,Queued,PC,,2026-04-24,0
 134706,Q96312725,Star Wars: Squadrons,Abandoned,PC,,2020-09-30,4
 135243,Q105038239,It Takes Two,Completed,PS5,2021-03-25,2021-03-26,9
 135254,Q96574138,Crash Bandicoot 4: It's About Time,Abandoned,Switch,,2021-03-11,5
@@ -807,7 +807,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 250617,Q106835809,Ghostrunner II,Abandoned,PS5,2023-05-25,2023-10-25,0
 250618,Q118645482,Phantom Blade 0,Wanted,PC,2023-05-25,2026-09-09,0
 250620,Q118645491,Sword of the Sea,Completed,PC,2025-08-19,2025-08-19,6
-250630,Q118645622,Marathon,Collection,PC,2023-05-25,2026-03-05,0
+250630,Q118645622,Marathon,Queued,PC,2023-05-25,2026-03-05,0
 250634,Q118645540,Metal Gear Solid Delta: Snake Eater,Completed,PC,2023-05-24,2025-08-28,7
 250635,Q118650385,Metal Gear Solid Master Collection: Volume 1,Completed,PC,2023-06-26,2023-10-23,8
 251833,Q124357469,Balatro,Abandoned,PC,,2024-02-20,0
@@ -949,7 +949,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 347645,Q134723427,Out of Words,Wanted,PC,,2026-12-31,0
 347646,Q134723443,LEGO Voyagers,Completed,PC,2025-09-15,2025-09-15,6
 347668,,Resident Evil Requiem,Queued,PC,,2026-02-27,0
-348166,Q134739521,High on Life 2,Collection,PC,,2026-02-13,0
+348166,Q134739521,High on Life 2,Queued,PC,,2026-02-13,0
 348168,Q134739548,Resonance: A Plague Tale Legacy,Wanted,PC,,2026-12-31,0
 348175,Q134739728,Super Meat Boy 3D,Wanted,PC,,2026-12-31,0
 348180,Q134739750,Beast of Reincarnation,Wanted,PC,,2026-12-31,0
