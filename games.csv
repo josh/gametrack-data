@@ -794,7 +794,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 228542,Q115641899,Armored Core VI: Fires of Rubicon,Completed,PS5,2023-08-25,2023-08-25,6
 233585,Q116439515,Hi-Fi Rush,Abandoned,PC,2023-01-30,2023-01-24,0
 236663,Q116734030,Metroid Prime Remastered,Completed,Switch,2023-02-08,2023-02-08,8
-237780,Q115249849,Directive 8020,Wanted,PC,,2026-12-31,0
+237780,Q115249849,Directive 8020,Wanted,PC,,2026-05-12,0
 239999,Q117316999,The Outer Worlds: Spacer's Choice Edition,Completed,PC,2023-03-07,2023-03-07,7
 240009,Q116952973,Elden Ring: Shadow of the Erdtree,Completed,PS5,2024-06-15,2024-06-21,10
 240558,Q118136346,F1 23,Abandoned,PC,,2023-06-16,0
@@ -837,7 +837,6 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 263480,,Starfield: Shattered Space,Completed,PC,2024-09-29,2024-09-30,7
 264412,Q122234992,EA Sports WRC,Abandoned,PC,,2023-11-03,0
 265111,Q127498813,Chained Together,Abandoned,PC,,2024-06-19,0
-265827,Q134732305,Crisol: Theater of Idols,Wanted,PC,,2026-02-10,0
 266683,Q123272433,Tomb Raider I•II•III Remastered,Abandoned,PC,2024-02-13,2024-02-14,0
 266690,,Paper Mario: The Thousand-Year Door,Abandoned,Switch,2024-05-18,2024-05-23,0
 266717,,Resident Evil 4: Separate Ways,Completed,PS5,2023-09-20,2023-09-21,7
@@ -944,7 +943,6 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 338104,Q133804433,The Duskbloods,Wanted,Switch 2,,2026-12-31,0
 338106,Q133804475,Donkey Kong Bananza,Completed,Switch 2,2025-07-17,2025-07-17,7
 346035,,Ball x Pit,Abandoned,PC,,2025-10-15,0
-347119,Q134707587,Romeo is a Dead Man,Wanted,PC,,2026-02-11,0
 347123,Q134707677,Nioh 3,Abandoned,PC,,2026-02-06,0
 347639,,Atomic Heart II,Wanted,PC,,4000-12-31,0
 347643,Q134723387,Killer Inn,Wanted,PC,,4000-12-31,0
