@@ -778,7 +778,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 218277,Q115633684,Portal with RTX,Abandoned,PC,2022-12-08,2022-12-08,0
 218974,,Hitman: Absolution HD,Completed,XONE,,2019-01-11,7
 222341,Q114770599,Silent Hill 2,Completed,PC,2024-10-08,2024-10-08,6
-222342,Q138258621,Silent Hill: Townfall,Wanted,PC,,2026-12-31,0
+222342,Q114771189,Silent Hill: Townfall,Wanted,PC,,2026-12-31,0
 222343,Q114772020,Silent Hill f,Completed,PC,,2025-09-25,5
 222803,Q114858023,Age of Mythology: Retold,Abandoned,PC,,2024-09-04,0
 223134,Q114968454,"El Paso, Nightmare",Abandoned,PC,,2022-10-25,0
@@ -934,6 +934,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 329865,Q135056277,Is This Seat Taken?,Abandoned,PC,,2025-08-07,0
 329954,,The Sims: Legacy Collection,Abandoned,PC,,2025-01-31,0
 329955,,The Sims 2: Legacy Collection,Abandoned,PC,,2025-01-31,0
+331202,,Darwin's Paradox!,Wanted,PC,,2026-04-02,0
 331206,Q132258158,Days Gone Remastered,Abandoned,PS5,2025-04-25,2025-04-25,0
 331215,Q132258586,Saros,Wanted,PS5,,2026-04-30,0
 333961,,Islanders: New Shores,Abandoned,PC,,2025-07-10,0
@@ -980,5 +981,6 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 389419,Q138237970,Kena: Scars of Kosmora,Wanted,PC,,2026-12-31,0
 389432,,Project Windless,Wanted,PS5,,4000-12-31,0
 389433,Q138239734,Metal Gear Solid Master Collection: Volume 2,Wanted,PC,,2026-08-27,0
+389434,Q138242796,Castlevania: Belmont's Curse,Wanted,PC,,2026-12-31,0
 389438,Q138240668,John Wick,Wanted,PC,,4000-12-31,0
 389441,Q138241591,God of War Trilogy Remake,Wanted,PS5,,4000-12-31,0
