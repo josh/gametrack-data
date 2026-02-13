@@ -778,6 +778,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 218277,Q115633684,Portal with RTX,Abandoned,PC,2022-12-08,2022-12-08,0
 218974,,Hitman: Absolution HD,Completed,XONE,,2019-01-11,7
 222341,Q114770599,Silent Hill 2,Completed,PC,2024-10-08,2024-10-08,6
+222342,Q138258621,Silent Hill: Townfall,Wanted,PC,,2026-12-31,0
 222343,Q114772020,Silent Hill f,Completed,PC,,2025-09-25,5
 222803,Q114858023,Age of Mythology: Retold,Abandoned,PC,,2024-09-04,0
 223134,Q114968454,"El Paso, Nightmare",Abandoned,PC,,2022-10-25,0
@@ -920,11 +921,10 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 325591,Q131435228,Elden Ring: Nightreign,Collection,PC,,2025-05-30,8
 325592,Q131541524,Catly,Wanted,PC,,4000-12-31,0
 325594,Q131433899,Split Fiction,Completed,PC,2025-03-03,2025-03-06,8
-325599,Q131436081,Stranger Than Heaven,Wanted,TBC,,4000-12-31,0
+325599,Q131436081,Stranger Than Heaven,Wanted,PC,,4000-12-31,0
 325600,Q131436091,Turok: Origins,Wanted,PC,,2026-12-31,0
 325602,Q131436104,Onimusha: Way of the Sword,Wanted,PC,,2026-12-31,0
 325609,Q131436199,Dispatch,Abandoned,PC,2025-10-22,2025-10-22,0
-325610,Q131436208,Okami Sequel,Wanted,TBC,,4000-12-31,0
 325611,Q131436227,Intergalactic: The Heretic Prophet,Wanted,PS5,,4000-12-31,0
 325646,Q131398426,Escape Simulator 2,Abandoned,PC,,2025-10-27,0
 326130,,Agatha Christie: Death on the Nile,Abandoned,PC,2025-06-14,2025-09-25,0
@@ -952,28 +952,33 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 348166,Q134739521,High on Life 2,Queued,PC,,2026-02-13,0
 348168,Q134739548,Resonance: A Plague Tale Legacy,Wanted,PC,,2026-12-31,0
 348175,Q134739728,Super Meat Boy 3D,Wanted,PC,,2026-12-31,0
-348180,Q134739750,Beast of Reincarnation,Wanted,PC,,2026-12-31,0
+348180,Q134739750,Beast of Reincarnation,Wanted,PC,,2026-08-04,0
 348187,,Grounded 2,Abandoned,PC,,2025-07-29,0
 348192,,Aphelion,Wanted,PC,,2026-12-31,0
 348217,Q134739929,Keeper,Abandoned,PC,2025-10-17,2025-10-17,0
 348220,Q134739948,Call of Duty: Black Ops 7,Abandoned,PC,2025-11-11,2025-11-14,0
 348330,,Forza Horizon 6,Wanted,PC,,2026-05-19,0
-349441,Q134881642,Silent Hill,Wanted,TBC,,4000-12-31,0
 349524,Q134992929,Peak,Abandoned,PC,,2025-06-16,0
 360141,,Heretic + Hexen,Abandoned,PC,,2025-08-07,0
 361880,,Zero Parades: For Dead Spies,Wanted,PC,,2026-12-31,0
-369987,Q136373808,Deus Ex Remastered,Wanted,PS5,,4000-12-31,0
+361893,Q135911289,Ghost of Yotei: Legends,Wanted,PS5,,2026-03-10,0
+369987,Q136373808,Deus Ex Remastered,Wanted,PC,,4000-12-31,0
 381202,,The Free Shepherd,Wanted,PC,,2027-12-31,0
 381203,Q137363260,Decrepit,Wanted,PC,,2026-12-31,0
 381205,Q137363843,No Law,Wanted,PC,,4000-12-31,0
 381211,Q137363289,Bradley The Badger,Wanted,PC,,4000-12-31,0
-381215,Q137363425,Star Wars: Fate of the Old Republic,Wanted,TBC,,4000-12-31,0
-381216,Q137363478,Divinity,Wanted,TBC,,4000-12-31,0
+381215,Q137363425,Star Wars: Fate of the Old Republic,Wanted,PC,,4000-12-31,0
+381216,Q137363478,Divinity,Wanted,PC,,4000-12-31,0
 381217,Q137364106,4:Loop,Wanted,PC,,4000-12-31,0
 381219,Q137363533,Ontos,Wanted,PC,,2026-12-31,0
 381222,,Order of the Sinking Star,Wanted,PC,,2026-12-31,0
-381227,Q137363586,Gang of Dragon,Wanted,TBC,,4000-12-31,0
+381227,Q137363586,Gang of Dragon,Wanted,PC,,4000-12-31,0
 381234,Q137363681,Tomb Raider: Catalyst,Wanted,PC,,2027-12-31,0
 381235,Q137363685,Tomb Raider: Legacy of Atlantis,Wanted,PC,,2026-12-31,0
 381248,Q137363888,Star Wars: Galactic Racer,Wanted,PC,,2026-12-31,0
 381250,Q137363920,Highguard,Abandoned,PC,2026-01-27,2026-01-26,0
+389419,Q138237970,Kena: Scars of Kosmora,Wanted,PC,,2026-12-31,0
+389432,,Project Windless,Wanted,PS5,,4000-12-31,0
+389433,Q138239734,Metal Gear Solid Master Collection: Volume 2,Wanted,PC,,2026-08-27,0
+389438,Q138240668,John Wick,Wanted,PC,,4000-12-31,0
+389441,Q138241591,God of War Trilogy Remake,Wanted,PS5,,4000-12-31,0
