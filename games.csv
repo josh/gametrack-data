@@ -707,12 +707,10 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 165346,Q77472508,Saints Row,Completed,Series X,2022-08-22,2022-08-23,6
 165351,Q108273566,Cult of the Lamb,Completed,PC,2022-08-14,2022-08-11,9
 167611,Q108416797,Alan Wake Remastered,Completed,XONE,,2021-10-04,5
-168665,Q108479033,Star Wars: Knights of the Old Republic - Remake,Wanted,PC,2023-06-12,4000-12-31,0
 168667,Q108479474,Marvel's Wolverine,Wanted,PS5,,2026-12-31,0
 168670,Q108482649,Uncharted: Legacy of Thieves Collection,Completed,PC,,2022-10-18,8
 171225,Q109328658,Wuchang: Fallen Feathers,Abandoned,PC,2025-07-22,2025-07-24,0
 172427,Q108670544,Kirby and the Forgotten Land,Completed,Switch,2022-04-01,2022-03-25,7
-178101,Q109520747,ConcernedApe's Haunted Chocolatier,Wanted,PC,,4000-12-31,0
 178123,,Grand Theft Auto III: The Definitive Edition,Abandoned,PC,,2021-11-11,0
 178125,Q109240477,Grand Theft Auto: Vice City - The Definitive Edition,Abandoned,PS5,,2021-11-11,0
 178126,Q109240155,Grand Theft Auto: San Andreas - The Definitive Edition,Completed,PS5,2021-11-10,2021-11-11,6
@@ -963,7 +961,6 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 360141,,Heretic + Hexen,Abandoned,PC,,2025-08-07,0
 361880,,Zero Parades: For Dead Spies,Wanted,PC,,2026-12-31,0
 361893,Q135911289,Ghost of Yotei: Legends,Wanted,PS5,,2026-03-10,0
-369987,Q136373808,Deus Ex Remastered,Wanted,PC,,4000-12-31,0
 381202,,The Free Shepherd,Wanted,PC,,2027-12-31,0
 381203,Q137363260,Decrepit,Wanted,PC,,2026-12-31,0
 381205,Q137363843,No Law,Wanted,PC,,4000-12-31,0
