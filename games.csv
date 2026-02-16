@@ -170,7 +170,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 1872,Q1200546,Descent,Abandoned,PC,2023-08-20,2014-02-11,0
 1877,Q3182559,Cyberpunk 2077,Completed,PC,2020-09-16,2020-12-10,9
 1880,Q5242331,Baldur's Gate: Enhanced Edition,Abandoned,PC,2023-08-20,2012-11-27,0
-1905,Q349375,Fortnite,Completed,PC,2020-11-11,2017-07-25,7
+1905,Q50822580,Fortnite,Completed,PC,2020-11-11,2017-07-25,7
 1936,Q2555753,Beyond Good & Evil 2,Wanted,PC,,4000-12-31,0
 1939,Q210275,Destiny,Abandoned,PS4,2014-09-08,2014-09-08,0
 1942,Q4267401,The Witcher 3: Wild Hunt,Completed,PC,2020-09-29,2015-05-18,9
@@ -437,7 +437,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 37059,Q37673361,Age of Empires: Definitive Edition,Abandoned,PC,,2018-02-19,0
 37062,Q30253211,Skull and Bones,Abandoned,PC,2024-02-08,2024-02-16,0
 37092,Q30612014,Hidden Agenda,Completed,PS4,,2017-10-23,6
-37094,Q846051,Shadow of the Colossus,Completed,PS4,2018-02-05,2018-02-06,5
+37094,Q47474153,Shadow of the Colossus,Completed,PS4,2018-02-05,2018-02-06,5
 37136,Q30749509,Metroid Prime 4: Beyond,Abandoned,Switch 2,2025-12-03,2025-12-04,0
 37777,Q50562677,Shadow of the Tomb Raider,Completed,PC,,2018-09-13,7
 45178,,Metal Gear Solid: Peace Walker - HD Edition,Queued,X360,2023-07-02,2011-11-08,0
@@ -445,7 +445,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 51528,Q62529754,Telling Lies,Completed,PC,,2019-08-22,4
 52189,Q23648408,Grand Theft Auto VI,Wanted,PS5,,2026-11-19,0
 52638,,Battlefield Hardline: Ultimate Edition,Abandoned,PC,2020-08-13,2015-03-17,0
-52642,,Battlefield 4: Premium Edition,Completed,PC,,2014-10-20,7
+52642,Q92203579,Battlefield 4: Premium Edition,Completed,PC,,2014-10-20,7
 52826,Q109690721,Skate.,Abandoned,PC,,4000-12-31,0
 53663,,Star Wars Battlefront: Ultimate Edition,Abandoned,PS4,2020-10-12,2015-11-16,0
 55029,Q134967367,Age of Empires IV,Abandoned,PC,2021-10-28,2021-10-28,6
@@ -851,11 +851,11 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 279624,Q123698935,Big Walk,Wanted,PC,2023-12-07,2026-12-31,0
 279627,Q123698954,No Rest for the Wicked,Completed,PC,2024-04-18,2024-04-18,5
 279635,Q123698969,The Casting of Frank Stone,Completed,PC,2023-12-07,2024-09-03,5
-279637,,OD: Knock,Wanted,Series X|S,,4000-12-31,0
+279637,Q123699004,OD: Knock,Wanted,Series X|S,,4000-12-31,0
 279641,Q123699054,Tales of Kenzera: Zau,Completed,PC,2023-12-07,2024-04-23,7
 279646,Q123699068,Marvel's Blade,Wanted,PC,,4000-12-31,0
 279649,Q123699101,Den of Wolves,Wanted,PC,,4000-12-31,0
-279655,,Light No Fire,Wanted,PC,,4000-12-31,0
+279655,Q123699121,Light No Fire,Wanted,PC,,4000-12-31,0
 279657,Q123785377,Final Fantasy XVI: Echoes of the Fallen,Completed,PS5,2023-12-08,2023-12-08,6
 279658,Q123785382,Final Fantasy XVI: The Rising Tide,Completed,PS5,2024-04-17,2024-04-18,6
 282831,Q124296459,The Blood of Dawnwalker,Wanted,PC,,2026-12-31,0
