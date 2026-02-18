@@ -3,10 +3,12 @@ import csv
 import datetime
 import json
 import os
+import plistlib
 import sqlite3
 import sys
 import urllib.parse
 import urllib.request
+import uuid
 from collections.abc import Iterable, Iterator
 from io import StringIO
 from pathlib import Path
@@ -51,31 +53,122 @@ GAME_STATUS_ENUM: dict[int, GAME_STATUS] = {
 RATINGS_ENUM = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 GAME_FIELDS = [
+    "uuid",
     "igdb_id",
     "wikidata_qid",
     "title",
-    "status",
-    "platform",
-    "added_date",
+    "summary",
+    "developer",
+    "publisher",
+    "poster_url",
+    "banner_url",
     "release_date",
+    "release_year",
+    "platforms",
+    "owned_platform",
+    "additional_platforms",
+    "status",
+    "game_state",
+    "completion_state",
+    "completion",
+    "priority",
+    "format",
     "user_rating",
+    "critic_rating",
+    "hours_played",
+    "additional_playtime",
+    "start_date",
+    "finish_date",
+    "added_date",
+    "notes",
+    "review",
+    "review_spoilers",
+    "time_to_beat_story",
+    "time_to_beat_extras",
+    "time_to_beat_complete",
+    "time_to_beat_type",
+    "steam_deck_status",
+    "genres",
 ]
 
 
+def _blob_to_uuid(blob: bytes | None) -> str:
+    if not blob or len(blob) != 16:
+        return ""
+    return str(uuid.UUID(bytes=blob)).upper()
+
+
+def _decode_nskeyed_array(data: bytes | None) -> list[str]:
+    if not data:
+        return []
+    try:
+        plist = plistlib.loads(data)
+        objects = plist.get("$objects", [])
+
+        root = objects[1] if len(objects) > 1 else {}
+
+        ns_objects = root.get("NS.objects", [])
+
+        result = []
+        for uid in ns_objects:
+            if hasattr(uid, "data"):
+                idx = uid.data
+                if idx < len(objects) and isinstance(objects[idx], str):
+                    result.append(objects[idx])
+
+        return result
+    except Exception:
+        return []
+
+
 class Game(TypedDict):
+    uuid: str
     igdb_id: int
     wikidata_qid: str
     title: str
-    status: GAME_STATUS
-    platform: str
-    added_date: str
-    release_year: int
+    summary: str
+    developer: str
+    publisher: str
+    poster_url: str
+    banner_url: str
     release_date: str
+    release_year: int
+    platforms: str
+    owned_platform: str
+    additional_platforms: str
+    status: GAME_STATUS
+    game_state: int
+    completion_state: int
+    completion: int
+    priority: int
+    format: int
     user_rating: int
+    critic_rating: int
+    hours_played: float
+    additional_playtime: float
+    start_date: str
+    finish_date: str
+    added_date: str
+    notes: str
+    review: str
+    review_spoilers: str
+    time_to_beat_story: float
+    time_to_beat_extras: float
+    time_to_beat_complete: float
+    time_to_beat_type: int
+    steam_deck_status: int
+    genres: str
 
 
 def _from_coredata_timestamp(timestamp: int | float) -> datetime.datetime:
-    return datetime.datetime.fromtimestamp(int(timestamp) + 978307200)
+    return datetime.datetime.fromtimestamp(
+        timestamp + 978307200, tz=datetime.timezone.utc
+    )
+
+
+def _format_timestamp(dt: datetime.datetime) -> str:
+    iso_str = dt.isoformat(timespec="milliseconds")
+    return iso_str.replace("+00:00", "Z")
 
 
 def _read_csv(filename: str) -> Iterator[Game]:
@@ -109,7 +202,7 @@ def _write_prom_metrics(f: TextIO, games: list[Game]) -> int:
     counts: dict[tuple[int, str, GAME_STATUS], int] = {}
     ratings: dict[tuple[int, int], int] = {}
 
-    platforms = sorted(game["platform"] for game in games)
+    platforms = sorted(game["owned_platform"] for game in games)
     years = sorted(game["release_year"] for game in games)
 
     for status in GAME_STATUS_ENUM.values():
@@ -121,7 +214,7 @@ def _write_prom_metrics(f: TextIO, games: list[Game]) -> int:
 
     for game in games:
         year = game["release_year"]
-        platform = game["platform"]
+        platform = game["owned_platform"]
         status = game["status"]
         counts[(year, platform, status)] += 1
         if user_rating := game["user_rating"]:
@@ -199,7 +292,41 @@ def _load_gametrack_games() -> Iterator[Game]:
     )
 
     rows = cursor.execute("""
-        SELECT ZGAMEID, ZTITLE, ZGAMESTATE, ZADDEDDATE, ZRELEASEDATE, ZUSERRATING, ZOWNEDPLATFORM
+        SELECT 
+            ZID,
+            ZGAMEID, 
+            ZTITLE, 
+            ZSUMMARY,
+            ZDEVELOPER,
+            ZPUBLISHER,
+            ZPOSTERURL,
+            ZBANNERURL,
+            ZRELEASEDATE,
+            ZRELEASEYEAR,
+            ZPLATFORMS,
+            ZOWNEDPLATFORM,
+            ZADDITIONALPLATFORMS,
+            ZGAMESTATE, 
+            ZCOMPLETIONSTATE,
+            ZCOMPLETION,
+            ZPRIORITY,
+            ZFORMAT,
+            ZUSERRATING,
+            ZCRITICRATING,
+            ZHOURSPLAYED,
+            ZADDITIONALPLAYTIME,
+            ZSTARTDATE,
+            ZFINISHDATE,
+            ZADDEDDATE, 
+            ZNOTES,
+            ZREVIEW,
+            ZREVIEWSPOILERS,
+            ZTIMETOBEATSTORY,
+            ZTIMETOBEATEXTRAS,
+            ZTIMETOBEATCOMPLETE,
+            ZTIMETOBEATTYPE,
+            ZSTEAMDECKSTATUS,
+            ZGENRES
         FROM ZGAME
         ORDER BY ZGAMEID ASC
     """)
@@ -207,49 +334,132 @@ def _load_gametrack_games() -> Iterator[Game]:
     for row in rows:
         assert isinstance(row["ZTITLE"], str)
         assert isinstance(row["ZGAMEID"], int)
-        assert (
-            row["ZADDEDDATE"] is None
-            or isinstance(row["ZADDEDDATE"], int)
-            or isinstance(row["ZADDEDDATE"], float)
-        )
-        assert row["ZRELEASEDATE"] is None or isinstance(row["ZRELEASEDATE"], int)
-        assert row["ZUSERRATING"] is None or isinstance(row["ZUSERRATING"], int)
-        assert row["ZOWNEDPLATFORM"] is None or isinstance(row["ZOWNEDPLATFORM"], str)
+
+        uuid_str = _blob_to_uuid(row["ZID"])
 
         igdb_id = row["ZGAMEID"]
         wikidata_qid = wikidata_items.get(igdb_id, "")
         title = row["ZTITLE"]
-        status = GAME_STATUS_ENUM[row["ZGAMESTATE"]]
-        platform = row["ZOWNEDPLATFORM"] or ""
+
+        summary = row["ZSUMMARY"] or ""
+        developer = row["ZDEVELOPER"] or ""
+        publisher = row["ZPUBLISHER"] or ""
+        poster_url = row["ZPOSTERURL"] or ""
+        banner_url = row["ZBANNERURL"] or ""
 
         release_date = ""
+        release_year = row["ZRELEASEYEAR"] if row["ZRELEASEYEAR"] else 0
         if row["ZRELEASEDATE"]:
             d = _from_coredata_timestamp(row["ZRELEASEDATE"])
-            release_date = d.strftime("%Y-%m-%d")
-            release_year = d.year
-        else:
-            release_date = ""
-            release_year = 0
+            release_date = _format_timestamp(d)
 
-        if row["ZADDEDDATE"]:
-            added_date = _from_coredata_timestamp(row["ZADDEDDATE"]).strftime(
-                "%Y-%m-%d"
-            )
-        else:
-            added_date = ""
+        platforms_list = _decode_nskeyed_array(row["ZPLATFORMS"])
+        platforms = "|".join(platforms_list)
+        owned_platform = row["ZOWNEDPLATFORM"] or ""
+        additional_platforms_list = _decode_nskeyed_array(row["ZADDITIONALPLATFORMS"])
+        additional_platforms = "|".join(additional_platforms_list)
 
+        status = GAME_STATUS_ENUM[row["ZGAMESTATE"]]
+        game_state = row["ZGAMESTATE"] if row["ZGAMESTATE"] is not None else 0
+        completion_state = (
+            row["ZCOMPLETIONSTATE"] if row["ZCOMPLETIONSTATE"] is not None else 0
+        )
+        completion = row["ZCOMPLETION"] if row["ZCOMPLETION"] is not None else 0
+
+        priority = row["ZPRIORITY"] if row["ZPRIORITY"] is not None else 0
+        format_val = row["ZFORMAT"] if row["ZFORMAT"] is not None else 0
         user_rating = row["ZUSERRATING"] if row["ZUSERRATING"] is not None else 0
+        critic_rating = row["ZCRITICRATING"] if row["ZCRITICRATING"] is not None else 0
+
+        hours_played = row["ZHOURSPLAYED"] if row["ZHOURSPLAYED"] is not None else 0.0
+        additional_playtime = (
+            row["ZADDITIONALPLAYTIME"]
+            if row["ZADDITIONALPLAYTIME"] is not None
+            else 0.0
+        )
+
+        start_date = ""
+        if row["ZSTARTDATE"]:
+            start_date = _format_timestamp(_from_coredata_timestamp(row["ZSTARTDATE"]))
+
+        finish_date = ""
+        if row["ZFINISHDATE"]:
+            finish_date = _format_timestamp(
+                _from_coredata_timestamp(row["ZFINISHDATE"])
+            )
+
+        added_date = ""
+        if row["ZADDEDDATE"]:
+            added_date = _format_timestamp(_from_coredata_timestamp(row["ZADDEDDATE"]))
+
+        notes = row["ZNOTES"] or ""
+        review = row["ZREVIEW"] or ""
+        review_spoilers_val = (
+            bool(row["ZREVIEWSPOILERS"])
+            if row["ZREVIEWSPOILERS"] is not None
+            else False
+        )
+        review_spoilers = "true" if review_spoilers_val else "false"
+
+        time_to_beat_story = (
+            row["ZTIMETOBEATSTORY"] if row["ZTIMETOBEATSTORY"] is not None else 0.0
+        )
+        time_to_beat_extras = (
+            row["ZTIMETOBEATEXTRAS"] if row["ZTIMETOBEATEXTRAS"] is not None else 0.0
+        )
+        time_to_beat_complete = (
+            row["ZTIMETOBEATCOMPLETE"]
+            if row["ZTIMETOBEATCOMPLETE"] is not None
+            else 0.0
+        )
+        time_to_beat_type = (
+            row["ZTIMETOBEATTYPE"] if row["ZTIMETOBEATTYPE"] is not None else 0
+        )
+
+        steam_deck_status = (
+            row["ZSTEAMDECKSTATUS"] if row["ZSTEAMDECKSTATUS"] is not None else 0
+        )
+
+        genres_list = _decode_nskeyed_array(row["ZGENRES"])
+        genres = "|".join(genres_list)
 
         yield {
+            "uuid": uuid_str,
             "igdb_id": igdb_id,
             "wikidata_qid": wikidata_qid,
             "title": title,
-            "status": status,
-            "platform": platform,
-            "added_date": added_date,
-            "release_year": release_year,
+            "summary": summary,
+            "developer": developer,
+            "publisher": publisher,
+            "poster_url": poster_url,
+            "banner_url": banner_url,
             "release_date": release_date,
+            "release_year": release_year,
+            "platforms": platforms,
+            "owned_platform": owned_platform,
+            "additional_platforms": additional_platforms,
+            "status": status,
+            "game_state": game_state,
+            "completion_state": completion_state,
+            "completion": completion,
+            "priority": priority,
+            "format": format_val,
             "user_rating": user_rating,
+            "critic_rating": critic_rating,
+            "hours_played": hours_played,
+            "additional_playtime": additional_playtime,
+            "start_date": start_date,
+            "finish_date": finish_date,
+            "added_date": added_date,
+            "notes": notes,
+            "review": review,
+            "review_spoilers": review_spoilers,
+            "time_to_beat_story": time_to_beat_story,
+            "time_to_beat_extras": time_to_beat_extras,
+            "time_to_beat_complete": time_to_beat_complete,
+            "time_to_beat_type": time_to_beat_type,
+            "steam_deck_status": steam_deck_status,
+            "genres": genres,
         }
 
     conn.close()
