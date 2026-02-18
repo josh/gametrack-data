@@ -352,6 +352,8 @@ def _load_gametrack_games() -> Iterator[Game]:
         if row["ZRELEASEDATE"]:
             d = _from_coredata_timestamp(row["ZRELEASEDATE"])
             release_date = _format_timestamp(d)
+            if release_year == 0:
+                release_year = d.year
 
         platforms_list = _decode_nskeyed_array(row["ZPLATFORMS"])
         platforms = "|".join(platforms_list)
