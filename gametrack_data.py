@@ -271,11 +271,6 @@ def _load_wikidata_items(igdb_ids: Iterable[int]) -> dict[int, str]:
         qid = row["item"]["value"].split("/")[-1]
         assert qid.startswith("Q")
         igdb_id = int(row["igdb_id"]["value"])
-        if igdb_id in results:
-            print(
-                f"WARN: Duplicate Wikidata items for IGDB ID {igdb_id}", file=sys.stderr
-            )
-
         results[igdb_id] = qid
 
     return results
