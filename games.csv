@@ -165,6 +165,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 1372,Q842146,Counter-Strike: Global Offensive,Abandoned,PC,,2012-08-20,0
 1381,Q618266,Payday: The Heist,Abandoned,PC,,2011-10-20,0
 1638,Q369086,GoldenEye 007,Completed,,1997-08-01,,10
+1848,,Tom Clancy's Rainbow Six 3: Athena Sword,Collection,PC,,2004-03-09,0
 1851,Q1442157,Tom Clancy's Rainbow Six: Lockdown,Abandoned,PC,,2006-02-15,0
 1853,Q1148672,Tom Clancy's Rainbow Six: Vegas 2,Abandoned,PC,,2008-03-17,0
 1872,Q1200546,Descent,Abandoned,PC,2023-08-20,2014-02-11,0
@@ -685,7 +686,7 @@ igdb_id,wikidata_qid,title,status,platform,added_date,release_date,user_rating
 152201,Q107208619,Mario + Rabbids Sparks of Hope,Completed,Switch,,2022-10-19,4
 152202,Q107208649,Avatar: Frontiers of Pandora,Completed,PC,2023-12-06,2023-12-07,6
 152242,Q107214641,A Plague Tale: Requiem,Completed,Series X,2022-10-17,2022-10-17,7
-152244,Q107215313,Replaced,Wanted,PC,,2026-03-12,0
+152244,Q107215313,Replaced,Wanted,PC,,2026-04-14,0
 152246,Q107214673,The Outer Worlds 2,Completed,PC,2024-12-12,2025-10-29,6
 152247,Q107214764,Redfall,Abandoned,PC,2023-05-01,2023-05-02,4
 152249,Q107214964,Marvel's Guardians of the Galaxy,Completed,Series X,2021-10-28,2021-10-26,8
