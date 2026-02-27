@@ -1,11 +1,14 @@
 import argparse
 import csv
 import datetime
+import http
 import json
 import os
 import plistlib
 import sqlite3
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import uuid
@@ -246,6 +249,24 @@ SELECT ?item ?igdb_id WHERE {
 }
 """
 
+_WIKIDATA_MAX_RETRIES = 5
+_WIKIDATA_RETRY_BACKOFF_SECONDS = 2
+
+
+def _should_retry_wikidata_request(error: Exception) -> bool:
+    if isinstance(error, TimeoutError):
+        return True
+
+    if isinstance(error, urllib.error.HTTPError):
+        return (
+            error.code == http.HTTPStatus.TOO_MANY_REQUESTS or 500 <= error.code < 600
+        )
+
+    if isinstance(error, urllib.error.URLError):
+        return True
+
+    return False
+
 
 def _load_wikidata_items(igdb_ids: Iterable[int]) -> dict[int, str]:
     igdb_ids_str = " ".join(f'"{igdb_id}"' for igdb_id in igdb_ids)
@@ -263,8 +284,24 @@ def _load_wikidata_items(igdb_ids: Iterable[int]) -> dict[int, str]:
         },
     )
 
-    with urllib.request.urlopen(req, timeout=60) as response:
-        data = json.load(response)
+    for attempt in range(1, _WIKIDATA_MAX_RETRIES + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as response:
+                data = json.load(response)
+            break
+        except Exception as error:
+            if attempt == _WIKIDATA_MAX_RETRIES or not _should_retry_wikidata_request(
+                error
+            ):
+                raise
+
+            wait_seconds = _WIKIDATA_RETRY_BACKOFF_SECONDS ** (attempt - 1)
+            print(
+                "Wikidata request failed, retrying "
+                f"({attempt}/{_WIKIDATA_MAX_RETRIES}) in {wait_seconds}s: {error}",
+                file=sys.stderr,
+            )
+            time.sleep(wait_seconds)
 
     results: dict[int, str] = {}
     for row in data["results"]["bindings"]:
