@@ -24,7 +24,7 @@ scripts.gametrack-data = "gametrack_data:main"
 
 [dependency-groups]
 dev = [
-    "mypy>=1.20.0,<2",
+    "mypy>=1,<2",
     "ruff>=0.4,<2",
 ]
 
