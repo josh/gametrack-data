@@ -29,9 +29,11 @@ GAMEDATA_PATH = (
     / "GameData.sqlite"
 )
 
-TBA_RELEASE_DATE = datetime.datetime(4000, 12, 31, 16, 0, 0)
+TBA_RELEASE_DATE = datetime.datetime(
+    4000, 12, 31, 16, 0, 0, tzinfo=datetime.timezone.utc
+)
 
-CORE_DATA_EPOCH = datetime.datetime(2001, 1, 1)
+CORE_DATA_EPOCH = datetime.datetime(2001, 1, 1, tzinfo=datetime.timezone.utc)
 
 WIKIDATA_USER_AGENT = "gametrack-data (https://github.com/josh/gametrack-data)"
 
@@ -120,7 +122,7 @@ def _decode_nskeyed_array(data: bytes | None) -> list[str]:
                     result.append(objects[idx])
 
         return result
-    except Exception:
+    except Exception:  # noqa: BLE001 -- any malformed plist decodes to no values
         return []
 
 
@@ -163,7 +165,7 @@ class Game(TypedDict):
     genres: str
 
 
-def _from_coredata_timestamp(timestamp: int | float) -> datetime.datetime:
+def _from_coredata_timestamp(timestamp: float) -> datetime.datetime:
     return datetime.datetime.fromtimestamp(
         timestamp + 978307200, tz=datetime.timezone.utc
     )
@@ -262,10 +264,7 @@ def _should_retry_wikidata_request(error: Exception) -> bool:
             error.code == http.HTTPStatus.TOO_MANY_REQUESTS or 500 <= error.code < 600
         )
 
-    if isinstance(error, urllib.error.URLError):
-        return True
-
-    return False
+    return isinstance(error, urllib.error.URLError)
 
 
 def _load_wikidata_items(igdb_ids: Iterable[int]) -> dict[int, str]:
@@ -735,7 +734,7 @@ def main() -> None:
                 _write_prom_metrics(f, games)
         exitcode = 0
 
-        exit(exitcode)
+        sys.exit(exitcode)
 
     elif command == "export":
         github_repo: str | None = getattr(args, "gh_repo", None) or os.environ.get(
@@ -767,7 +766,7 @@ def main() -> None:
             )
             exitcode = 0
 
-        exit(exitcode)
+        sys.exit(exitcode)
 
     else:
         parser.print_help()
