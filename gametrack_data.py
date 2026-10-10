@@ -29,11 +29,9 @@ GAMEDATA_PATH = (
     / "GameData.sqlite"
 )
 
-TBA_RELEASE_DATE = datetime.datetime(
-    4000, 12, 31, 16, 0, 0, tzinfo=datetime.timezone.utc
-)
+TBA_RELEASE_DATE = datetime.datetime(4000, 12, 31, 16, 0, 0, tzinfo=datetime.UTC)
 
-CORE_DATA_EPOCH = datetime.datetime(2001, 1, 1, tzinfo=datetime.timezone.utc)
+CORE_DATA_EPOCH = datetime.datetime(2001, 1, 1, tzinfo=datetime.UTC)
 
 WIKIDATA_USER_AGENT = "gametrack-data (https://github.com/josh/gametrack-data)"
 
@@ -166,9 +164,7 @@ class Game(TypedDict):
 
 
 def _from_coredata_timestamp(timestamp: float) -> datetime.datetime:
-    return datetime.datetime.fromtimestamp(
-        timestamp + 978307200, tz=datetime.timezone.utc
-    )
+    return datetime.datetime.fromtimestamp(timestamp + 978307200, tz=datetime.UTC)
 
 
 def _format_timestamp(dt: datetime.datetime) -> str:
